@@ -280,6 +280,26 @@ s[3905] = "<Player> got fired up and jumped out！"
 ; SkillEffectProcessRankUp@Evaluate
 s[3970] = "<Player> has Ranked Up！"
 
+; AdditionalDamage@Name::get
+s[3885] = "Special Move Effect"
+s[3886] = "Attribute Effect"
+s[3887] = "Species Effect"
+s[3888] = "Combo Effect"
+s[3889] = "Status Effect"
+s[3890] = "Unknown Effect"
+
+; DamageInformation@GuardReasonText::get
+s[3891] = "Limit Break"
+s[3892] = "Element Nullification"
+s[3893] = "Demon's Invincible Barrier"
+s[174]  = "Unknown"
+
+; DamageInformation@GuardReasonText::get
+s[3891] = "Limit Break"
+s[3892] = "Element Nullification"
+s[3893] = "Demon's Invincible Barrier"
+s[174]  = "Unknown"
+
 s[12435] = "Phys Def １"
 s[12437] = "Phys Def １＋"
 s[12446] = "Phys Def ２"
