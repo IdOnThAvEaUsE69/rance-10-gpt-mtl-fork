@@ -86,7 +86,7 @@ table クエスト情報 = {
     {221,"ヘルマン２",10,"G-Op: Slay Demon Helman 2","Defeat Demon Kesselring","　　★　Difficulty ＵＰ","　Strong　Party(Helman)　Elem(Fire　Dark)","　Reward　　　Battle Results",2,1,3,1,5,"ヘルマン",1},
     {222,"ヘルマン３",10,"Op: Free Helman","Defeat Demon General Lumei, liberate Helman","","　Strong　Party(Helman)　Elem(Thunder　Ice)","　Reward　　　Battle Results",2,1,3,3,2,"ヘルマン",1},
     {230,"ゼス１",10,"G-Op: Slay Demon Zeth","Defeat Demon Galtia","　　★　Difficulty ＵＰ","　Strong　Party(Zeth)　Elem(Fire　Dark)","　Reward　　　Battle Results",3,1,4,1,5,"ゼス",1},
-    {231,"ゼス２",10,"G-Op: Slay Demon Zeth 2","Defeat Demon Medius","　　★　Difficulty ＵＰ","　Strong　Party(Zeth)　Elem(Thunder　Light)","　Reward　　　Battle Results",3,1,4,3,4,"ゼス",1},
+    {231,"ゼス２",10,"G-Op: Slay Demon Zeth 2","Defeat Demon Medusa","　　★　Difficulty ＵＰ","　Strong　Party(Zeth)　Elem(Thunder　Light)","　Reward　　　Battle Results",3,1,4,3,4,"ゼス",1},
     {232,"ゼス３",10,"Op: Free Zeth","Defeat Demon General Tsoton, liberate Zeth","","　Strong　Party(Zeth)　Elem(Fire　Dark)","　Reward　　　Battle Results",3,1,4,1,5,"ゼス",1},
     {240,"自由都市１",10,"G-Op: Slay Demon Free Cities","Defeat Demon Ray","　　★　Difficulty ＵＰ","　Strong　Party(Free Cities)　Elem(Ice　Light)","　Reward　　　Battle Results",4,1,5,2,4,"自由都市",1},
     {241,"自由都市２",10,"G-Op: Slay Demon Free Cities 2","Defeat Demon Piarl","　　★　Difficulty ＵＰ","　Strong　Party(Free Cities)　Elem(Ice　Dark)","　Reward　　　Battle Results",4,1,5,2,5,"自由都市",1},

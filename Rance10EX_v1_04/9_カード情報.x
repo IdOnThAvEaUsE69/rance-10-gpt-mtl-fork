@@ -10318,7 +10318,7 @@ tree カード情報 = {
 	},
 	メディウサメダル = {
 		説明１ = "PRoof of defeating",
-		説明２ = "bRutal demon Medius",
+		説明２ = "bRutal demon Medusa",
 		説明３ = "",
 	},
 	レイメダル = {
