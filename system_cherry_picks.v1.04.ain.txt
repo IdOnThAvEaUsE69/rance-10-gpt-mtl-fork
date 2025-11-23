@@ -305,6 +305,10 @@ s[12437] = "Phys Def １＋"
 s[12446] = "Phys Def ２"
 s[12454] = "Phys Def ３"
 s[12540] = "Ambush"
+s[12395] = "Supply MonsteRs"
+s[12393] = "Magic MonsteRs"
+s[12391] = "Ranged MonsteRs"
+s[12389] = "Assault MonsteRs"
 
 
 ; SkillEffectExecuter@InnerProcess
