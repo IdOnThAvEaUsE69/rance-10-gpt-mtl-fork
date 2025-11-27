@@ -33,7 +33,7 @@ tree 秘書データ = {
 			"Quest clear!\n Congratulations!"
 		},
 		クエストアウト = (list) {
-			"Don't worRy, don't worRy,\n just keep moving forward"
+			"Don't worry, don't worry,\n just keep moving forward"
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
 			"This is Read as ‘Game Over'"
@@ -233,7 +233,7 @@ tree 秘書データ = {
 		},
 		地域 = (list) {
 			"＜ケイブニャン＞ Operation here, nya?rr＜ケイブワン＞ Well, fine I guess",
-			"条件＜地域奪還＞　＜ケイブニャン＞ GrR…\n those humans…rr＜ケイブワン＞ The demons' defeat is so sad, woof",
+			"条件＜地域奪還＞　＜ケイブニャン＞ Grr…\n those humans…rr＜ケイブワン＞ The demons' defeat is so sad, woof",
 			"条件＜地域危機＞　＜ケイブニャン＞ Demon army, do your best, nya!rr＜ケイブワン＞ Hehe, almost complete occupation",
 			"条件＜地域滅亡＞　＜ケイブニャン＞ We did it, demon army victory,\n nya rr＜ケイブワン＞ Hehe, good job everyone, woof"
 		},
@@ -270,10 +270,10 @@ tree 秘書データ = {
 			"Follow Satella!",
 			"Move briskly!",
 			"Keep advancing!",
-			"HurRy up, move forward!"
+			"Hurry up, move forward!"
 		},
 		挨拶 = (list) {
-			"Seriously!\n Making Satella your secretary!?\n How arRogant!",
+			"Seriously!\n Making Satella your secretary!?\n How arrogant!",
 			"Hmph, I'll take care of you.\n Be grateful.",
 			"Uh, what does a secretary even do?"
 		},
@@ -381,7 +381,7 @@ tree 秘書データ = {
 			"条件＜第１タ-ン＞　The last battle was splendid, Lord Rance.\n What shall we do next?",
 			"条件＜第２タ-ン＞　The demon extermination operation begins…\n which demon will you fight, Lord Rance?",
 			"条件＜第８タ-ン砦＞　Rance Castle was taken, but we haven't lost yet.\n Let's Restart and keep fighting.",
-			"条件＜第８タ-ン飛ぶ＞　Dragon Cantel will carRy us anywhere.\n Lord Rance, where to?",
+			"条件＜第８タ-ン飛ぶ＞　Dragon Cantel will carry us anywhere.\n Lord Rance, where to?",
 			"条件＜第８タ-ン＞　Rance Castle was taken, but we haven't lost yet.\n Let's Restart and keep fighting.",
 			"条件＜ランス城は上陸地点＞　 Finally, the battle with Kayblis.\n Lord Rance, I'll stay with you always…",
 			"条件＜第１２タ-ン＞　We need to settle things with the demon army soon…\n this could get bad…\n Lord Rance, do you have any ideas?"
@@ -400,7 +400,7 @@ tree 秘書データ = {
 		},
 		食券 = (list) {
 			"Ah, we have meal tickets.\n Who shall we deepen ties with?",
-			"Please select someone.\n Ah, you can also carRy over tickets to the next phase.",
+			"Please select someone.\n Ah, you can also carry over tickets to the next phase.",
 			"Let's peek into everyone's lives a bit.",
 			"条件＜ランス発生中＞　Ah, Lord Rance is here.",
 			"条件＜シィル発生中＞　Ah, I'm here too…\n just kidding…",
@@ -423,7 +423,7 @@ tree 秘書データ = {
 			"Lord Rance...\n are you thinking of something?",
 			"If we'Re waiting, how about a game of shogi?",
 			"What in the world...\n no, Lord Rance surely has a deep plan...",
-			"Ah yes, this is a photo for my daughter's arRanged marRiage...",
+			"Ah yes, this is a photo for my daughter's arranged marriage...",
 			"Reminds me of the old days...\n yes, that was...",
 			"条件＜部隊ボ-ナス有り＞　A good chance to use the unit bonus.\n Please check it.",
 			"条件＜ＨＰ５０％以下＞　Lord Rance, danger is near.\n Let's Reorganize."
@@ -481,8 +481,8 @@ tree 秘書データ = {
 		},
 		地域 = (list) {
 			"This land seems troubled.\n Shall we head there?",
-			"Let's confirm the curRent situation...\n hmm, hmm...",
-			"条件＜リ-ザス＞　Hm...\n the curRent state of our kingdom...",
+			"Let's confirm the current situation...\n hmm, hmm...",
+			"条件＜リ-ザス＞　Hm...\n the current state of our kingdom...",
 			"条件＜地域奪還＞　There are no strong enemies here anymore.",
 			"条件＜地域滅亡＞　Lord Rance...\n this place is already..."
 		},
@@ -562,7 +562,7 @@ tree 秘書データ = {
 		},
 		地域 = (list) {
 			"You wish to visit this area?",
-			"Here is the curRent status of this Region.",
+			"Here is the current status of this Region.",
 			"条件＜地域奪還＞　Reports say no abnormalities in this Region.",
 			"条件＜地域滅亡＞　..................\n Please abandon this area."
 		},
@@ -589,7 +589,7 @@ tree 秘書データ = {
 			"Hm?\n Taking a break?",
 			"Let's drink some tea and Relax.",
 			"If you'Re tired, take a break♪",
-			"Are you worRied about something?",
+			"Are you worried about something?",
 			"Hungry?\n Want some sweets?",
 			"Haaah, fEls so Relaxed♪",
 			"So chill♪ So chill♪",
@@ -662,7 +662,7 @@ tree 秘書データ = {
 			"＜ナギ＞ I'm getting hungry!",
 			"＜ナギ＞ Uuuh, getting sleepy...",
 			"＜ナギ＞ Aren't we going?",
-			"＜志津香＞ What are you worRying about?",
+			"＜志津香＞ What are you worrying about?",
 			"＜志津香＞ ...Not going?",
 			"＜志津香＞ If you'Re tired, take a proper break.",
 			"＜志津香＞ If you'Re unsure, save your progress.",
@@ -686,7 +686,7 @@ tree 秘書データ = {
 			"＜ナギ＞ Yay, cleared!rr＜志津香＞ Whew, good work..."
 		},
 		クエストアウト = (list) {
-			"＜ナギ＞ Don't worRy about it!rr＜志津香＞ We'll try again next time."
+			"＜ナギ＞ Don't worry about it!rr＜志津香＞ We'll try again next time."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
 			"＜ナギ＞ Ah...rr＜志津香＞ So this is as far as we go..."
@@ -744,7 +744,7 @@ tree 秘書データ = {
 		待ち会話 = (list) {
 			"What's wrong, partner?\n Got something on your mind?",
 			"Hey, partner!\n Let's move already!",
-			"If you'Re worRied, talk to me!",
+			"If you'Re worried, talk to me!",
 			"Want to organize the party?",
 			"...Hungry or something?",
 			"I'm bored, let's go already!",
@@ -816,7 +816,7 @@ tree 秘書データ = {
 			"Are you eating properly?",
 			"...I'm bored.",
 			"If we'Re taking a break, I'll nap for a bit.",
-			"Are you worRied about something?",
+			"Are you worried about something?",
 			"条件＜部隊ボ-ナス有り＞　Oh?\n There's a unit bonus available-don't let it go to waste.",
 			"条件＜ＨＰ５０％以下＞　Oh?\n Your stamina's quite low.\n You should prioritize healing."
 		},
