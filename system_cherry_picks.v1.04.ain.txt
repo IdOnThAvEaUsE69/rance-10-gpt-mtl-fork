@@ -41,6 +41,49 @@ s[3080] = "Character Events"
 s[2837] = "Squad"
 s[3026] = "The squad can't be empty."
 
+; AssistantMessageView@SetText
+s[2527] = "\r"
+s[2527] = "\r"
+
+;s[2614] = "擬態カード情報.%s.説明"
+s[2527] = "\r"
+
+;s[2616] = "シス／カード／スキル／%s"
+s[2527] = "\r"
+
+;s[3072] = "シス／キャラ詳細／スキル／%s"
+;s[3073] = "SkillName"
+;s[2565] = "Desc"
+s[2527] = "\r"
+
+; SkillDescriptionView@0
+;s[3309] = "Game/Battle/SkillDescriptionView"
+;s[2673] = "Name"
+;s[2565] = "Desc"
+s[2527] = "\r"
+
+;s[2604] = "Icon"
+;s[3313] = "RoundBase"
+;s[2565] = "Desc"
+s[2527] = "\r"
+
+; BadConditionDescView@0
+;s[3336] = "Game/Battle/BadCondition/BadConditionDescView"
+;s[3250] = "Type"
+;s[2565] = "Desc"
+s[2527] = "\r"
+
+; LargeSkillButton@<lambda : LargeSkillButton@InitParts()(126, 50)>
+;s[2459] = "Button"
+;s[2565] = "Desc"
+s[2527] = "\r"
+
+; AegisEffect@Name::get
+s[2527] = "\r"
+
+; AegisEffect@Name::get
+s[2527] = "\r"
+
 ; LocalSave::GetCurrentGameStateComment
 s[4242] = "Prologue"
 s[4243] = "Turn Top"
