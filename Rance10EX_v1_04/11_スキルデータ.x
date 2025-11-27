@@ -546,7 +546,7 @@ table スキルデータ = {
     { 1183,"magic square 2",1,7,"",3,100,60,0,0,0,0,0,"",0,0,"Support placementr {   Magic square   }++" },
     { 2090,"物理陣",1,7,"",1,100,60,0,0,0,0,0,"",0,0,"支援配置r　{ 物理陣 }" },
     { 2091,"物理陣２",1,7,"",3,100,60,0,0,0,0,0,"",0,0,"支援配置r　{ 物理陣 }++" },
-    { 1185,"Magic square 1+",1,7,"",1,100,60,0,0,0,0,0,"",0,0,"Support placementr {   Magic square   }r {   Shizuka?    }" },
+    { 1185,"Magic square 1+",1,7,"",1,100,60,0,0,0,0,0,"",0,0,"Support placement \r { Magic square } \r { Shizuka? }" },
     { 1184,"Magic square 1+",1,7,"",1,100,60,0,0,0,0,0,"",0,0,"Support placement \r {   Magic Square   } \r {   Nagi?   }" },
     { 1339,"Assembling weapons",1,7,"",1,100,60,0,0,0,0,0,"",0,0,"Support Deployment \r {   Weapon Assembly   }" },
     { 1336,"Mana Battery",1,7,"",4,100,60,0,0,0,0,0,"",0,0,"Support Placement \r {   Mana Battery   }" },
