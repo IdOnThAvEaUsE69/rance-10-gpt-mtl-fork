@@ -1010,7 +1010,7 @@ table スキルデータ = {
     { 2005,"effect",20,0,"",0,100,107,500000,0,0,0,0,"",0,0,"Damage below 500,000 becomes \r perfect defense" },
     { 2006,"effect",20,0,"",0,100,107,1000000,0,0,0,0,"",0,0,"Damage below 1 million is \r perfect defense" },
     { 2007,"effect",20,0,"",0,100,107,2000000,0,0,0,0,"",0,0,"Damage below 2 million is \r perfect defense" },
-    { 1300,"effect",20,0,"",0,100,122,1,0,0,0,0,"",0,0,"Completely protects against damage \r Chaos, can be Removed by sunlight r" },
+    { 1300,"effect",20,0,"",0,100,122,1,0,0,0,0,"",0,0,"Completely protects against damage \r Can be removed by Chaos/Nikkou" },
     { 1307,"effect",20,0,"",0,100,110,1,0,0,0,0,"",0,0,"Avoid attacks" },
     { 1309,"effect",20,0,"",0,100,110,2,0,0,0,0,"",0,0,"Evade attacks (Ranged)" },
     { 2058,"effect",20,0,"",0,100,110,3,0,0,0,0,"",0,0,"The magic doesn't work" },
