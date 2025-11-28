@@ -899,14 +899,12 @@ s[8261] = "They don't look like bad guys."
 s[8262] = "Okay, I'll be careful."
 
 ; 601/Dosswassu appears/finishes
-s[4847] = "Slash"
 s[8264] = "Just because"
 s[8265] = "My body just moved on its own..."
 s[8266] = "So refreshing!"
 
 ; 601/Arrives at the village
 s[8111] = "Dosswassu is there"
-s[5073] = "Crackling sound"
 s[6183] = "Bandit A"
 s[6184] = "Bandit B"
 s[7083] = "Bandit C"
@@ -937,16 +935,13 @@ s[8285] = "Let's enter the labyrinth"
 s[8286] = "I'll protect you"
 s[8287] = "Are you scared?"
 s[8288] = "You can go home now"
-s[7384] = "Pee pee pee pee"
 
 ; 601 / Rocky / Before Battle
 s[8292] = "Help"
 s[8293] = "Stare intently"
 s[8294] = "See you again someday!"
-s[7377] = "Pop"
 
 ; 601 / Rocky / After Battle
-s[4710] = "Bump"
 s[8298] = "Treat injuries"
 s[8299] = "Leave him alone"
 s[8300] = "Finish him off"
@@ -956,7 +951,6 @@ s[8304] = "Tell him I'm the Demon King's child."
 s[8306] = "I look forward to working with you."
 s[8307] = "Go home."
 s[8308] = "Put shaved ice on his head."
-s[6984] = "Shocked."
 
 ; Talk to 601/Rocky
 s[8309] = "That's true."
@@ -973,19 +967,14 @@ s[8318] = "Attack."
 ; 601/Nagata flees
 s[8319] = "Let's go ahead by ourselves."
 s[8320] = "Let's search a little more."
-s[6970] = "…………."
 
 ; 601/Nagata rescues
-s[5127] = "Ready sword"
 s[8321] = "Drop weapon"
 s[8322] = "Try to persuade him somehow"
 s[8323] = "Split Nagata"
-s[6831] = "Teasing, taunting"
-s[4899] = "Pee"
 s[8324] = "Extend hand"
 s[8325] = "Accuse Nagata"
 s[8326] = "Punch head"
-s[4834] = "Sniff"
 
 ; 601/Lance Jr./Pre-battle
 s[8327] = "Let's defeat the Demon King together."
@@ -995,7 +984,6 @@ s[8329] = "Let's be friends, bro."
 s[4979] = "Fall down"
 s[8332] = "The man claiming to be the Demon King's son"
 s[8333] = "Grrr!"
-s[4787] = "Kick"
 
 ; 601 / Epilogue
 s[8334] = "Yeah, that's right!"
@@ -1017,13 +1005,7 @@ s[8355] = "The Honorable Princess"
 s[8356] = "The Incompetent Queen"
 s[8361] = "The Silent Pope"
 
-; 610 / General Tiger / Before the Battle
-s[5543] = "A Man's Voice"
-s[4932] = "Stab"
-s[5652] = "Earthquake"
-
 ; 610 / General Tiger / After the Battle
-s[5782] = "The Giant Falls"
 s[8366] = "Heal"
 
 ; 610 / The Gate Disappears
@@ -1031,7 +1013,6 @@ s[8367] = "Uzume is here"
 s[8369] = "Motonari is here"
 s[8139] = "Fukane is there."
 s[8370] = "Put the last orb in place."
-s[4885] = "Earthquake."
 s[8372] = "It was fun."
 s[8373] = "It was a pain."
 s[8374] = "I don't really get it."
@@ -1047,10 +1028,6 @@ s[8380] = "I don't think anything of it."
 ; 610 / Monster Captain 1
 s[8387] = "The voice of a violent monster."
 s[8394] = "Let's retreat for now."
-s[4843] = "One step."
-
-; 610 / Hauser / Before the battle
-s[5602] = "Bang"
 
 ; 610 / Demon DD / Before the battle
 s[8395] = "Go inside"
@@ -1062,15 +1039,6 @@ s[8400] = "Let's rest for now"
 
 ; 610 / Demon Satera / Before the battle
 s[8401] = "SX Stone Guardian"
-s[5018] = "Big explosion"
-
-; 610 / Demon Satera / After the battle
-s[5708] = "White destructive ray"
-s[4630] = "Hug"
-s[4736] = "Bow and arrow"
-
-; 610 / Meanwhile, the mothers 2
-s[5653] = "Collapse"
 
 ; 610 / Emergency meeting
 s[8404] = "I agree with Zans's opinion"
@@ -1078,8 +1046,6 @@ s[8405] = "I agree with Ran'gi's opinion"
 s[8406] = "I agree with both of their opinions"
 
 ; 610 / Numerous Battles
-s[7807] = "Divine Punishment"
-s[4788] = "Hit Hard"
 s[8407] = "Let's Take a Break"
 s[8408] = "It's Okay, Let's Do Our Best"
 s[8409] = "Don't Worry"
@@ -1087,24 +1053,13 @@ s[8138] = "Pat on the Head"
 
 ; 610 / Ray and Arms
 s[8127] = "Sword Fight"
-s[5066] = "Draw Sword"
 s[8413] = "I Will Defeat the Demon King"
-s[5047] = "Lightning Strike"
-
-; 610 / Reset Around That Time
-s[4725] = "Clothes Rubbing Against Each Other"
-
-; 610 / Demon Rizna
-s[5487] = "Heart"
-s[5275] = "Indigo Destructive Ray"
 
 ; 610 / Kidnapped Children
 s[8421] = "Someone's Voice"
 s[8422] = "Good morning..."
 s[8423] = "Where am I?"
 s[8424] = "Nagata-kun?"
-s[4958] = "Special Move"
-s[6076] = "Wall Destruction"
 
 ; 610 / Lance's Room
 s[5051] = "Lightning Strike"
@@ -1116,7 +1071,6 @@ s[8428] = "But let's run away anyway."
 s[8429] = "Overpowering the Demon King"
 s[8431] = "Refuse"
 s[8432] = "...Nod"
-s[6509] = "Shock"
 
 ; 610/Quelplan Appears
 s[4750] = "Female Voice"
@@ -1145,7 +1099,6 @@ s[8455] = "I want to win this time."
 s[8456] = "I don't want to give up."
 s[8457] = "If we get stronger, we can win."
 s[8458] = "Doesn't Relikov want to win?"
-s[4786] = "Heh!"
 s[8459] = "If we work together properly, we can win."
 s[8460] = "We can win."
 s[8461] = "Princess Matsushita is there."
@@ -1187,18 +1140,10 @@ s[8501] = "Best Friend Sushinu"
 s[8503] = "Best Friend Motonari"
 s[8504] = "Best Friend Relikov"
 
-; 611 / Solo 3
-s[5006] = "Comical Fall"
-s[4632] = "Grab"
-s[4659] = "Sword Draw"
-
 ; 611 / Other Pairs Around That Time
-s[5323] = "Warm"
 s[8510] = "Old Lady at the Teahouse"
 
 ; 611 / King of the Underworld / Pre-Battle
-s[5208] = "Mysterious Voice"
-s[6132] = "Butt Slip"
 s[8511] = "Honey-chan Entourage A"
 s[8512] = "Honey-chan Entourage B"
 s[8513] = "Honey-chan Entourage C"
@@ -1333,43 +1278,29 @@ s[8671] = "This is the Final Battle!"
 
 ; 612 / Slap after Timeout
 s[8675] = "Jump Forward"
-s[4626] = "Run Away"
 s[8676] = "Jump Back"
 s[8677] = "Block"
 s[8678] = "Bounce"
-s[4952] = "Wind Noise"
 s[8679] = "Crouch"
 s[8680] = "Jump Forward"
 s[8681] = "Hide in the Shadow of the Ice Sculpture"
 
-; 612 / Sill Returns
-s[4201] = "Warp"
-s[5094] = "Mirror Breaks"
-
 ; 613 / Lance and the Children
-s[7186] = "Golden Bowl"
 s[8695] = "Pulling Nagata's Cheeks"
 
 ; 613 / Future Strategies
 s[8698] = "Something's Coming..."
-
-; 613 / Quelplan / After the Battle
-s[4879] = "Roar"
 
 ; 613 / Lance Charges In
 s[8703] = "Could it be to let us escape?"
 
 ; 613 / Demonic Blood Soul Lance
 s[8704] = "...Are you suffering?"
-s[5003] = "Gas Eruption"
-s[5709] = "Blood Splash"
 s[8708] = "I Don't Know"
 s[8709] = "Let's Ask Father"
 s[8710] = "Let's Evacuate"
 s[8711] = "Let's Go Check on the Situation"
-s[5819] = "The Bell of the End"
 s[8714] = "Heartbeat"
-s[5257] = "Spatial Expansion"
 
 ; 613 / Demonic Blood Soul / After Battle
 s[8731] = "Maybe..."
@@ -1409,14 +1340,11 @@ s[8761] = "I'll try to get closer."
 s[8762] = "I'll put Nagata in front."
 
 ; 602 / Arms Encounter 1
-s[4869] = "Windy Wind"
 s[8763] = "Yeah, that's impressive."
 s[8764] = "This is nothing."
-s[4978] = "Strikes and Misses"
 s[8766] = "Yeah, she's really beautiful."
 s[8767] = "Me too."
 s[8768] = "Let's go help."
-s[5022] = "Flapping Wings"
 
 ; 602 / Arms Encounter 2
 s[8769] = "That was easy."
@@ -1435,9 +1363,6 @@ s[8781] = "Please become my subordinate if you like."
 s[8782] = "Try pushing it."
 s[8783] = "Pizza delivery!"
 s[8784] = "Show me your lockpicking skills."
-
-; 602 / Mukuro and Caesar
-s[4947] = "One giant step."
 
 ; 602 / Nikko and Arms
 s[8788] = "I forgot."
@@ -1492,7 +1417,6 @@ s[8826] = "We'll meet again someday."
 s[8827] = "Sit in a chair."
 s[8828] = "Sit in the air."
 s[8830] = "Let's eat for now."
-s[5387] = "I'm hungry."
 
 ; 603 / Reset Topic
 s[8832] = "Easy win."
@@ -1527,11 +1451,8 @@ s[8857] = "I'm looking forward to it"
 s[8862] = "See you later"
 
 ; 603 / The Demon King and Shizuka
-s[4689] = "Murmuring"
-s[4724] = "Running around"
 s[8864] = "Let's go to the Demon King"
 s[8866] = "Let's run away"
-s[4823] = "Close the door"
 s[8867] = "I'm curious, so I'll take a look"
 s[8868] = "Leave as instructed"
 
@@ -1562,7 +1483,6 @@ s[8897] = "I'm watching here"
 ; 603 / Mystery 1 / After the Battle
 s[8898] = "Perfect"
 s[8899] = "Nothing Found"
-s[6846] = "Cupeen"
 
 ; 603 / Mystery 3 / After the Battle
 s[8901] = "Of course, I know."
@@ -1582,7 +1502,6 @@ s[8911] = "Shake hands"
 s[8913] = "Uh..."
 s[8914] = "I'll come back when I'm stronger."
 s[8915] = "I might as well kidnap him..."
-s[4764] = "Charge"
 
 ; 603/Pursuit
 s[8916] = "Shangri-La Security Guard"
@@ -1616,7 +1535,6 @@ s[8941] = "Accusing him for killing you for such a reason."
 s[8942] = "Cursing him, 'Haa ... 604 / Arriving at Leazas"
 s[8953] = "I'm looking forward to seeing my brother."
 s[8954] = "Let's go sightseeing."
-s[5489] = "Clap hands."
 s[8956] = "Leave it to me."
 s[8957] = "I'm not confident, but I'll do my best."
 
@@ -1673,7 +1591,6 @@ s[8997] = "Amazing..."
 s[8998] = "I've slept with a thousand women"
 
 ; 604/Female Demon Soldier 1
-s[5933] = "Landing"
 s[8999] = "Thanking"
 s[9000] = "Putting a skewer of dumplings on her head"
 s[9002] = "...I'm going to eat dinner with her"
@@ -1851,16 +1768,12 @@ s[9141] = "A genius beautiful doctor?"
 ; 606 / Miracle from Another World
 s[9143] = "Arrogant Female Voice"
 
-; 606 / Tea Time
-s[9146] = "None"
-
 ; 606 / Information 2
 s[9153] = "About the Demon King's Children"
 s[9155] = "About Romance with the Opposite Sex"
 
 ; 606 / Information 3
 s[9157] = "About Mix"
-s[6430] = "Snapping Fingers"
 
 ; 606 / Dinner End
 s[9158] = "Delicious"
@@ -1886,9 +1799,6 @@ s[9172] = "Shizuka-san is pretty conspicuous, too"
 s[9173] = "I see"
 s[9174] = "That seems suspicious..."
 
-; 607/Sushinu's Recluse
-s[4778] = "Knock"
-
 ; 607/Zess the next morning
 s[9175] = "Going to look for Sushinu"
 s[9176] = "Going to look for the orb"
@@ -1896,9 +1806,6 @@ s[9176] = "Going to look for the orb"
 ; 607/Sushinu's room
 s[9177] = "Let's go together."
 s[9178] = "Let's push Nagata together."
-
-; 607 / Magic Wall / Before Battle
-s[5321] = "Running"
 
 ; 607 / Persuade Sushinu
 s[9180] = "We have no choice."
@@ -1965,7 +1872,6 @@ s[9240] = "Let's take this path."
 s[9241] = "Let's find another path."
 
 ; 607/Naked Labyrinth 2
-s[5247] = "Ding!"
 s[9243] = "Become a follower."
 s[9244] = "Kill him."
 
@@ -2042,7 +1948,6 @@ s[9329] = "Tonight's Winter General hotpot"
 
 ; 608 / Winter General / After the battle
 s[9330] = "Let's watch here"
-s[6292] = "Crack"
 
 ; 608 / Ale alone
 s[9332] = "Check if anyone is nearby"
@@ -2081,9 +1986,6 @@ s[9354] = "Pick up the Water Orb."
 s[9355] = "We'll defeat him."
 s[9356] = "It's all good now."
 
-; 608/Mobile Prostitution
-s[5358] = "Knock on the table."
-
 ; 608/Prostitution/Male
 s[9357] = "Send encouragement."
 s[9358] = "Send off with a thumbs up."
@@ -2103,7 +2005,6 @@ s[9369] = "Touch the chest"
 s[9370] = "Stroke the cheek"
 
 ; 608 / Epilogue
-s[5612] = "Barrier"
 s[9371] = "Extract the sunlight"
 s[9372] = "For some reason, I managed to get it"
 s[9373] = "This is the power of the chosen one, rrrrrrr"
@@ -2112,12 +2013,6 @@ s[9375] = "Can I have it?"
 s[9376] = "Bar Owner"
 s[9377] = "Spectator A"
 s[9378] = "Spectator B"
-s[5841] = "Wave"
-
-; 609/Defender 3/Pre-Battle
-
-; 609/Defender 3/Post-Battle
-s[5638] = "Punch + Kick"
 
 ; 609/M Land 1
 s[9383] = "What Ride?"
@@ -2130,10 +2025,6 @@ s[9393] = "Find an Inn"
 s[9404] = "Do Your Best"
 s[9405] = "Show Me Your Adult Side"
 
-; 609/Qualification
-s[9407] = "A terrified qualifier"
-s[4982] = "Matchlock gun"
-
 ; 609 / Qualifier 2
 s[9413] = "Who are you?"
 s[9415] = "We'll advance"
@@ -2141,9 +2032,6 @@ s[9416] = "I'll defeat him in the main tournament"
 
 ; 609 / Qualifier 3 / Pre-battle
 s[9418] = "It's okay"
-
-; 609 / Advance to the Qualifier
-s[6699] = "Fanfare"
 
 ; 609 / Tournament bracket announcement
 s[9422] = "Let's go"
