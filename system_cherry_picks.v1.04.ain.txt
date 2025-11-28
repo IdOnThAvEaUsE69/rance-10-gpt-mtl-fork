@@ -84,6 +84,9 @@ s[2527] = "\r"
 ; AegisEffect@Name::get
 s[2527] = "\r"
 
+; StringHelper::Split
+s[3717] = "\r|"
+
 ; LocalSave::GetCurrentGameStateComment
 s[4242] = "Prologue"
 s[4243] = "Turn Top"
