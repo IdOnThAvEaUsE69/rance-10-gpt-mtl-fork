@@ -25,7 +25,6 @@ tree 秘書情報 = {
 			コメント３ = "Ragarl, and his daughter, Nagi, in turn, swore",
 			コメント４ = "revenge on Shizuka. The chain of vengeance has",
 			コメント５ = "now been broken, and the two are very close.",
-			コメント１ = "A girl who has shared many adventures as Rance'",
 		},
 		画像名 = "立ち／子供志津香とナギ／基本",
 	},
