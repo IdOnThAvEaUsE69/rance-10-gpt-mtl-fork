@@ -30,8 +30,9 @@ ______________________________________
 
 ## Steps to Build
 
-1. Run `npm i` to install dependencies (install nodejs if needed)
-2. Run `node regenerate_aai_txt.js` to produce the `regenerated.ain.txt` file
-(assuming that game installation directory is `C:\Program Files\AliceSoft\ランス１０`)
-3. Run `alice ain edit -t regenerated.ain.txt -o "C:\Program Files\AliceSoft\ランス１０\Rance10.ain" "C:\Program Files\AliceSoft\ランス１０\Rance10.ain"` (install alice-tools if needed)
-4. Run `alice ex build -o "C:\Program Files\AliceSoft\ランス１０\Rance10EX.ex" Rance10EX/main.x`
+1. Install [node.js](https://nodejs.org/en)
+2. Run `npm i` to install dependencies
+3. Run `npm run regenerate-ain` to replace your `C:\Program Files\AliceSoft\ランス１０\Rance10.ain` with translated version (you will likely need to either open terminal as administrator for that or change the access of the `C:\Program Files\AliceSoft\ランス１０\` folder to "Full Access" for "Everyone" group)
+4. Run `npm run regenerate-ex` to do same for the `Rance10EX.ex` file that translates skill descriptions, character descriptions, quests, etc...
+5. Run `npm run regenerate-pack` to translate some UI elements, like settings menu
+(there are also some image translations in `Rance10CG2_v1_04` and `Rance10Flat_v1_04` folders, but for them there is currently no simple command)
