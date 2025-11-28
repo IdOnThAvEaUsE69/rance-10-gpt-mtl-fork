@@ -10303,7 +10303,7 @@ tree カード情報 = {
 	},
 	バボラメダル = {
 		説明１ = "Proof of defeating",
-		説明２ = "giant demon Babora",
+		説明２ = "giant demon Babolat",
 		説明３ = "",
 	},
 	ケッセルリンクメダル = {
@@ -10323,12 +10323,12 @@ tree カード情報 = {
 	},
 	レイメダル = {
 		説明１ = "Proof of defeating",
-		説明２ = "thunderous demon Ray",
+		説明２ = "thunderous demon Lei",
 		説明３ = "",
 	},
 	パイアールメダル = {
 		説明１ = "Proof of defeating",
-		説明２ = "intellectual demon Piarl",
+		説明２ = "intellectual demon Pi-R",
 		説明３ = "",
 	},
 	ワーグメダル = {
@@ -10368,12 +10368,12 @@ tree カード情報 = {
 	},
 	ピサロメダル = {
 		説明１ = "Proof of defeating",
-		説明２ = "PissarRo, the plundering",
+		説明２ = "Pizarro, the plundering",
 		説明３ = "monster general",
 	},
 	ジャハルッカスの爪 = {
 		説明１ = "The calamity of Horus",
-		説明２ = "Jaharlkas’s Right hand",
+		説明２ = "Jhahlckas’s right hand",
 		説明３ = "Keep it as a souvenir",
 	},
 	バンオペタの証Ａ = {
@@ -10397,7 +10397,7 @@ tree カード情報 = {
 		説明３ = "to fit well on the head",
 	},
 	ＣＩＴＹの看板 = {
-		説明１ = "A sign Reading 'Welcome to CITY'",
+		説明１ = "A sign reading 'Welcome to CITY'",
 		説明２ = "Picked up just because",
 		説明３ = "why not take it home",
 	},
@@ -10407,8 +10407,8 @@ tree カード情報 = {
 		説明３ = "Endless ocean breeze",
 	},
 	高級巻き尺 = {
-		説明１ = "Favorite food of Rare",
-		説明２ = "creature pufferfish 3 meters",
+		説明１ = "Favorite food of the rare",
+		説明２ = "creature Pufferfish 3 meters",
 		説明３ = "long, JIS standard",
 	},
 	ひまわり型黄金像 = {
@@ -10437,13 +10437,13 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	ヒラミレモン = {
-		説明１ = "Calms a Raging heart",
+		説明１ = "Calms a raging heart",
 		説明２ = "A lemon strong enough to work",
 		説明３ = "on a demon lord. Sour",
 	},
 	男の友情 = {
 		説明１ = "Proof of sharing night before battle",
-		説明２ = "with a man for some Reason",
+		説明２ = "with a man for some reason",
 		説明３ = "",
 	},
 	上級天使のブラ = {
@@ -10467,9 +10467,9 @@ tree カード情報 = {
 		説明３ = "Grants overwhelming multi-hit power",
 	},
 	鋼鉄黒飴貝 = {
-		説明１ = "A Rare shell that delights shell collectors",
+		説明１ = "A rare shell that delights shell collectors",
 		説明２ = "A phantom item worth dying for",
-		説明３ = "Even if the world perishes, no Regrets",
+		説明３ = "Even if the world perishes, no regrets",
 	},
 	エリザベート = {
 		説明１ = "Arios’s woman",
@@ -10479,7 +10479,7 @@ tree カード情報 = {
 	へケート = {
 		説明１ = "Arios’s woman",
 		説明２ = "Proof of defeating the",
-		説明３ = "5th-Rank demon Hecate",
+		説明３ = "5th Rank demon Hecate",
 	},
 	ウルンセルの刃 = {
 		説明１ = "Knife from the bone of a mythic",
@@ -10502,12 +10502,12 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	聖書 = {
-		説明１ = "Most published scripture of AL Religion",
+		説明１ = "Most published scripture of AL Church",
 		説明２ = "Revised every year",
 		説明３ = "Always buy the latest edition",
 	},
 	高級うし車 = {
-		説明１ = "The finest Red hare ox",
+		説明１ = "The finest red hare ox",
 		説明２ = "Delivers anywhere in the world",
 		説明３ = "",
 	},
@@ -10537,24 +10537,24 @@ tree カード情報 = {
 		説明３ = "is important in life",
 	},
 	調教バイブル = {
-		説明１ = "A famous book written by a Renowned trainer",
+		説明１ = "A famous book written by a renowned trainer",
 		説明２ = "Banned in twelve countries",
 		説明３ = "",
 	},
 	リーザスの旗 = {
-		説明１ = "The vivid Red national flag of Leazas",
+		説明１ = "The vivid red national flag of Leazas",
 		説明２ = "Found in every household in Leazas",
 		説明３ = "",
 	},
 	王家の歴史書 = {
 		説明１ = "A chronicle centered on the",
-		説明２ = "Royal family of Leazas. Depicts",
+		説明２ = "royal family of Leazas. Depicts",
 		説明３ = "Helman as the villain",
 	},
 	ヘルマン石壁 = {
 		説明１ = "Stone wall used in Helman’s fortresses",
 		説明２ = "Known for durability",
-		説明３ = "Let Rocky carRy it maybe",
+		説明３ = "Let Rocky carry it maybe",
 	},
 	ストロンガー = {
 		説明１ = "A powerful bow discovered in",
@@ -10563,12 +10563,12 @@ tree カード情報 = {
 	},
 	真・守り神様 = {
 		説明１ = "Grateful god, protects from misfortune",
-		説明２ = "Surely will protect you, Right?",
+		説明２ = "Surely will protect you, right?",
 		説明３ = "",
 	},
 	ヘルマンの旗 = {
 		説明１ = "The austere national flag of Helman",
-		説明２ = "Raises the morale of Helman soldiers",
+		説明２ = "raises the morale of Helman soldiers",
 		説明３ = "as soon as it’s hoisted",
 	},
 	ザナゲスサーガー = {
@@ -10602,7 +10602,7 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	恐怖の槍 = {
-		説明１ = "Chases its target Relentlessly once aimed",
+		説明１ = "Chases its target relentlessly once aimed",
 		説明２ = "Never lets them escape",
 		説明３ = "",
 	},
@@ -10633,8 +10633,8 @@ tree カード情報 = {
 	},
 	自由の旗 = {
 		説明１ = "Flag of the Free City Alliance",
-		説明２ = "Its colors Represent the three sponsor nations",
-		説明３ = "Money Rules all",
+		説明２ = "Its colors represent the three sponsor nations",
+		説明３ = "Money rules all",
 	},
 	独立宣言書 = {
 		説明１ = "Declaration made upon liberation from Helman",
@@ -10647,8 +10647,8 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	司教のアリス像 = {
-		説明１ = "One of only four ultra-Rare statues in the world",
-		説明２ = "Mii’s joy when he Received it was immense",
+		説明１ = "One of only four ultra-rare statues in the world",
+		説明２ = "Mii’s joy when he received it was immense",
 		説明３ = "",
 	},
 	司祭のアリス像 = {
@@ -10668,7 +10668,7 @@ tree カード情報 = {
 	},
 	新品もじゃ人形 = {
 		説明１ = "Excellent preservation, brand new",
-		説明２ = "No complaints, no Returns please",
+		説明２ = "No complaints, no returns please",
 		説明３ = "",
 	},
 	オロチの牙 = {
@@ -10682,7 +10682,7 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	日の丸 = {
-		説明１ = "For some Reason beloved by the Hannies",
+		説明１ = "For some reason beloved by the Hannies",
 		説明２ = "A flag from somewhere",
 		説明３ = "Elegant design",
 	},
@@ -10703,22 +10703,22 @@ tree カード情報 = {
 	},
 	カラー国旗 = {
 		説明１ = "Hastily designed as the national flag of Kalar Village",
-		説明２ = "for international Relations",
+		説明２ = "for international relations",
 		説明３ = "",
 	},
 	チワワの飼い方 = {
 		説明１ = "The venomous dangerous creature Chihuahua",
-		説明２ = "Becomes a Reliable guard if Raised properly",
+		説明２ = "Becomes a reliable guard if raised properly",
 		説明３ = "",
 	},
 	ドラゴンの加護 = {
-		説明１ = "A Rare item said to drop from dragons",
+		説明１ = "A rare item said to drop from dragons",
 		説明２ = "at less than one percent probability",
 		説明３ = "",
 	},
 	カラーの秘宝 = {
-		説明１ = "Three divine Relics that",
-		説明２ = "maintain Kalar Village’s barRier",
+		説明１ = "Three divine relics that",
+		説明２ = "maintain Kalar Village’s barrier",
 		説明３ = "",
 	},
 	ドリルの材料 = {
@@ -10727,7 +10727,7 @@ tree カード情報 = {
 		説明３ = "Requires high-purity 'Romance'",
 	},
 	耐熱合板 = {
-		説明１ = "Material used to Reinforce",
+		説明１ = "Material used to reinforce",
 		説明２ = "the armor of the Brave ship",
 		説明３ = "",
 	},
@@ -10788,7 +10788,7 @@ tree カード情報 = {
 	},
 	タイニリーチＡ = {
 		説明１ = "Appears when undressing a monster girl",
-		説明２ = "Slightly extends attack Range",
+		説明２ = "Slightly extends attack range",
 		説明３ = "",
 	},
 	タイニリーチＢ = {
@@ -10812,8 +10812,8 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	機々械々 = {
-		説明１ = "Corpse of a polygon-type Rare creature",
-		説明２ = "Owning it earns adventurer Respect",
+		説明１ = "Corpse of a polygon-type rare creature",
+		説明２ = "Owning it earns adventurer respect",
 		説明３ = "",
 	},
 	"聖刀 日光" = {
@@ -10874,11 +10874,11 @@ tree カード情報 = {
 	深根の鈴 = {
 		説明１ = "A gift from Princess Senhime",
 		説明２ = "Given to detect when she skips training",
-		説明３ = "It Rings as proof",
+		説明３ = "It rings as proof",
 	},
 	グラム = {
 		説明１ = "A demon sword that grows stronger by absorbing emotions",
-		説明２ = "Granted by Regasio, child of the demon king",
+		説明２ = "Granted by Regaccio, child of the demon king",
 		説明３ = "",
 	},
 	マフラー = {
@@ -10888,7 +10888,7 @@ tree カード情報 = {
 	},
 	従者の鎧 = {
 		説明１ = "Rocky’s heavy armor from his slave days",
-		説明２ = "CarRies the weight of history",
+		説明２ = "Carries the weight of history",
 		説明３ = "",
 	},
 	料理道具一式 = {
@@ -10898,7 +10898,7 @@ tree カード情報 = {
 	},
 	守護神パセリ = {
 		説明１ = "Grandmother spirit who always watched Sushi-nu",
-		説明２ = "Unlikely to Rest in peace",
+		説明２ = "Unlikely to rest in peace",
 		説明３ = "",
 	},
 	勇気のペン = {
@@ -10908,7 +10908,7 @@ tree カード情報 = {
 	},
 	昭和の鉄骨 = {
 		説明１ = "Heavy steel beam washed ashore from somewhere",
-		説明２ = "No idea what it’s Really for",
+		説明２ = "No idea what it’s really for",
 		説明３ = "",
 	},
 	叔父のグローブ = {
@@ -10942,7 +10942,7 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	獣化の技術 = {
-		説明１ = "Magic Researched by Nagi",
+		説明１ = "Magic researched by Nagi",
 		説明２ = "Boosts body slightly without harm",
 		説明３ = "",
 	},
@@ -10987,7 +10987,7 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	珍しい貝２ = {
-		説明１ = "A Cambrian shell, very Rare",
+		説明１ = "A Cambrian shell, very rare",
 		説明２ = "One without broken protrusions is precious",
 		説明３ = "",
 	},
@@ -11012,7 +11012,7 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	ルンルンバ = {
-		説明１ = "Cleans in a cheerful Rhythm",
+		説明１ = "Cleans in a cheerful rhythm",
 		説明２ = "Master, please stop sleeping on the floor!",
 		説明３ = "",
 	},
@@ -11082,102 +11082,102 @@ tree カード情報 = {
 		説明３ = "",
 	},
 	伝説の武具亜人 = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具モンスター = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具ＪＡＰＡＮ = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具自由都市 = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具ゼス = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具ヘルマン = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具リーザス = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具その他 = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具主人公 = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具神魔 = {
-		説明１ = "Legendary equipment Received from Arms",
+		説明１ = "Legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具亜人＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具モンスター＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具ＪＡＰＡＮ＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具自由都市＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具ゼス＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具ヘルマン＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具リーザス＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具その他＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具主人公＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
 	伝説の武具神魔＋ = {
-		説明１ = "Powerful legendary equipment Received from Arms",
+		説明１ = "Powerful legendary equipment received from Arms",
 		説明２ = "",
 		説明３ = "",
 	},
