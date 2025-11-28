@@ -1762,7 +1762,6 @@ s[9068] = "I'll hold your hand."
 
 ; 605 / Meanwhile, Neplakas and Soun
 s[9070] = "The mysterious old man"
-s[2686] = ""
 
 ; 605 / Rangi and Zans
 s[9071] = "I need a break."
@@ -1811,6 +1810,7 @@ s[9112] = "Let's abandon them and run away"
 
 ; 605 / Quelplan / Post-battle
 s[9113] = "Go away!"
+
 
 ; 605 / Neplacus / Post-battle
 s[9114] = "Fight"
