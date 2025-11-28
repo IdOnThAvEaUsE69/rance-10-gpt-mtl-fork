@@ -95,7 +95,7 @@ tree 秘書データ = {
 			"Shall we talk about Chinese proverbs?",
 			"Snaaaake!\n SNAAAAAAAAKE!!!!",
 			"Haaah...\n I talked too much, now I'm a bit tired.",
-			"全ての陣営に妾を揃えて妾セブン！rとかしなかっただけr実はこれでも妾抑えてる、偉い！",
+			"I could have made seven versions of myself\nto be in every faction!\nBut I'm holding myself back. I’m admirable!",
 			"I tried earning profits with herring and giving\nthem to you to raise your affection...\n but... you don't actually need money, do you?",
 			"Hey! Are you listening to me!?\n You're not opening another window and\n playing browser games, are you!?",
 			"Oh-ho, what is it?\n Acting like you want attention from me?\n Hohohohoho.",
