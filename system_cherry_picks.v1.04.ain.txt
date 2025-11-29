@@ -842,13 +842,10 @@ s[10994] = "Security Guard"
 s[10910] = "Son of Felis (Father = Rance)"
 
 
+
 s[8213] = "Mother's Voice"
 s[8214] = "Very Good"
 s[8215] = "...I'm still a little sleepy"
-s[8054] = "The Protagonist is Male"
-s[8055] = "The Protagonist is Female"
-s[8216] = "The Demon King Exists"
-s[8217] = "The Economy is Very Poor"
 s[8218] = "Why Me?"
 s[8221] = "How Old is My Mother?"
 s[8222] = "Where Should I Go?"
