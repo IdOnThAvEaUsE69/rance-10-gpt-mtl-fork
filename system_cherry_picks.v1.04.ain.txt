@@ -842,6 +842,24 @@ s[10994] = "Security Guard"
 s[10910] = "Son of Felis (Father = Rance)"
 
 
+s[11314] = "Clear A  From the Sea                        ★CP+1"
+s[11315] = "Clear A  From the Sky                        ★CP+1"
+s[11316] = "Clear A  Forced March                        ★CP+1"
+s[11317] = "Clear A  Great Invasion of the Monster World ★CP+1"
+
+s[14752] = "Clear B  Great Underground Operation         ★CP+1";
+s[14393] = "Clear B  Time Capsule                        ★CP+1";
+s[14755] = "Clear B  I've defeated the Demon King though ★CP+1";
+s[14757] = "Clear B  Demon Lord Miki                     ★CP+1";
+s[14759] = "Clear B  God's Truth                         ★CP+1";
+s[14761] = "Clear B  Demon Lord from Another World       ★CP+1";
+
+s[14763] = "Clear C  Demon Lord Kayblis                 ★CP+1";
+s[14765] = "Clear C  Hero’s Achievement                 ★CP+1";
+s[14767] = "Clear C  Defeat                             ★CP+1";
+s[14769] = "Clear C  Wrong Choice                       ★CP+1";
+s[14771] = "Clear C  Humanity’s Extinction              ★CP+1";
+
 
 s[8213] = "Mother's Voice"
 s[8214] = "Very Good"
