@@ -881,7 +881,6 @@ s[8246] = "Leave me alone."
 s[8247] = "Well, I look forward to working with you."
 
 ; 601 / Camping with Nagata
-s[6972] = "Thank you."
 s[8248] = "I don't really need it."
 s[8249] = "Put a mandarin orange on his head."
 
@@ -908,7 +907,6 @@ s[8265] = "My body just moved on its own..."
 s[8266] = "So refreshing!"
 
 ; 601/Arrives at the village
-s[8111] = "Dosswassu is there"
 s[6183] = "Bandit A"
 s[6184] = "Bandit B"
 s[7083] = "Bandit C"
@@ -998,7 +996,6 @@ s[8333] = "Grrr!"
 ; 601 / Epilogue
 s[8334] = "Yeah, that's right!"
 s[8335] = "Avert your eyes in silence"
-s[8336] = "Yee-yee-oh!"
 
 ; 602 / Start
 s[8748] = "Ruffling hair"
@@ -1361,8 +1358,6 @@ s[9031] = "It's delicious."
 s[9032] = "I'll eat Zans's share too."
 
 ; 605/Arrived at Oda Castle
-s[9034] = "Yay!"
-s[5581] = "Fire!"
 s[9035] = "Let's go inside!"
 s[9036] = "Let's go help Rangi!"
 s[9037] = "Let's go defeat the demon!"
@@ -1469,7 +1464,6 @@ s[9122] = "Would you like to join us?"
 ; 605 / Epilogue
 s[9124] = "Nothing important"
 s[9125] = "About the power within me"
-s[9126] = "Sexy Stories"
 
 ; 606 / Teleport
 s[9128] = "My curiosity is piqued. Let's go and take a look."
@@ -1689,7 +1683,6 @@ s[9315] = "I'm not going."
 ; 608 / Arrived in Siberia
 s[9322] = "Praising Reset"
 s[9323] = "Lifting Reset up high"
-s[9324] = "Mysterious Dragon"
 s[9325] = "Let's chase him"
 
 ; 608 / Winter General / Before the battle
@@ -1799,13 +1792,11 @@ s[9424] = "Tournament bracket"
 s[9425] = "I'll give it my all"
 s[9426] = "...I think I'll withdraw"
 s[9427] = "It'll be an easy win"
-s[9428] = "A loud, powerful voice"
 s[9430] = "Believer Anyu"
 s[9431] = "Believer Naked"
 
 ; 609 / God of War Digest
 s[9433] = "Turn on Magic Vision"
-s[9435] = "God of War Digest Opening Jingle"
 s[9441] = "I'll give it my all"
 
 ; 609 / Round 1 Relikov / Pre-battle
@@ -1879,8 +1870,7 @@ s[9496] = "It's more fun to be liked by others."
 s[9497] = "I don't really get it..."
 s[9498] = "I think I understand."
 s[9499] = "I just hope I win tomorrow."
-s[9500] = "…………"
-
+\
 ; 609 / Gathering Information on Ricchel
 s[9503] = "That's right."
 s[9504] = "I can't promise you anything."
@@ -1912,7 +1902,6 @@ s[9530] = "Extend and shake hands"
 s[9531] = "Wander Around the Festival"
 s[9532] = "Would You Like to Join Us?"
 s[9534] = "Believer Nakhtu"
-s[5290] = "Broken bone"
 s[9537] = "Take a short break"
 s[9538] = "Passing monster"
 s[9539] = "Wave back because you're happy"
@@ -1929,7 +1918,6 @@ s[9545] = "It was hot, so you got naked..."
 s[9546] = "That's enough, we'll win today!"
 s[9547] = "Just doing my best"
 s[9548] = "I need to pee..."
-s[9549] = "Toilet"
 
 ; Dark Rance Bond Level 5
 s[8210] = "Why fight?"
@@ -1960,9 +1948,6 @@ s[8353] = "An arrogant queen"
 s[8355] = "A respectable princess"
 s[8356] = "A useless queen"
 s[8361] = "A quiet pope"
-
-; 610 / General Tiger / After Battle
-s[8366] = "Heal"
 
 ; 610/Gate Destroyed
 s[8370] = "Insert the last orb"
@@ -2214,9 +2199,6 @@ s[8665] = "I'm going to make you scream!"
 
 ; ６１２／魔王ランス／戦闘前
 s[8666] = "Open the door"
-s[8667] = "Win the battle"
-s[8668] = "Save our Father"
-s[8671] = "This is the final battle!"
 
 ; ６１２／時間切れ後のビンタ
 s[8675] = "Jump forward"
