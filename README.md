@@ -38,3 +38,4 @@ ______________________________________
 
 (there are also some image translations in `Rance10CG2_v1_04` and `Rance10Flat_v1_04` folders, but for them there is currently no simple command)
 
+
