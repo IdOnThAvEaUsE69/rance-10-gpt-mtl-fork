@@ -883,7 +883,7 @@ table スキルデータ = {
     { 1807,"Drunkard's Sermon",20,0,"",0,100,143,10,0,0,0,0,"",0,0,"Leader Placement Effect \r Target: Rance \r Stundown Invalid" },
     { 1830,"Husband education",20,0,"",0,100,143,10,0,0,0,0,"",0,0,"Leader Placement Effect \r Target: Rance \r Stundown Invalid" },
     { 1815,"Disable interrupts",20,0,"",0,100,148,10,0,0,0,0,"",0,0,"Leader placement effect \r Interrupt disabled" },
-    { 1940,"Self-defense knowledge",20,0,"",0,100,143,1,0,0,0,0,"",0,0,"Stunned" },
+    { 1940,"Self-defense knowledge",20,0,"",0,100,143,1,0,0,0,0,"",0,0,"Immune to Stun" },
     { 2022,"hero",20,0,"",0,100,143,1,0,0,0,0,"",0,0,"Stunned" },
     { 1326,"With Torako",20,0,"",0,100,134,1,0,0,0,0,"",0,0,"Leader placement effect \r Torako interrupt \r Torako possession" },
     { 1327,"With Katsuko",20,0,"",0,100,134,2,0,0,0,0,"",0,0,"Leader placement effect \r Winner interrupt \r Winner possession" },
