@@ -15,7 +15,7 @@ tree 秘書データ = {
 			"Only six hours of games per day (maybe)",
 			"When unsure about choices-yes, SAVE",
 			"What should I have for dinner tonight♪",
-			"If you'Re tired of the game,\n take a proper rest",
+			"If you're tired of the game,\n take a proper rest",
 			"Hello?\n ...Did you fall asleep?"
 		},
 		進む = (list) {
@@ -239,7 +239,7 @@ tree 秘書データ = {
 		},
 		食券 = (list) {
 			"＜ケイブニャン＞ Meal ticket phase, nya!rr＜ケイブワン＞ Peeking at everyone's lives, woof?",
-			"条件＜食券３枚＞　＜ケイブニャン＞ We've got a lot of meal tickets, nya rr＜ケイブワン＞ You should use them before they'Re wasted, woof"
+			"条件＜食券３枚＞　＜ケイブニャン＞ We've got a lot of meal tickets, nya rr＜ケイブワン＞ You should use them before they're wasted, woof"
 		},
 	},
 	サテラ = {
@@ -259,7 +259,7 @@ tree 秘書データ = {
 			"Why are you spacing out?",
 			"Yawn...\n I'm bored...",
 			"(Playing with clay out of boredom)",
-			"If you'Re troubled, consult your master",
+			"If you're troubled, consult your master",
 			"We can't afford to stand still here",
 			"Shall we organize the troops?",
 			"条件＜部隊ボ-ナス有り＞　Hey, you've got a unit bonus saved up.\n Don't be stingy-use it.",
@@ -309,7 +309,7 @@ tree 秘書データ = {
 			"条件＜第７タ-ン＞　It's the base phase.\n Hm?\n What's this ‘New Year' thing?"
 		},
 		地域 = (list) {
-			"Hm?\n You'Re doing the mission here?",
+			"Hm?\n You're doing the mission here?",
 			"条件＜地域奪還＞　This area's already retaken.\n As expected of Satella's disciple-well done.",
 			"条件＜地域滅亡＞　Tch, those idiot demons...\n swaggering around...",
 			"条件＜戦果なし＞　This country has no defenses...\n is that alright?"
@@ -337,7 +337,7 @@ tree 秘書データ = {
 			"Do you have your handkerchief and tissues?",
 			"Lord Rance, are you\n troubled by something?",
 			"Shall I prepare some sweets?",
-			"If you'Re hungry, please\n just tell me anytime.",
+			"If you're hungry, please\n just tell me anytime.",
 			"条件＜部隊ボ-ナス有り＞　The unit bonus is saved up.\n Shall we use it to power up?",
 			"条件＜ＨＰ５０％以下＞　The unit's HP is quite low.\n Um...\n we should consider healing..."
 		},
@@ -371,8 +371,8 @@ tree 秘書データ = {
 			"It's the preparation phase.\n Lord Rance, please give your instructions.",
 			"条件＜第１タ-ン＞ Lord Rance...\n I mean,\n Supreme Leader Rance.\n What will you do now?",
 			"条件＜第２タ-ン＞ The counteroffensive begins in earnest.\n What's your first move, Lord Rance?",
-			"条件＜第８タ-ン飛ぶ＞Flying> Wow, we'Re above the clouds, amazing, Lord Rance!",
-			"条件＜第８タ-ン＞ Good morning, Lord Rance...\n I'm so glad you'Re safe...\n sniff...\n let's meet everyone first.",
+			"条件＜第８タ-ン飛ぶ＞Flying> Wow, we're above the clouds, amazing, Lord Rance!",
+			"条件＜第８タ-ン＞ Good morning, Lord Rance...\n I'm so glad you're safe...\n sniff...\n let's meet everyone first.",
 			"条件＜第１２タ-ン＞ Lord Rance, the sea has appeared.\n Shall we take a look?",
 			"条件＜ランス城は上陸地点＞ Good morning, Lord Rance.\n It's morning in the Monster Realm.\n What will we do now?"
 		},
@@ -421,7 +421,7 @@ tree 秘書データ = {
 		待ち会話 = (list) {
 			"Hmm...\n is the formation ready?",
 			"Lord Rance...\n are you thinking of something?",
-			"If we'Re waiting, how about a game of shogi?",
+			"If we're waiting, how about a game of shogi?",
 			"What in the world...\n no, Lord Rance surely has a deep plan...",
 			"Ah yes, this is a photo for my daughter's arranged marriage...",
 			"Reminds me of the old days...\n yes, that was...",
@@ -471,7 +471,7 @@ tree 秘書データ = {
 			"Which one shall we handle first?",
 			"Sortie preparations complete.",
 			"条件＜第１タ-ン＞　The command center is secured.\n I shall assist here as well.",
-			"条件＜第８タ-ン砦＞　Losses happen, but we'Re used to it.\n The war isn't over yet.",
+			"条件＜第８タ-ン砦＞　Losses happen, but we're used to it.\n The war isn't over yet.",
 			"条件＜第１２タ-ン＞　The war drags on...\n soon we'll need one decisive move..."
 		},
 		拠点 = (list) {
@@ -588,12 +588,12 @@ tree 秘書データ = {
 		待ち会話 = (list) {
 			"Hm?\n Taking a break?",
 			"Let's drink some tea and relax.",
-			"If you'Re tired, take a break♪",
+			"If you're tired, take a break♪",
 			"Are you worried about something?",
 			"Hungry?\n Want some sweets?",
 			"Haaah, it feels so relaxed♪",
 			"So chill♪ So chill♪",
-			"If you'Re lost, save the game!"
+			"If you're lost, save the game!"
 		},
 		進む = (list) {
 			"Let's go!",
@@ -630,7 +630,7 @@ tree 秘書データ = {
 			"条件＜第２タ-ン＞　Hehe, you made friends with Nagata-kun♪ That's great, El-chan♪ん♪",
 			"条件＜第３タ-ン＞　You had a tough time...\n let's start fresh!-ね",
 			"条件＜第４タ-ン＞　Hehe, nice to meet you, let's head to Leazas where Zance-chan is!ご-",
-			"条件＜第５タ-ン＞　Fufu, you'Re already good friends with Zance-chan.だね",
+			"条件＜第５タ-ン＞　Fufu, you're already good friends with Zance-chan.だね",
 			"条件＜第６タ-ン＞　Rangy-chan joined us!\n The adventure's going smoothly, El-chan.\n Hmm, next is.........",
 			"条件＜第７タ-ン＞　Miracle-san is always so energetic.\n Mix-chan joined too, let's go to Zeth next!-う",
 			"条件＜第８タ-ン＞　Fufu, you've gotten close with Sushi-nu-chan.\n Now, off to Helman!よ-",
@@ -664,8 +664,8 @@ tree 秘書データ = {
 			"＜ナギ＞ Aren't we going?",
 			"＜志津香＞ What are you worrying about?",
 			"＜志津香＞ ...Not going?",
-			"＜志津香＞ If you'Re tired, take a proper break.",
-			"＜志津香＞ If you'Re unsure, save your progress.",
+			"＜志津香＞ If you're tired, take a proper break.",
+			"＜志津香＞ If you're unsure, save your progress.",
 			"＜ナギ＞ Hey, what's up? rr＜志津香＞ Thinking about something?",
 			"＜ナギ＞ Big Sis, I'm bored! rr＜志津香＞ Want to play word chain?"
 		},
@@ -697,7 +697,7 @@ tree 秘書データ = {
 		},
 		準備 = (list) {
 			"＜ナギ＞ Preparation phase!rr＜志津香＞ Preparation matters too.",
-			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Hahaha!\n We'Re flying!rr＜志津香＞ You'Re still the same as ever...",
+			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Hahaha!\n We're flying!rr＜志津香＞ You're still the same as ever...",
 			"条件＜第１２タ-ン＞　＜ナギ＞ The seaaa!rr＜志津香＞ Hm, seems the sea appeared."
 		},
 		作戦 = (list) {
@@ -712,7 +712,7 @@ tree 秘書データ = {
 			"条件＜第１２タ-ン上陸＞　＜ナギ＞ The Monster Realm!rr＜志津香＞ ...Who will you spend time with?"
 		},
 		地域 = (list) {
-			"＜ナギ＞ We'Re doing the mission here?rr＜志津香＞ ...Having doubts?",
+			"＜ナギ＞ We're doing the mission here?rr＜志津香＞ ...Having doubts?",
 			"＜ナギ＞ Let's check the region's status.rr＜志津香＞ Hmm...",
 			"条件＜地域奪還＞　＜ナギ＞ It's peaceful here now!rr＜志津香＞ Hm, good work.",
 			"条件＜地域滅亡＞　＜ナギ＞ ...rr＜志津香＞ This area's been taken by the demon army..."
@@ -720,7 +720,7 @@ tree 秘書データ = {
 		食券 = (list) {
 			"＜ナギ＞ Meal ticket phase!\n R＜志津香＞ Whose event will you see?",
 			"＜ナギ＞ Let's peek at everyone's lives!\n R＜志津香＞ ...Can't you say that better?",
-			"条件＜子供志津香発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n You'Re here, Rance!\n ",
+			"条件＜子供志津香発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n You're here, Rance!\n ",
 			"条件＜リセット発生中＞　＜ナギ＞ Oh, ＜リセット＞ is here!\n Let's go meet her!\n R＜志津香＞ ...You two really get along.",
 			"条件＜ランス発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n Rance is here!\n R＜志津香＞ ...Why are you telling me that?",
 			"条件＜マリア発生中＞　＜ナギ＞ Ah, ＜マリア＞ is here!rr＜志津香＞ Shall we go see her?",
@@ -744,7 +744,7 @@ tree 秘書データ = {
 		待ち会話 = (list) {
 			"What's wrong, partner?\n Got something on your mind?",
 			"Hey, partner!\n Let's move already!",
-			"If you'Re worried, talk to me!",
+			"If you're worried, talk to me!",
 			"Want to organize the party?",
 			"...Hungry or something?",
 			"I'm bored, let's go already!",
@@ -783,7 +783,7 @@ tree 秘書データ = {
 		},
 		冒険 = (list) {
 			"条件＜第１タ-ン＞　Our awesome adventure begins!",
-			"条件＜第２タ-ン＞　Hehe, we'Re in top form!\n Where to next, partner?",
+			"条件＜第２タ-ン＞　Hehe, we're in top form!\n Where to next, partner?",
 			"条件＜第３タ-ン＞　Yeah, fighting the Demon King right away's a bit much...\n Let's take it slow!",
 			"条件＜第４タ-ン＞　We've got great allies now-our adventure's going strong!\n Next up, Leazas!",
 			"条件＜第５タ-ン＞　Next is JAPAN!\n It's my first time going there!",
@@ -815,7 +815,7 @@ tree 秘書データ = {
 			"What shall we make for dinner?",
 			"Are you eating properly?",
 			"...I'm bored.",
-			"If we'Re taking a break, I'll nap for a bit.",
+			"If we're taking a break, I'll nap for a bit.",
 			"Are you worried about something?",
 			"条件＜部隊ボ-ナス有り＞　Oh?\n There's a unit bonus available-don't let it go to waste.",
 			"条件＜ＨＰ５０％以下＞　Oh?\n Your stamina's quite low.\n You should prioritize healing."

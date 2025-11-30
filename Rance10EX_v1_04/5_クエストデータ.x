@@ -590,7 +590,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "We'Re depaRting.",
+					説明 = "We're departing.",
 				},
 			},
 		},
@@ -826,7 +826,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'll use any means necessaRy.",
+					説明 = "I'll use any means necessary.",
 					分岐 = "００２",
 				},
 			},
@@ -918,7 +918,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ARe theRe no gal monsteRs?",
+					説明 = "Are there no gal monsters?",
 				},
 			},
 		},
@@ -1033,7 +1033,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'll take caRe of this easily.",
+					説明 = "I'll take care of this easily.",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 					音楽 = "フィールド／優勢",
@@ -1129,7 +1129,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, time to clean up the\nsmall fRy.",
+					説明 = "Alright, time to clean up the\nsmall fry.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／優勢",
@@ -1493,7 +1493,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ビスケッタ",
-					説明 = "UndeRstood.",
+					説明 = "Understood.",
 				},
 				分岐右 = {
 					顔画像 = "コパンドン",
@@ -1863,11 +1863,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "コパンドン",
-					説明 = "Then let's modify it foR waR.",
+					説明 = "Then let's modify it for war.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Wait, wait, that's foR my\nadventuRes.",
+					説明 = "Wait, wait, that's for my\nadventures.",
 				},
 			},
 		},
@@ -2573,7 +2573,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐前 = {
 					！条件 = "勝利",
@@ -2682,7 +2682,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐前 = {
 					！条件 = "勝利",
@@ -3243,7 +3243,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "To the gReat ocean!",
+					説明 = "To the great ocean!",
 					音楽 = "フィールド／奮起",
 				},
 			},
@@ -3257,7 +3257,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's boaRd.",
+					説明 = "Alright, let's board.",
 				},
 			},
 		},
@@ -3269,7 +3269,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Since boaRding allocation is\ndone, squad foRmation is\nnecessaRy.",
+					説明 = "Since boarding allocation is\ndone, squad formation is\nnecessary.",
 				},
 			},
 		},
@@ -3307,7 +3307,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "MonsteRs will appeaR... Hmm\nhmm.",
+					説明 = "Monsters will appear... Hmm\nhmm.",
 				},
 			},
 		},
@@ -3333,7 +3333,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "This ship is stuRdy...",
+					説明 = "This ship is sturdy...",
 				},
 			},
 		},
@@ -3344,11 +3344,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "HaRd to staRboaRd!",
+					説明 = "Hard to starboard!",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "HaRd to poRt!",
+					説明 = "Hard to port!",
 				},
 			},
 		},
@@ -3406,7 +3406,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "Feeling gReat!",
+					説明 = "Feeling great!",
 				},
 			},
 		},
@@ -3433,12 +3433,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Just head offshoRe, the\npuffeRfish is calling me.",
+					説明 = "Just head offshore, the\npufferfish is calling me.",
 					物語 = "２５８／２／選択／沖合に向かう",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "That's tRue too. Tch, I'll let it\nslide.",
+					説明 = "That's true too. Tch, I'll let it\nslide.",
 				},
 			},
 		},
@@ -3449,7 +3449,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エレノア",
-					説明 = "...Oh? You'Re going this way?",
+					説明 = "...Oh? You're going this way?",
 				},
 			},
 		},
@@ -3461,12 +3461,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "I'm an attacking man,\nfuRtheR offshoRe.",
+					説明 = "I'm an attacking man,\nfurther offshore.",
 					物語 = "２５８／２／選択／沖合に向かう２",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SmaRtly RetReat.",
+					説明 = "Smartly retreat.",
 				},
 			},
 		},
@@ -3565,7 +3565,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RefReshing thiRd day,\nhahaha!",
+					説明 = "Refreshing third day,\nhahaha!",
 				},
 			},
 		},
@@ -3576,7 +3576,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "To youR Right, you can see a\nsea beast.",
+					説明 = "To your right, you can see a\nsea beast.",
 				},
 			},
 		},
@@ -3591,7 +3591,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミラクル",
-					説明 = "A sea beast, huh? I've seen\nsomething inteResting.",
+					説明 = "A sea beast, huh? I've seen\nsomething interesting.",
 				},
 			},
 		},
@@ -3602,7 +3602,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "パステル",
-					説明 = "Magic poweR fully unleashed,\nfull poweR!",
+					説明 = "Magic power fully unleashed,\nfull power!",
 				},
 			},
 		},
@@ -3625,11 +3625,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "HaRd to staRboaRd!",
+					説明 = "Hard to starboard!",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "HaRd to poRt!",
+					説明 = "Hard to port!",
 				},
 			},
 		},
@@ -3640,7 +3640,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, my voyage has to be\nlike this.",
+					説明 = "Alright, my voyage has to be\nlike this.",
 				},
 			},
 		},
@@ -3661,7 +3661,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "",
-					説明 = "Day 4! MoRning---!",
+					説明 = "Day 4! Morning---!",
 				},
 			},
 		},
@@ -3707,7 +3707,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 					フラグ = "達成／海獣＝５",
 				},
 			},
@@ -3725,7 +3725,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ノア",
-					説明 = "...Haa. That was\nsuRpRising...",
+					説明 = "...Haa. That was\nsurprising...",
 				},
 			},
 		},
@@ -3736,11 +3736,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "We have a puRpose. It's a\npass.",
+					説明 = "We have a purpose. It's a\npass.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The mysteRious island is\ncalling me. Let's go.",
+					説明 = "The mysterious island is\ncalling me. Let's go.",
 				},
 			},
 		},
@@ -3769,7 +3769,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サチコ",
-					説明 = "Ah, a tReasuRe chest.",
+					説明 = "Ah, a treasure chest.",
 					フラグ = "地形＝海上",
 				},
 			},
@@ -3797,7 +3797,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Day six... ARe we about to\naRRive?",
+					説明 = "Day six... Are we about to\narrive?",
 				},
 			},
 		},
@@ -3817,12 +3817,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Watch out foR Running out of\ntime. Along the shoRe.",
+					説明 = "Watch out for running out of\ntime. Along the shore.",
 					物語 = "２５８／３／選択／陸地沿いに行く",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I'm a cautious man.\nOffshoRe.",
+					説明 = "I'm a cautious man.\nOffshore.",
 				},
 			},
 		},
@@ -3845,7 +3845,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Don't let them escape, no\nmatteR what!",
+					説明 = "Don't let them escape, no\nmatter what!",
 					背景 = "魔物平原",
 					地名 = "魔物界の海岸",
 				},
@@ -3862,7 +3862,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -3933,11 +3933,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "TheRe's something theRe?",
+					説明 = "There's something there?",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Yo-soRo!",
+					説明 = "Yo-soro!",
 				},
 			},
 		},
@@ -3954,7 +3954,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ノア",
-					説明 = "A stoRm is coming.",
+					説明 = "A storm is coming.",
 				},
 			},
 		},
@@ -3983,7 +3983,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hang in theRe!",
+					説明 = "Hang in there!",
 				},
 			},
 		},
@@ -4026,7 +4026,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "DoRyaah!",
+					説明 = "Doryaah!",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
@@ -4077,7 +4077,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DoRyaah!",
+					説明 = "Doryaah!",
 				},
 			},
 		},
@@ -4102,12 +4102,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "I'm woRRied about the giRl\nfRom the Sunset ship. Let's\nseaRch.",
+					説明 = "I'm worried about the girl\nfrom the Sunset ship. Let's\nsearch.",
 					物語 = "２５８／３／選択／捜す",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I'm woRRied, but theRe's no\ntime. Let's pRess on.",
+					説明 = "I'm worried, but there's no\ntime. Let's press on.",
 					物語 = "２５８／３／選択／捜さない",
 				},
 			},
@@ -4136,7 +4136,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ノア",
-					説明 = "We'll tuRn back on ouR\ncouRse.",
+					説明 = "We'll turn back on our\ncourse.",
 				},
 			},
 		},
@@ -4146,7 +4146,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "船長",
-					説明 = "PoRt half RuddeR. Let's\nhuRRy ahead.",
+					説明 = "Port half rudder. Let's\nhurry ahead.",
 				},
 			},
 		},
@@ -4161,7 +4161,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "EnduRe... enduRe... food.",
+					説明 = "Endure... endure... food.",
 				},
 			},
 		},
@@ -4176,7 +4176,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance is Relieved.",
+					説明 = "Lord Rance is relieved.",
 				},
 			},
 		},
@@ -4191,7 +4191,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アームズ",
-					説明 = "The sea's RaRe monsteR is,\nuh...",
+					説明 = "The sea's rare monster is,\nuh...",
 				},
 			},
 		},
@@ -4214,7 +4214,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "HuRRy up and land!",
+					説明 = "Hurry up and land!",
 				},
 			},
 		},
@@ -4250,7 +4250,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "DepaRting.",
+					説明 = "Departing.",
 					地名 = "ＪＡＰＡＮ",
 					背景 = "ＪＡＰＡＮ街道",
 					音楽 = "フィールド／ＪＡＰＡＮ",
@@ -4278,11 +4278,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ザンス",
-					説明 = "If you'Re a man, it's a medal.",
+					説明 = "If you're a man, it's a medal.",
 				},
 				分岐右 = {
 					顔画像 = "長田君",
-					説明 = "If you'Re a man, it's\nfRiendship.",
+					説明 = "If you're a man, it's\nfriendship.",
 				},
 			},
 		},
@@ -4309,7 +4309,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "This is teRRible!",
+					説明 = "This is terrible!",
 				},
 			},
 		},
@@ -4320,7 +4320,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "This is teRRible!",
+					説明 = "This is terrible!",
 				},
 			},
 		},
@@ -4331,7 +4331,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "FiRst, we must suppRess the\ndemons inside the castle.",
+					説明 = "First, we must suppress the\ndemons inside the castle.",
 				},
 			},
 		},
@@ -4376,12 +4376,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "GReeting to PRincess KaoRi.",
+					説明 = "Greeting to Princess Kaori.",
 					物語 = "６０５／選択／香姫に会いに",
 				},
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "HuRRy and head to the\ncountRy of death.",
+					説明 = "Hurry and head to the\ncountry of death.",
 					地名 = "ＪＡＰＡＮ",
 					背景 = "ＪＡＰＡＮ街道",
 					音楽 = "フィールド／ＪＡＰＡＮ",
@@ -4423,7 +4423,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "深根が居る",
-					説明 = "Fukane is heRe.",
+					説明 = "Fukane is here.",
 				},
 				分岐右 = {
 					！条件 = "深根が居る",
@@ -4438,7 +4438,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "志津香２",
-					説明 = "Good gRief...",
+					説明 = "Good grief...",
 				},
 			},
 		},
@@ -4457,7 +4457,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will seaRch foR LoRd Soun.",
+					説明 = "I will search for Lord Soun.",
 				},
 			},
 		},
@@ -4468,7 +4468,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will seaRch foR LoRd Soun.",
+					説明 = "I will search for Lord Soun.",
 				},
 			},
 		},
@@ -4479,7 +4479,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will seaRch foR LoRd Soun.",
+					説明 = "I will search for Lord Soun.",
 				},
 			},
 		},
@@ -4490,7 +4490,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will seaRch foR LoRd Soun.",
+					説明 = "I will search for Lord Soun.",
 				},
 			},
 		},
@@ -4501,11 +4501,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "I will seaRch foR LoRd Soun.",
+					説明 = "I will search for Lord Soun.",
 				},
 				分岐左 = {
 					顔画像 = "ザンス",
-					説明 = "I will seaRch foR LoRd Soun.",
+					説明 = "I will search for Lord Soun.",
 				},
 			},
 		},
@@ -4592,7 +4592,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRch foR the oRb.",
+					説明 = "Search for the orb.",
 				},
 			},
 		},
@@ -4610,7 +4610,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "RetuRn to Soun's place.",
+					説明 = "Return to Soun's place.",
 				},
 			},
 		},
@@ -4718,7 +4718,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Look foR the giRl.",
+					説明 = "Look for the girl.",
 				},
 			},
 		},
@@ -4757,7 +4757,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミラクル２",
-					説明 = "Is theRe something you want\nto ask?",
+					説明 = "Is there something you want\nto ask?",
 				},
 			},
 		},
@@ -4768,11 +4768,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "ミラクル２",
-					説明 = "It's my seRvice, choose as\nyou like.",
+					説明 = "It's my service, choose as\nyou like.",
 				},
 				分岐左 = {
 					顔画像 = "ミラクル２",
-					説明 = "It's my seRvice, choose as\nyou like.",
+					説明 = "It's my service, choose as\nyou like.",
 				},
 			},
 		},
@@ -4793,11 +4793,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "ミラクル２",
-					説明 = "It's my seRvice, choose as\nyou like.",
+					説明 = "It's my service, choose as\nyou like.",
 				},
 				分岐左 = {
 					顔画像 = "ミラクル２",
-					説明 = "It's my seRvice, choose as\nyou like.",
+					説明 = "It's my service, choose as\nyou like.",
 				},
 			},
 		},
@@ -4818,11 +4818,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "ミラクル２",
-					説明 = "It's my seRvice, choose as\nyou like.",
+					説明 = "It's my service, choose as\nyou like.",
 				},
 				分岐左 = {
 					顔画像 = "ミラクル２",
-					説明 = "It's my seRvice, choose as\nyou like.",
+					説明 = "It's my service, choose as\nyou like.",
 				},
 			},
 		},
@@ -4844,7 +4844,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "Some exeRcise afteR the\nmeal?",
+					説明 = "Some exercise after the\nmeal?",
 				},
 			},
 		},
@@ -4887,7 +4887,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "CRoss the Kinani deseRt.",
+					説明 = "Cross the Kinani desert.",
 				},
 			},
 		},
@@ -4899,7 +4899,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "PRoceed along the deseRt\npath.",
+					説明 = "Proceed along the desert\npath.",
 				},
 			},
 		},
@@ -4914,12 +4914,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "長田君",
-					説明 = "If you'Re a man, let's take a\ndetouR and cRoss the deseRt!",
+					説明 = "If you're a man, let's take a\ndetour and cross the desert!",
 					背景 = "砂漠",
 				},
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "PRoceed along the deseRt\npath.",
+					説明 = "Proceed along the desert\npath.",
 					！条件書換前 = "主人公は男 女なのでrまっすぐ進む",
 				},
 			},
@@ -4954,7 +4954,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Avoid and pass by the giant\nmonsteR.",
+					説明 = "Avoid and pass by the giant\nmonster.",
 					背景 = "砂漠",
 				},
 			},
@@ -5016,12 +5016,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "長田君",
-					説明 = "If you'Re a man, let's\nadvance thRough the deseRt.",
+					説明 = "If you're a man, let's\nadvance through the desert.",
 					背景 = "砂漠",
 				},
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "PRoceed along the Road.",
+					説明 = "Proceed along the road.",
 					！条件書換前 = "主人公は男 女なので石r路面を進む",
 				},
 			},
@@ -5101,7 +5101,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "WaRm and fResh.",
+					説明 = "Warm and fresh.",
 				},
 			},
 		},
@@ -5195,7 +5195,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "DepaRting.",
+					説明 = "Departing.",
 					地名 = "キナニ砂漠",
 					背景 = "砂漠",
 					音楽 = "フィールド／僻地昼",
@@ -5215,7 +5215,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リセット２",
-					説明 = "AlRight, let's go!",
+					説明 = "Alright, let's go!",
 				},
 			},
 		},
@@ -5309,7 +5309,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "魔王ランス",
-					説明 = "It's time to slay the monsteR!",
+					説明 = "It's time to slay the monster!",
 				},
 			},
 		},
@@ -5381,7 +5381,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "DepaRting.",
+					説明 = "Departing.",
 					地名 = "自由都市",
 					背景 = "街道１",
 					音楽 = "フィールド／２部初クエスト",
@@ -5456,7 +5456,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "To ShangRi-La.",
+					説明 = "To Shangri-La.",
 					！条件書換前 = "親友リーザス　顔画像=ザンス 説明=ふん",
 					地名 = "キナニ砂漠",
 					背景 = "砂漠",
@@ -5486,7 +5486,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "RetuRn home.",
+					説明 = "Return home.",
 					背景 = "村",
 					地名 = "トリダシタ村",
 					音楽 = "無音",
@@ -5593,11 +5593,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Open the left dooR.",
+					説明 = "Open the left door.",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Open the Right dooR.",
+					説明 = "Open the right door.",
 				},
 			},
 		},
@@ -5636,7 +5636,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "IntRoduce eveRyone.",
+					説明 = "Introduce everyone.",
 				},
 			},
 		},
@@ -5667,7 +5667,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "スシヌ",
-					説明 = "We'Re depaRting.",
+					説明 = "We're departing.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -5706,7 +5706,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "EnteR the monsteR woRld.",
+					説明 = "Enter the monster realm.",
 				},
 			},
 		},
@@ -5721,11 +5721,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "MonsteRs' coRpses aRe\nscatteRed; investigate.",
+					説明 = "Monsters' corpses are\nscattered; investigate.",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Head stRaight to the\nobjective, Pawajionsen.",
+					説明 = "Head straight to the\nobjective, Pawajionsen.",
 				},
 			},
 		},
@@ -5786,7 +5786,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Take a diffeRent Route",
+					説明 = "Take a different route",
 				},
 			},
 		},
@@ -5802,7 +5802,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Take yet anotheR diffeRent\nRoute",
+					説明 = "Take yet another different\nroute",
 				},
 			},
 		},
@@ -5818,7 +5818,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Let's head to the baRe aRea",
+					説明 = "Let's head to the bare area",
 				},
 			},
 		},
@@ -6000,7 +6000,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "DepaRtuRe",
+					説明 = "Departure",
 					地名 = "ヘルマン",
 					背景 = "ヘルマン平原",
 					音楽 = "フィールド／ヘルマン",
@@ -6023,11 +6023,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "It staRted snowing heavily,\nlet's huddle togetheR",
+					説明 = "It started snowing heavily,\nlet's huddle together",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Cut thRough",
+					説明 = "Cut through",
 				},
 			},
 		},
@@ -6048,7 +6048,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ザンス",
-					説明 = "GRRR...",
+					説明 = "Grrr...",
 				},
 			},
 		},
@@ -6105,7 +6105,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Let's head foR the giant\nbattleship Ruins",
+					説明 = "Let's head for the giant\nbattleship ruins",
 				},
 			},
 		},
@@ -6140,7 +6140,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRching foR the exit...",
+					説明 = "Searching for the exit...",
 				},
 			},
 		},
@@ -6149,7 +6149,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Avoid monsteRs",
+					説明 = "Avoid monsters",
 				},
 				分岐右 = {
 					顔画像 = "エール",
@@ -6163,7 +6163,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "The path to the suRface is...",
+					説明 = "The path to the surface is...",
 				},
 			},
 		},
@@ -6174,7 +6174,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "The path to the suRface is...",
+					説明 = "The path to the surface is...",
 				},
 			},
 		},
@@ -6187,7 +6187,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "The two of us seaRch foR an\nexit",
+					説明 = "The two of us search for an\nexit",
 				},
 			},
 		},
@@ -6196,7 +6196,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Avoid monsteRs",
+					説明 = "Avoid monsters",
 				},
 				分岐右 = {
 					顔画像 = "エール",
@@ -6210,7 +6210,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "The two of us seaRch foR an\nexit",
+					説明 = "The two of us search for an\nexit",
 				},
 			},
 		},
@@ -6221,7 +6221,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "The two of us seaRch foR an\nexit",
+					説明 = "The two of us search for an\nexit",
 				},
 			},
 		},
@@ -6232,7 +6232,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "レリコフ",
-					説明 = "I wondeR wheRe the exit is",
+					説明 = "I wonder where the exit is",
 				},
 			},
 		},
@@ -6247,7 +6247,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "レリコフ",
-					説明 = "Let's stay still togetheR",
+					説明 = "Let's stay still together",
 					音楽 = "無音",
 				},
 			},
@@ -6294,7 +6294,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "To the giant battleship Ruins",
+					説明 = "To the giant battleship ruins",
 				},
 			},
 		},
@@ -6320,7 +6320,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Defeat JahaRks",
+					説明 = "Defeat Jaharks",
 				},
 			},
 		},
@@ -6334,7 +6334,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Head towaRds Seaweed",
+					説明 = "Head towards Seaweed",
 					地名 = "シベリア",
 					背景 = "氷雪地帯",
 					音楽 = "フィールド／ヘルマン",
@@ -6367,7 +6367,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Stop by the stReet vendoR",
+					説明 = "Stop by the street vendor",
 				},
 			},
 		},
@@ -6403,7 +6403,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "レリコフ",
-					説明 = "HeaRtbeat (neRvous/excited)",
+					説明 = "Heartbeat (nervous/excited)",
 				},
 			},
 		},
@@ -6464,12 +6464,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "I want to talk with GeneRal\nTigeR",
+					説明 = "I want to talk with General\nTiger",
 					物語 = "６０４／選択／追跡",
 				},
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Pull youRself togetheR and\nmove foRwaRd",
+					説明 = "Pull yourself together and\nmove forward",
 				},
 			},
 		},
@@ -6494,7 +6494,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウズメ",
-					説明 = "I am at youR seRvice",
+					説明 = "I am at your service",
 					背景 = "リーザス平原",
 				},
 			},
@@ -6541,7 +6541,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Take a bReak",
+					説明 = "Take a break",
 				},
 			},
 		},
@@ -6591,7 +6591,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ザンス",
-					説明 = "Let's depaRt, follow me",
+					説明 = "Let's depart, follow me",
 					地名 = "リーザス",
 					背景 = "リーザス平原",
 					音楽 = "フィールド／リーザス",
@@ -6614,7 +6614,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ザンス",
-					説明 = "FiRst, exploRe inside the city",
+					説明 = "First, explore inside the city",
 				},
 			},
 		},
@@ -6625,7 +6625,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ザンス",
-					説明 = "Might as well exteRminate\nsome monsteRs along the\nway",
+					説明 = "Might as well exterminate\nsome monsters along the\nway",
 				},
 			},
 		},
@@ -6645,11 +6645,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "リセット２",
-					説明 = "How about the diRection of\nthe paRk?",
+					説明 = "How about the direction of\nthe park?",
 				},
 				分岐右 = {
 					顔画像 = "ザンス",
-					説明 = "We should seaRch foR the\noRb inside that building",
+					説明 = "We should search for the\norb inside that building",
 				},
 			},
 		},
@@ -6680,7 +6680,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "Can't find the oRb",
+					説明 = "Can't find the orb",
 				},
 			},
 		},
@@ -6691,12 +6691,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ザンス",
-					説明 = "Let's huRRy up and move on",
+					説明 = "Let's hurry up and move on",
 					条件書換前 = "ウズメが居る 顔画像=ウズメ 説明=お宝発見でござる",
 				},
 				分岐右 = {
 					顔画像 = "長田君",
-					説明 = "I'm tiRed... Shall we take a\nbReak soon?",
+					説明 = "I'm tired... Shall we take a\nbreak soon?",
 				},
 			},
 		},
@@ -6707,7 +6707,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRch foR the oRb",
+					説明 = "Search for the orb",
 				},
 			},
 		},
@@ -6734,7 +6734,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRch foR the oRb.",
+					説明 = "Search for the orb.",
 				},
 			},
 		},
@@ -6745,7 +6745,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRch foR the oRb.",
+					説明 = "Search for the orb.",
 				},
 			},
 		},
@@ -6802,7 +6802,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRch foR the oRb.",
+					説明 = "Search for the orb.",
 				},
 			},
 		},
@@ -6972,7 +6972,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Heading towaRds the TRial\nLabyRinth.",
+					説明 = "Heading towards the Trial\nLabyrinth.",
 				},
 			},
 		},
@@ -7016,7 +7016,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミックス",
-					説明 = "Ah... good woRk.",
+					説明 = "Ah... good work.",
 				},
 			},
 		},
@@ -7133,7 +7133,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐右 = {
 					！条件 = "勝利",
@@ -7249,7 +7249,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Eating FRiend BRead.",
+					説明 = "Eating Friend Bread.",
 				},
 			},
 		},
@@ -7390,7 +7390,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐右 = {
 					！条件 = "勝利",
@@ -7438,7 +7438,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "We'Re depaRting.",
+					説明 = "We're departing.",
 					背景 = "自由都市平原",
 				},
 			},
@@ -7464,7 +7464,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "TaRget change: aiming foR\nMount ShoRyu.",
+					説明 = "Target change: aiming for\nMount Shoryu.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 				},
@@ -7488,7 +7488,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Climbing Mount ShoRyu.",
+					説明 = "Climbing Mount Shoryu.",
 					地名 = "翔竜山　標高５００",
 				},
 			},
@@ -7503,7 +7503,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ロッキー２",
-					説明 = "It's a long way to the\nsummit; let's conseRve ouR\nstamina and pRoceed.",
+					説明 = "It's a long way to the\nsummit; let's conserve our\nstamina and proceed.",
 				},
 			},
 		},
@@ -7542,7 +7542,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "It's my fiRst time climbing\nsuch a tall mountain.",
+					説明 = "It's my first time climbing\nsuch a tall mountain.",
 					地名 = "翔竜山　標高１０００",
 				},
 			},
@@ -7559,7 +7559,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Let's just leave the heRo\nalone foR now.",
+					説明 = "Let's just leave the hero\nalone for now.",
 					地名 = "翔竜山　標高２０００",
 					背景 = "翔竜山",
 				},
@@ -7577,7 +7577,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "D-DRagon... it's coming!",
+					説明 = "D-Dragon... it's coming!",
 				},
 			},
 		},
@@ -7600,7 +7600,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Taking a detouR.",
+					説明 = "Taking a detour.",
 				},
 			},
 		},
@@ -7675,7 +7675,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "To Mount ShoRyu... to\nDemon LoRd Rance...",
+					説明 = "To Mount Shoryu... to\nDemon Lord Rance...",
 				},
 			},
 		},
@@ -7689,7 +7689,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "Is the tRoop foRmation okay?",
+					説明 = "Is the troop formation okay?",
 				},
 			},
 		},
@@ -7798,11 +7798,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Take a bReak",
+					説明 = "Take a break",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Stay aleRt.",
+					説明 = "Stay alert.",
 				},
 			},
 		},
@@ -7831,7 +7831,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高４５００",
 				},
 			},
@@ -7843,7 +7843,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リセット２",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高５０００",
 				},
 			},
@@ -7856,7 +7856,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ザンス",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高５５００",
 				},
 			},
@@ -7868,7 +7868,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "乱義",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高６０００",
 				},
 			},
@@ -7929,7 +7929,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Eating FRiend BRead.",
+					説明 = "Eating Friend Bread.",
 				},
 			},
 		},
@@ -7945,7 +7945,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "志津香２",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高７０００",
 				},
 			},
@@ -7962,7 +7962,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ナギ２",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高７０００",
 				},
 			},
@@ -7975,7 +7975,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "スシヌ",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高７５００",
 				},
 			},
@@ -7988,7 +7988,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "レリコフ",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高８０００",
 				},
 			},
@@ -8013,7 +8013,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "I'll leave this aRea to ARms.",
+					説明 = "I'll leave this area to Arms.",
 				},
 			},
 		},
@@ -8025,7 +8025,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Push foRwaRd.",
+					説明 = "Push forward.",
 					地名 = "翔竜山　標高９０００",
 				},
 			},
@@ -8247,7 +8247,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "I came to see my fatheR",
+					説明 = "I came to see my father",
 				},
 				分岐右 = {
 					顔画像 = "エール",
@@ -8348,7 +8348,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "Haniho~ (a cheeRful\ngReeting)",
+					説明 = "Haniho~ (a cheerful\ngreeting)",
 				},
 			},
 		},
@@ -8359,7 +8359,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "You haven't foRgotten to\ninclude me in the foRmation,\nRight?",
+					説明 = "You haven't forgotten to\ninclude me in the formation,\nright?",
 				},
 			},
 		},
@@ -8418,7 +8418,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "TRembling...",
+					説明 = "Trembling...",
 				},
 			},
 		},
@@ -8489,7 +8489,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "DepaRting.",
+					説明 = "Departing.",
 					地名 = "自由都市",
 					背景 = "森",
 					音楽 = "フィールド／２部初クエスト",
@@ -8522,7 +8522,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "AlRight, let's go inside and\ndeal with the thieves",
+					説明 = "Alright, let's go inside and\ndeal with the thieves",
 					背景 = "スライム迷宮",
 					地名 = "メススライム迷宮",
 					音楽 = "フィールド／迷宮",
@@ -8540,7 +8540,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRching the hideout...",
+					説明 = "Searching the hideout...",
 				},
 			},
 		},
@@ -8560,7 +8560,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "SeaRching the hideout...",
+					説明 = "Searching the hideout...",
 				},
 			},
 		},
@@ -8652,7 +8652,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "長田君",
-					説明 = "We aRe victoRious!",
+					説明 = "We are victorious!",
 					背景 = "スライム迷宮",
 				},
 			},
@@ -8719,12 +8719,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "Continue the adventuRe",
+					説明 = "Continue the adventure",
 					物語 = "６１１／立ち直る／冒険を続ける",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Stop the adventuRe",
+					説明 = "Stop the adventure",
 				},
 			},
 		},
@@ -8742,7 +8742,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "We'Re depaRting.",
+					説明 = "We're departing.",
 					背景 = "異界",
 					地名 = "異界　ポリポリワン",
 				},
@@ -8756,11 +8756,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Rick's Lesson: Assault\nTRaining",
+					説明 = "Rick's Lesson: Assault\nTraining",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "SaRnakia's Lesson: Knight's\nCode LectuRe",
+					説明 = "Sanakia's Lesson: Knight's\nCode Lecture",
 				},
 			},
 		},
@@ -8772,11 +8772,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Patton's Lesson: ThoRough\nPhysical TRaining",
+					説明 = "Patton's Lesson: Thorough\nPhysical Training",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Childi's Lesson: High-Speed\nSwoRdsmanship",
+					説明 = "Childi's Lesson: High-Speed\nSwordsmanship",
 				},
 			},
 		},
@@ -8788,11 +8788,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "BRitish's Lesson: Applied\nTeam Tactics",
+					説明 = "British's Lesson: Applied\nTeam Tactics",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "AlexandeR's Lesson: EffoRt,\nEffoRt, EffoRt",
+					説明 = "Alexander's Lesson: Effort,\nEffort, Effort",
 				},
 			},
 		},
@@ -8804,11 +8804,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "ARms' Lesson: Boss StRategy\nGuide",
+					説明 = "Arms' Lesson: Boss Strategy\nGuide",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "Kenshin's Lesson: Mental\nConcentRation",
+					説明 = "Kenshin's Lesson: Mental\nConcentration",
 				},
 			},
 		},
@@ -8826,11 +8826,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Rocky's Lesson: SeRvant's\nMindset",
+					説明 = "Rocky's Lesson: Servant's\nMindset",
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "GeneRal TigeR's Lesson: We'll\nHave a Mock Battle",
+					説明 = "General Tiger's Lesson: We'll\nHave a Mock Battle",
 				},
 			},
 		},
@@ -8846,7 +8846,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "エール",
-					説明 = "MiRacle's Lesson: StRong\nWillpoweR",
+					説明 = "Miracle's Lesson: Strong\nWillpower",
 				},
 			},
 		},
@@ -8906,7 +8906,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "エール",
-					説明 = "We'Re depaRting.",
+					説明 = "We're departing.",
 					地名 = "空飛ぶランス城",
 					背景 = "空飛ぶランス城",
 				},
@@ -9066,7 +9066,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting to Kala Village",
+					説明 = "Departing to Kala Village",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -9102,7 +9102,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "The entRance to the secRet\nRoute is... so",
+					説明 = "The entrance to the secret\nroute is... so",
 				},
 			},
 		},
@@ -9123,7 +9123,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, just a little moRe",
+					説明 = "Alright, just a little more",
 				},
 			},
 		},
@@ -9148,11 +9148,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Let's take a shoRt bReak",
+					説明 = "Let's take a short break",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Replenishing Kala giRls",
+					説明 = "Replenishing Kala girls",
 				},
 			},
 		},
@@ -9181,7 +9181,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "FaRewell, Pencil Cow!",
+					説明 = "Farewell, Pencil Cow!",
 				},
 			},
 		},
@@ -9206,7 +9206,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "EveRyone, don't panic, but\nhuRRy!",
+					説明 = "Everyone, don't panic, but\nhurry!",
 				},
 			},
 		},
@@ -9217,7 +9217,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 					物語 = "０５／洞窟の中のランス達１",
 				},
 				分岐右 = {
@@ -9232,11 +9232,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "イージス",
-					説明 = "I want to seaRch foR the lost\nscout team",
+					説明 = "I want to search for the lost\nscout team",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Move foRwaRd quickly",
+					説明 = "Move forward quickly",
 				},
 			},
 		},
@@ -9267,7 +9267,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge into the demon aRmy",
+					説明 = "Charge into the demon army",
 					物語 = "０５／魔軍に突っ込む",
 				},
 				分岐前 = {
@@ -9294,7 +9294,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge into the demon aRmy",
+					説明 = "Charge into the demon army",
 					物語 = "０５／魔軍に突っ込む",
 				},
 				分岐前 = {
@@ -9334,11 +9334,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 				分岐前 = {
 					条件 = "引き分け",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 					物語 = "０５／レッドアイアニス／引き分け",
 				},
 			},
@@ -9363,7 +9363,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リズナ",
-					説明 = "Eh, aRe we going to fight the\ndemon loRd?",
+					説明 = "Eh, are we going to fight the\ndemon lord?",
 				},
 			},
 		},
@@ -9375,7 +9375,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! I'm the winneR!",
+					説明 = "Gahahahaha! I'm the winner!",
 				},
 			},
 		},
@@ -9386,7 +9386,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetuRn to Rance Castle",
+					説明 = "Return to Rance Castle",
 					背景 = "森",
 					地名 = "カラーの森",
 				},
@@ -9433,7 +9433,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, KuRukuu, let's go\ntogetheR.",
+					説明 = "Alright, Kurukuu, let's go\ntogether.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 				},
@@ -9476,7 +9476,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Wow, theRe's a passage\nbehind the wateRfall...",
+					説明 = "Wow, there's a passage\nbehind the waterfall...",
 					背景 = "ＡＬ迷宮",
 					地名 = "ＡＬ本部 カイズ地下迷宮",
 					音楽 = "フィールド／迷宮",
@@ -9532,7 +9532,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "メリムが居る",
-					説明 = "When MeRim was possessed",
+					説明 = "When Merim was possessed",
 				},
 				分岐前 = {
 					！条件 = "メリムが居る",
@@ -9545,7 +9545,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "メリム",
-					説明 = "Ah, wait please. That wall\ntheRe...",
+					説明 = "Ah, wait please. That wall\nthere...",
 				},
 			},
 		},
@@ -9580,11 +9580,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "EnteR the vault",
+					説明 = "Enter the vault",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Do not enteR",
+					説明 = "Do not enter",
 				},
 			},
 		},
@@ -9614,7 +9614,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "オーロラ",
-					説明 = "GRRR...",
+					説明 = "Grrr...",
 				},
 			},
 		},
@@ -9680,7 +9680,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'll use the undeRgRound\npassage and go stRaight\nthRough.",
+					説明 = "We'll use the underground\npassage and go straight\nthrough.",
 					地名 = "ゼス横断回廊",
 					背景 = "ゼス迷宮",
 					音楽 = "フィールド／ゼス",
@@ -9744,11 +9744,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This path is also full of\nmonsteRs.",
+					説明 = "This path is also full of\nmonsters.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "That path is full of monsteRs\ntoo.",
+					説明 = "That path is full of monsters\ntoo.",
 				},
 			},
 		},
@@ -9797,7 +9797,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "EitheR way is the same, we\njust have to fight.",
+					説明 = "Either way is the same, we\njust have to fight.",
 				},
 				分岐右 = {
 					顔画像 = "ホーネット",
@@ -9846,7 +9846,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ゼス２／実行済み",
-					説明 = "Demon LoRd Medusa -\nDefeated",
+					説明 = "Demon Lord Medusa -\nDefeated",
 				},
 			},
 		},
@@ -9858,7 +9858,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "S-So scaRy...",
+					説明 = "S-So scary...",
 				},
 			},
 		},
@@ -9880,7 +9880,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "自由都市２／実行済み",
-					説明 = "Demon LoRd PiaRl - Defeated",
+					説明 = "Demon Lord Pi-R - Defeated",
 				},
 			},
 		},
@@ -9915,7 +9915,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ヘルマン２／実行済み",
-					説明 = "Demon LoRd Kessel Link -\nDefeated",
+					説明 = "Demon Lord Kesselring -\nDefeated",
 				},
 			},
 		},
@@ -9949,7 +9949,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "リーザス２／実行済み",
-					説明 = "Demon LoRd Lexington -\nDefeated",
+					説明 = "Demon Lord Lexington -\nDefeated",
 				},
 			},
 		},
@@ -9961,7 +9961,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Huff huff... I'm getting\ntiRed...",
+					説明 = "Huff huff... I'm getting\ntired...",
 				},
 			},
 		},
@@ -9977,11 +9977,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "かなみ",
-					説明 = "We should take a bReak, but\nI discoveRed something.",
+					説明 = "We should take a break, but\nI discovered something.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "This is seRious, let's take a\nbReak.",
+					説明 = "This is serious, let's take a\nbreak.",
 				},
 			},
 		},
@@ -10013,7 +10013,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge!!",
+					説明 = "Charge!!",
 				},
 			},
 		},
@@ -10068,7 +10068,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, it's a tRiumphal\nRetuRn.",
+					説明 = "Alright, it's a triumphal\nreturn.",
 					地名 = "ランス城",
 					背景 = "ランス城",
 				},
@@ -10097,7 +10097,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's go, soRtie time!",
+					説明 = "Let's go, sortie time!",
 				},
 			},
 		},
@@ -10108,7 +10108,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リック",
-					説明 = "Demon aRmy bReaks\nthRough the vanguaRd!",
+					説明 = "Demon army breaks\nthrough the vanguard!",
 				},
 			},
 		},
@@ -10119,7 +10119,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ロレックス",
-					説明 = "Get out of the way, wheRe's\nthe boss?",
+					説明 = "Get out of the way, where's\nthe boss?",
 				},
 			},
 		},
@@ -10151,7 +10151,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting foR Kinani DeseRt.",
+					説明 = "Departing for Kinani Desert.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -10204,7 +10204,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウルザ",
-					説明 = "MonsteR spotted ahead.",
+					説明 = "Monster spotted ahead.",
 				},
 				分岐右 = {
 					顔画像 = "あてな２号",
@@ -10233,7 +10233,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's begin cRossing the\ndeseRt!",
+					説明 = "Let's begin crossing the\ndesert!",
 				},
 			},
 		},
@@ -10263,7 +10263,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Quiet! We'Re going that way.",
+					説明 = "Quiet! We're going that way.",
 				},
 				分岐前 = {
 					顔画像 = "砂漠案内人",
@@ -10296,7 +10296,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It must be a miRage.",
+					説明 = "It must be a mirage.",
 				},
 			},
 		},
@@ -10322,7 +10322,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "No way, it's a miRage.",
+					説明 = "No way, it's a mirage.",
 				},
 			},
 		},
@@ -10344,7 +10344,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "砂漠案内人",
-					説明 = "That was a detouR, so let's\nget back on the oRiginal path.",
+					説明 = "That was a detour, so let's\nget back on the original path.",
 				},
 			},
 		},
@@ -10360,7 +10360,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "EnteR ShangRi-La.",
+					説明 = "Enter Shangri-La.",
 				},
 			},
 		},
@@ -10375,7 +10375,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We've infiltRated enemy\nteRRitoRy; let's pRoceed\ncaRefully.",
+					説明 = "We've infiltrated enemy\nterritory; let's proceed\ncarefully.",
 				},
 			},
 		},
@@ -10386,12 +10386,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "WheRe the danceRs aRe.",
+					説明 = "Where the dancers are.",
 					物語 = "２５７／踊り子を捜す",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "WheRe the Kayblis aRe.",
+					説明 = "Where Kayblis is.",
 					物語 = "２５７／ケイブリスを捜す",
 					フラグ = "かなみ一時離脱＝１",
 					フラグ２ = "かなみ使用不可＝１",
@@ -10419,7 +10419,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'm cuRious, but I'll deal with\nit lateR.",
+					説明 = "I'm curious, but I'll deal with\nit later.",
 				},
 			},
 		},
@@ -10433,11 +10433,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "シャリエラ",
-					説明 = "The RecoveRy point is this\nway.",
+					説明 = "The recovery point is this\nway.",
 				},
 				分岐右 = {
 					顔画像 = "シャリエラ",
-					説明 = "The meal tickets have fallen\noveR heRe.",
+					説明 = "The meal tickets have fallen\nover here.",
 				},
 			},
 		},
@@ -10458,7 +10458,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シャリエラ",
-					説明 = "Ah, oveR theRe is...",
+					説明 = "Ah, over there is...",
 					背景 = "シャングリラ／大部屋",
 					地名 = "シャングリラ劇場内",
 				},
@@ -10472,7 +10472,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "It's a gReat victoRy, LoRd\nRance.",
+					説明 = "It's a great victory, Lord\nRance.",
 				},
 			},
 		},
@@ -10483,11 +10483,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "ToRtuRe Kaybnyan (Difficult\nRoute).",
+					説明 = "Torture Kaybnyan (Difficult\nroute).",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "ToRtuRe ShaRieRa (StandaRd\nRoute).",
+					説明 = "Torture Shariela (Standard\nroute).",
 				},
 			},
 		},
@@ -10533,7 +10533,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "While we'Re at it, let's beat\nup a few moRe monsteR\nsoldieRs.",
+					説明 = "While we're at it, let's beat\nup a few more monster\nsoldiers.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
@@ -10653,7 +10653,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "The pResence is this way.",
+					説明 = "The presence is this way.",
 				},
 			},
 		},
@@ -10705,7 +10705,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's depaRt towaRds the\ntempoRaRy capital.",
+					説明 = "Let's depart towards the\ntemporary capital.",
 				},
 			},
 		},
@@ -10724,7 +10724,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Let's huRRy to Magic-san's\nplace.",
+					説明 = "Let's hurry to Magic-san's\nplace.",
 				},
 			},
 		},
@@ -10755,7 +10755,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Well, let's move foRwaRd\nwithout woRRying.",
+					説明 = "Well, let's move forward\nwithout worrying.",
 				},
 			},
 		},
@@ -10777,7 +10777,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's take caRe of some\nmonsteRs aRound heRe.",
+					説明 = "Let's take care of some\nmonsters around here.",
 				},
 				分岐左 = {
 					顔画像 = "ランス",
@@ -10846,7 +10846,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミラクル",
-					説明 = "Hmm. I Really enjoyed it.",
+					説明 = "Hmm. I really enjoyed it.",
 					フラグ = "アニス使用不可＝０",
 				},
 			},
@@ -10885,7 +10885,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Moving while escoRting the\nfood tRanspoRt team.",
+					説明 = "Moving while escorting the\nfood transport team.",
 					背景 = "山道",
 				},
 			},
@@ -10898,7 +10898,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "Let's keep going stRong!",
+					説明 = "Let's keep going strong!",
 				},
 			},
 		},
@@ -10924,7 +10924,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Bandits have appeaRed; we\nneed to stay aleRt.",
+					説明 = "Bandits have appeared; we\nneed to stay alert.",
 				},
 			},
 		},
@@ -10936,7 +10936,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, it's cleaR now, let's\nResume the maRch.",
+					説明 = "Alright, it's clear now, let's\nresume the march.",
 				},
 			},
 		},
@@ -10947,7 +10947,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Now that it's cleaR, it's hot\ntoo, damn.",
+					説明 = "Now that it's clear, it's hot\ntoo, damn.",
 				},
 			},
 		},
@@ -10964,11 +10964,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "As a gentleman, I will help\nthe giRl and bReak Elena's\ncuRse.",
+					説明 = "As a gentleman, I will help\nthe girl and break Elena's\ncurse.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Use whateveR can be used;\nmake Elena as she is into my\nsuboRdinate.",
+					説明 = "Use whatever can be used;\nmake Elena as she is into my\nsubordinate.",
 				},
 			},
 		},
@@ -10979,7 +10979,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahaha, I'm satisfied, veRy\nsatisfied.",
+					説明 = "Gahaha, I'm satisfied, very\nsatisfied.",
 					フラグ = "エレナは山賊＝０",
 				},
 			},
@@ -10992,7 +10992,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The bandits have been\neliminated; let's move\nfoRwaRd.",
+					説明 = "The bandits have been\neliminated; let's move\nforward.",
 				},
 			},
 		},
@@ -11009,7 +11009,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The bandits have been\neliminated; let's move\nfoRwaRd.",
+					説明 = "The bandits have been\neliminated; let's move\nforward.",
 				},
 			},
 		},
@@ -11024,7 +11024,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Let's keep going even while\nLoRd Rance is Resting.",
+					説明 = "Let's keep going even while\nLord Rance is resting.",
 				},
 			},
 		},
@@ -11043,7 +11043,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Shall we head to the\nfRont-line base, ouR\ndestination?",
+					説明 = "Shall we head to the\nfront-line base, our\ndestination?",
 					地名 = "ゼス",
 					背景 = "街道２",
 					音楽 = "フィールド／ゼス",
@@ -11057,7 +11057,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "Rain, Rain pouRing down.",
+					説明 = "Rain, rain pouring down.",
 				},
 			},
 		},
@@ -11071,11 +11071,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Take shelteR fRom the Rain.",
+					説明 = "Take shelter from the rain.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Keep going thRough as is.",
+					説明 = "Keep going through as is.",
 				},
 			},
 		},
@@ -11108,7 +11108,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Change destination; aim foR\nOld Zeth.",
+					説明 = "Change destination; aim for\nOld Zeth.",
 					背景 = "ゼス平原／日照",
 				},
 			},
@@ -11148,7 +11148,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "シィル",
-					説明 = "Shall we take a shoRt bReak?",
+					説明 = "Shall we take a short break?",
 				},
 			},
 		},
@@ -11171,13 +11171,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRioRitize defeating Galtia.",
+					説明 = "Prioritize defeating Galtia.",
 					背景 = "街道２",
 					地名 = "ゼス",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go to SunfloweR Village.",
+					説明 = "Go to Sunflower Village.",
 					背景 = "街道２",
 					地名 = "ゼス",
 				},
@@ -11213,11 +11213,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Just kidding, go meet heR\nalone.",
+					説明 = "Just kidding, go meet her\nalone.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Let's go meet heR togetheR.",
+					説明 = "Let's go meet her together.",
 				},
 			},
 		},
@@ -11241,7 +11241,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Thank you veRy much, LoRd\nRance.",
+					説明 = "Thank you very much, Lord\nRance.",
 					背景 = "街道２",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -11296,7 +11296,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "サイアス",
-					説明 = "Well, Rest youR body until\nthe soRtie.",
+					説明 = "Well, rest your body until\nthe sortie.",
 				},
 				分岐右 = {
 					顔画像 = "ウスピラ",
@@ -11322,7 +11322,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's depaRt.",
+					説明 = "Let's depart.",
 					背景 = "ゼス平原",
 					地名 = "ニカニカ平原",
 					音楽 = "フィールド／ゼス",
@@ -11334,7 +11334,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge towaRds the Imo.",
+					説明 = "Charge towards the Imo.",
 					背景 = "巨大ホフホフ",
 				},
 			},
@@ -11354,7 +11354,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It smells like potatoes, but\nlet's pRoceed inside.",
+					説明 = "It smells like potatoes, but\nlet's proceed inside.",
 				},
 			},
 		},
@@ -11383,7 +11383,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "(Ugh... I'm getting hungRy...)",
+					説明 = "(Ugh... I'm getting hungry...)",
 				},
 			},
 		},
@@ -11393,11 +11393,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "(Sometimes I think the\nimpoRtant thing is the butt.)",
+					説明 = "(Sometimes I think the\nimportant thing is the butt.)",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "(Sometimes I think the\nimpoRtant thing is bReasts.)",
+					説明 = "(Sometimes I think the\nimportant thing is breasts.)",
 				},
 			},
 		},
@@ -11444,7 +11444,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "A big eateR, huh? This will be\neasy.",
+					説明 = "A big eater, huh? This will be\neasy.",
 				},
 			},
 		},
@@ -11460,7 +11460,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "VictoRy! Finished eating it all.",
+					説明 = "Victory! Finished eating it all.",
 				},
 			},
 		},
@@ -11472,11 +11472,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "--- *NoRmal",
+					説明 = "--- *Normal",
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "VictoRy! Finished eating it all\n*Special",
+					説明 = "Victory! Finished eating it all\n*Special",
 				},
 			},
 		},
@@ -11487,7 +11487,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ugh, I can't eat anymoRe...",
+					説明 = "Ugh, I can't eat anymore...",
 				},
 			},
 		},
@@ -11554,7 +11554,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's haRd to bReathe. I'm\nstaRting to feel dizzy.",
+					説明 = "It's hard to breathe. I'm\nstarting to feel dizzy.",
 				},
 			},
 		},
@@ -11565,7 +11565,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "DeRo deRoRin (slimy\ndRipping sound).",
+					説明 = "Dero derorin (slimy\ndripping sound).",
 				},
 			},
 		},
@@ -11587,7 +11587,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WheRe is the exit! It must be\nsomewheRe.",
+					説明 = "Where is the exit! It must be\nsomewhere.",
 				},
 			},
 		},
@@ -11597,11 +11597,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "I guess I'll just have to move\nfoRwaRd Randomly.",
+					説明 = "I guess I'll just have to move\nforward randomly.",
 				},
 				分岐右 = {
 					顔画像 = "カロリア",
-					説明 = "I sense the pResence of a\nliving cReatuRe.",
+					説明 = "I sense the presence of a\nliving creature.",
 				},
 			},
 		},
@@ -11639,7 +11639,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance... at this Rate...",
+					説明 = "Lord Rance... at this rate...",
 				},
 			},
 		},
@@ -11685,7 +11685,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Whew... I finally feel noRmal\nagain.",
+					説明 = "Whew... I finally feel normal\nagain.",
 				},
 			},
 		},
@@ -11720,7 +11720,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Feeling RefReshed, we set off\nat dawn.",
+					説明 = "Feeling refreshed, we set off\nat dawn.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -11737,7 +11737,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ロッキー",
-					説明 = "LoRd Rance, heRe is some\nwateR.",
+					説明 = "Lord Rance, here is some\nwater.",
 					背景 = "山道",
 					地名 = "ゼス",
 				},
@@ -11755,7 +11755,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "HuRRy, huRRy! IgnoRe the\nsmall fRy.",
+					説明 = "Hurry, hurry! Ignore the\nsmall fry.",
 				},
 			},
 		},
@@ -11769,12 +11769,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We need time now. Give\nthem some food oR\nsomething.",
+					説明 = "We need time now. Give\nthem some food or\nsomething.",
 					物語 = "２３０／５／選択／食べ物渡す",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Fight faiR and squaRe.",
+					説明 = "Fight fair and square.",
 					背景 = "ゼス平原",
 					地名 = "ニカニカ平原",
 				},
@@ -11798,7 +11798,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "カロリア",
-					説明 = "KaRo's poison? UndeRstood.",
+					説明 = "Karo's poison? Understood.",
 					背景 = "街道２",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -11806,7 +11806,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ちぬ",
-					説明 = "Even dRagon-class foes\ninstantly die with a single hit.\nSuch a wondeRful poison\nyou've pRepaRed☆",
+					説明 = "Even dragon-class foes\ninstantly die with a single hit.\nSuch a wonderful poison\nyou've prepared☆",
 					背景 = "ＪＡＰＡＮ街道",
 					地名 = "ＪＡＰＡＮ",
 					音楽 = "フィールド／ＪＡＰＡＮ",
@@ -11833,7 +11833,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "The secRet valley is\ndangeRous, so pRoceed\ncaRefully.",
+					説明 = "The secret valley is\ndangerous, so proceed\ncarefully.",
 				},
 			},
 		},
@@ -11851,7 +11851,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "Rolling, Rolling.",
+					説明 = "Rolling, rolling.",
 				},
 			},
 		},
@@ -11884,7 +11884,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's full of bugs I've neveR\nseen befoRe...",
+					説明 = "It's full of bugs I've never\nseen before...",
 				},
 			},
 		},
@@ -11897,7 +11897,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SnoRe snoRe...",
+					説明 = "Snore snore...",
 				},
 			},
 		},
@@ -11914,7 +11914,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetuRning to base.",
+					説明 = "Returning to base.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -11926,7 +11926,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Then we'll head to JAPAN,\nRight?",
+					説明 = "Then we'll head to JAPAN,\nright?",
 				},
 			},
 		},
@@ -11956,7 +11956,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "It's daRk... I'll light a toRch.",
+					説明 = "It's dark... I'll light a torch.",
 				},
 			},
 		},
@@ -11978,7 +11978,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ClatteR clatteR! So noisy.",
+					説明 = "Clatter clatter! So noisy.",
 				},
 			},
 		},
@@ -11995,7 +11995,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Poison is Ready. Let's RetuRn\nto base.",
+					説明 = "Poison is ready. Let's return\nto base.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -12013,7 +12013,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRepaRe foR soRtie! Don't\nslack off.",
+					説明 = "Prepare for sortie! Don't\nslack off.",
 				},
 			},
 		},
@@ -12024,7 +12024,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'Re heading out to defeat\nGaltia!",
+					説明 = "We're heading out to defeat\nGaltia!",
 					背景 = "巨大ホフホフ",
 					地名 = "ニカニカ平原",
 					音楽 = "フィールド／ゼス",
@@ -12046,7 +12046,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This time we'll finish off Galtia\nfoR suRe.",
+					説明 = "This time we'll finish off Galtia\nfor sure.",
 				},
 			},
 		},
@@ -12056,11 +12056,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "かなみ",
-					説明 = "Enemy ahead. Let's go\naRound.",
+					説明 = "Enemy ahead. Let's go\naround.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's an enemy. Let's chaRge.",
+					説明 = "It's an enemy. Let's charge.",
 				},
 			},
 		},
@@ -12088,11 +12088,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "かなみ",
-					説明 = "Enemy ahead. Let's go\naRound.",
+					説明 = "Enemy ahead. Let's go\naround.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's an enemy. Let's chaRge.",
+					説明 = "It's an enemy. Let's charge.",
 				},
 			},
 		},
@@ -12121,7 +12121,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I Refuse!",
+					説明 = "I refuse!",
 				},
 			},
 		},
@@ -12135,7 +12135,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "香姫",
-					説明 = "MR. Galtia...",
+					説明 = "Mr. Galtia...",
 				},
 			},
 		},
@@ -12209,11 +12209,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Play with Magic, then RetuRn.",
+					説明 = "Play with Magic, then return.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Keep defeating the demons in\nsuccession. WaRning: High\ndifficulty.",
+					説明 = "Keep defeating the demons in\nsuccession. Warning: High\ndifficulty.",
 				},
 			},
 		},
@@ -12255,7 +12255,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サイアス",
-					説明 = "StaRt the counteRattack.",
+					説明 = "Start the counterattack.",
 				},
 			},
 		},
@@ -12283,7 +12283,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "TRiumphant RetuRn to MaRk.",
+					説明 = "Triumphant return to Mark.",
 				},
 			},
 		},
@@ -12294,7 +12294,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AfteR playing with Magic,\nRetuRn to Rance Castle.",
+					説明 = "After playing with Magic,\nreturn to Rance Castle.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -12374,7 +12374,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ガンジー",
-					説明 = "The enemy leadeR is Right in\nfRont of us. Let's go.",
+					説明 = "The enemy leader is right in\nfront of us. Let's go.",
 				},
 			},
 		},
@@ -12388,7 +12388,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Com.plete.Vic.to.Ry!",
+					説明 = "Com.plete.Vic.to.ry!",
 				},
 			},
 		},
@@ -12428,7 +12428,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's advance once again\ntowaRds Zeth.",
+					説明 = "Let's advance once again\ntowards Zeth.",
 				},
 			},
 		},
@@ -12459,7 +12459,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カフェ",
-					説明 = "Let's move foRwaRd now,\nanyway.",
+					説明 = "Let's move forward now,\nanyway.",
 				},
 			},
 		},
@@ -12552,7 +12552,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, I can see the\nmaRk.",
+					説明 = "Lord Rance, I can see the\nmark.",
 				},
 			},
 		},
@@ -12567,7 +12567,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "BReak time, bReak time. Let's\nsleep.",
+					説明 = "Break time, break time. Let's\nsleep.",
 				},
 			},
 		},
@@ -12578,7 +12578,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SnoRe snoRe...",
+					説明 = "Snore snore...",
 				},
 			},
 		},
@@ -12589,7 +12589,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's depaRt.",
+					説明 = "Alright, let's depart.",
 					背景 = "ゼス平原",
 					地名 = "戦場　マーク近郊",
 					音楽 = "フィールド／支援",
@@ -12604,7 +12604,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge!",
+					説明 = "Charge!",
 				},
 			},
 		},
@@ -12619,7 +12619,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Anyone who stands befoRe\nme will be killed!",
+					説明 = "Anyone who stands before\nme will be killed!",
 				},
 			},
 		},
@@ -12629,15 +12629,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Those aRe monsteR soldieRs;\nlet's scatteR them.",
+					説明 = "Those are monster soldiers;\nlet's scatter them.",
 				},
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, this is item\nenhancement.",
+					説明 = "Lord Rance, this is item\nenhancement.",
 				},
 				分岐右 = {
 					顔画像 = "かなみ",
-					説明 = "I've scouted ahead. TheRe's a\ntReasuRe chest on this path.",
+					説明 = "I've scouted ahead. There's a\ntreasure chest on this path.",
 				},
 			},
 		},
@@ -12648,7 +12648,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The SupReme CommandeR is\npassing thRough!",
+					説明 = "The Supreme Commander is\npassing through!",
 				},
 			},
 		},
@@ -12685,7 +12685,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Fool! The enemy geneRal is\noveR theRe!",
+					説明 = "Fool! The enemy general is\nover there!",
 				},
 			},
 		},
@@ -12706,7 +12706,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Take this! Smoke scReen!",
+					説明 = "Take this! Smoke screen!",
 				},
 			},
 		},
@@ -12715,7 +12715,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "Run, Run! HuRRy!",
+					説明 = "Run, run! Hurry!",
 				},
 			},
 		},
@@ -12729,7 +12729,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "It's stiff/haRd.",
+					説明 = "It's stiff/hard.",
 				},
 			},
 		},
@@ -12740,11 +12740,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Let's look foR something\ninside the foRt.",
+					説明 = "Let's look for something\ninside the fort.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Let's take a little Rest at the\nfoRt.",
+					説明 = "Let's take a little rest at the\nfort.",
 				},
 			},
 		},
@@ -12765,7 +12765,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's go towaRd the diRection\nwheRe the light fell.",
+					説明 = "Let's go toward the direction\nwhere the light fell.",
 					背景 = "ゼス平原",
 					地名 = "戦場　マーク近郊",
 					音楽 = "フィールド／支援",
@@ -12821,7 +12821,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "FoR now, should we head\nback?",
+					説明 = "For now, should we head\nback?",
 				},
 			},
 		},
@@ -12835,7 +12835,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Well, let's take a bReak.",
+					説明 = "Well, let's take a break.",
 				},
 			},
 		},
@@ -12846,7 +12846,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hm? TheRe's a knocking\nsound...",
+					説明 = "Hm? There's a knocking\nsound...",
 				},
 			},
 		},
@@ -12857,7 +12857,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "And then, dawn bRoke...",
+					説明 = "And then, dawn broke...",
 				},
 			},
 		},
@@ -12869,7 +12869,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "No choice, let's set out foR\nthe Royal capital.",
+					説明 = "No choice, let's set out for\nthe royal capital.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -12882,7 +12882,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウルザ",
-					説明 = "Let's take a detouR so we\naRen't detected by the demon\naRmy.",
+					説明 = "Let's take a detour so we\naren't detected by the demon\narmy.",
 				},
 			},
 		},
@@ -12928,7 +12928,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -12943,7 +12943,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リセット",
-					説明 = "So slimy, theRe's a lot of it.",
+					説明 = "So slimy, there's a lot of it.",
 				},
 			},
 		},
@@ -12959,7 +12959,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -12975,7 +12975,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "CoveRed in sticky goop...",
+					説明 = "Covered in sticky goop...",
 				},
 			},
 		},
@@ -12990,7 +12990,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					！条件 = "引き分け",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -13077,7 +13077,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ugh, theRe aRe too many\nGuaRdians.",
+					説明 = "Ugh, there are too many\nGuardians.",
 				},
 			},
 		},
@@ -13115,7 +13115,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウルザ",
-					説明 = "Let's huRRy.",
+					説明 = "Let's hurry.",
 				},
 			},
 		},
@@ -13126,7 +13126,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ルーシー",
-					説明 = "I see it. That Room.",
+					説明 = "I see it. That room.",
 				},
 			},
 		},
@@ -13152,7 +13152,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マジック",
-					説明 = "Well then... let's RetuRn to\nthe maRk.",
+					説明 = "Well then... let's return to\nthe mark.",
 				},
 			},
 		},
@@ -13176,7 +13176,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance... please, Rest a\nlittle foR now.",
+					説明 = "Lord Rance... please, rest a\nlittle for now.",
 				},
 			},
 		},
@@ -13187,7 +13187,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'll depaRt immediately!",
+					説明 = "We'll depart immediately!",
 					背景 = "ゼス平原",
 					地名 = "戦場",
 				},
@@ -13231,7 +13231,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge! StRaight ahead,\nshoRtest distance.",
+					説明 = "Charge! Straight ahead,\nshortest distance.",
 				},
 			},
 		},
@@ -13259,7 +13259,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I don't have time foR small\nfRy.",
+					説明 = "I don't have time for small\nfry.",
 				},
 			},
 		},
@@ -13270,7 +13270,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウルザ",
-					説明 = "HuRRy up! Pick up those\nabout to fall behind, full\nspeed ahead!",
+					説明 = "Hurry up! Pick up those\nabout to fall behind, full\nspeed ahead!",
 				},
 			},
 		},
@@ -13281,7 +13281,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, heRe's some\nwateR, hydRating!",
+					説明 = "Lord Rance, here's some\nwater, hydrating!",
 				},
 			},
 		},
@@ -13296,7 +13296,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "TheRe!",
+					説明 = "There!",
 				},
 			},
 		},
@@ -13313,11 +13313,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -13343,7 +13343,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance...",
+					説明 = "Lord Rance...",
 				},
 			},
 		},
@@ -13368,7 +13368,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Well then, let's depaRt!",
+					説明 = "Well then, let's depart!",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 					音楽 = "フィールド／ゼス",
@@ -13382,7 +13382,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Please wait foR me...",
+					説明 = "Please wait for me...",
 				},
 			},
 		},
@@ -13396,7 +13396,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "I'm afRaid...",
+					説明 = "I'm afraid...",
 				},
 			},
 		},
@@ -13421,7 +13421,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "シィル",
-					説明 = "BReaking thRough enemy\nfoRces!",
+					説明 = "Breaking through enemy\nforces!",
 				},
 				分岐右 = {
 					顔画像 = "シィル",
@@ -13444,7 +13444,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐左 = {
 					条件 = "引き分け",
@@ -13480,11 +13480,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "シィル",
-					説明 = "A stRaight shot ahead?",
+					説明 = "A straight shot ahead?",
 				},
 				分岐右 = {
 					顔画像 = "シィル",
-					説明 = "Maybe a detouR Route...",
+					説明 = "Maybe a detour route...",
 				},
 			},
 		},
@@ -13503,7 +13503,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐左 = {
 					条件 = "引き分け",
@@ -13519,7 +13519,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "FoRwaRd... I have to keep\ngoing...",
+					説明 = "Forward... I have to keep\ngoing...",
 				},
 			},
 		},
@@ -13533,7 +13533,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					条件 = "健太郎が居る",
-					説明 = "When I had KentaRou",
+					説明 = "When I had Kentarou",
 				},
 			},
 		},
@@ -13544,7 +13544,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "健太郎",
-					説明 = "AlRight, pRactice is oveR!",
+					説明 = "Alright, practice is over!",
 				},
 			},
 		},
@@ -13554,7 +13554,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Just a little moRe...",
+					説明 = "Just a little more...",
 				},
 			},
 		},
@@ -13650,7 +13650,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'Re enteRing Zeth's\ncapital.",
+					説明 = "We're entering Zeth's\ncapital.",
 				},
 			},
 			背景 = "ゼス城",
@@ -13675,7 +13675,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Feeling RefReshed, feeling\nRefReshed. Now let's go.",
+					説明 = "Feeling refreshed, feeling\nrefreshed. Now let's go.",
 				},
 			},
 		},
@@ -13689,13 +13689,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "NahaRl Mall looks suspicious.",
+					説明 = "Naharl Mall looks suspicious.",
 					フラグ = "ゼス３の移動先＝１",
 					地名 = "ナガールモール周辺",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "No, it's SuRimido.",
+					説明 = "No, it's Surimido.",
 					フラグ = "ゼス３の移動先＝２",
 					地名 = "スリミド周辺",
 				},
@@ -13715,7 +13715,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リセット",
-					説明 = "Amazing, so daRk, so daRk.",
+					説明 = "Amazing, so dark, so dark.",
 				},
 			},
 		},
@@ -13745,7 +13745,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Night is my specialty... I'll\nquickly seaRch foR enemies.",
+					説明 = "Night is my specialty... I'll\nquickly search for enemies.",
 				},
 			},
 		},
@@ -13785,7 +13785,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Can't be helped, I'll look\nseRiously.",
+					説明 = "Can't be helped, I'll look\nseriously.",
 				},
 			},
 		},
@@ -13842,7 +13842,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Tch. Should I sleep alReady...",
+					説明 = "Tch. Should I sleep already...",
 				},
 			},
 		},
@@ -13853,7 +13853,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "*snoRe*... *snoRe*",
+					説明 = "*snore*... *snore*",
 				},
 			},
 		},
@@ -13865,7 +13865,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'm going to go aRound\ncRushing the demon aRmy.",
+					説明 = "I'm going to go around\ncrushing the demon army.",
 					地名 = "ゼス地域",
 					背景 = "街道２",
 					音楽 = "フィールド／ゼス",
@@ -13891,7 +13891,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "キャロリ",
-					説明 = "EveRyone, don't foRget to\nstay hydRated.",
+					説明 = "Everyone, don't forget to\nstay hydrated.",
 				},
 			},
 		},
@@ -13925,11 +13925,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge towaRds the demon\naRmy.",
+					説明 = "Charge towards the demon\narmy.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge towaRds the Hanny\naRea.",
+					説明 = "Charge towards the Hanny\narea.",
 				},
 				分岐左 = {
 					顔画像 = "ランス",
@@ -13964,7 +13964,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "AlRight! Got them!",
+					説明 = "Alright! Got them!",
 				},
 			},
 		},
@@ -14001,7 +14001,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ロッキー",
-					説明 = "Huh, aRe you going that\nway?",
+					説明 = "Huh, are you going that\nway?",
 				},
 			},
 		},
@@ -14011,7 +14011,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "We'Re moving fuRtheR and\nfuRtheR away fRom the\nbattlefield.",
+					説明 = "We're moving further and\nfurther away from the\nbattlefield.",
 				},
 			},
 		},
@@ -14039,7 +14039,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Huh, wheRe is LoRd Rance...",
+					説明 = "Huh, where is Lord Rance...",
 				},
 			},
 		},
@@ -14087,7 +14087,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "Hmm! Enemies, masteR!",
+					説明 = "Hmm! Enemies, master!",
 				},
 			},
 		},
@@ -14102,7 +14102,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Huh, wheRe is LoRd Rance...",
+					説明 = "Huh, where is Lord Rance...",
 				},
 			},
 		},
@@ -14124,7 +14124,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, shall we depaRt?\nSeeking new giRls.",
+					説明 = "Alright, shall we depart?\nSeeking new girls.",
 					背景 = "森",
 					地名 = "ペトロの森",
 					音楽 = "フィールド／ゼス",
@@ -14142,7 +14142,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Just now, somewheRe I\nthought I heaRd the sound of\npotteRy bReaking...",
+					説明 = "Just now, somewhere I\nthought I heard the sound of\npottery breaking...",
 				},
 			},
 		},
@@ -14166,7 +14166,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Those scoundRels,\nunfoRgivable.",
+					説明 = "Those scoundrels,\nunforgivable.",
 				},
 			},
 		},
@@ -14177,7 +14177,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRtuRe",
+					説明 = "Departure",
 					地名 = "ゼス",
 					背景 = "街道２",
 					音楽 = "フィールド／ゼス",
@@ -14191,7 +14191,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "香姫",
-					説明 = "BefoRe huRRying... let's take\na shoRt bReak.",
+					説明 = "Before hurrying... let's take\na short break.",
 				},
 			},
 		},
@@ -14208,7 +14208,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "CooRdinates aRe known.\nChaRge!",
+					説明 = "Coordinates are known.\nCharge!",
 				},
 			},
 		},
@@ -14222,7 +14222,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's go! We'Re stoRming the\nbattlefield!",
+					説明 = "Let's go! We're storming the\nbattlefield!",
 				},
 			},
 		},
@@ -14261,11 +14261,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Heading towaRds the\ndiRection wheRe the demon\naRmy is.",
+					説明 = "Heading towards the\ndirection where the demon\narmy is.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading towaRds the\ndiRection wheRe the Hanny\naRmy is.",
+					説明 = "Heading towards the\ndirection where the Hanny\narmy is.",
 				},
 			},
 		},
@@ -14276,7 +14276,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "WheRe is the boss?",
+					説明 = "Where is the boss?",
 				},
 			},
 		},
@@ -14302,7 +14302,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "IgnoRe the haniwa. Let's aim\nstRaight foR the big boss!",
+					説明 = "Ignore the haniwa. Let's aim\nstraight for the big boss!",
 				},
 			},
 		},
@@ -14344,7 +14344,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Vic-to-Ry!",
+					説明 = "Vic-to-ry!",
 				},
 			},
 		},
@@ -14381,7 +14381,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Defeat the demon aRmy and\ngain favoR with the Zeiss\nfolks.",
+					説明 = "Defeat the demon army and\ngain favor with the Zeiss\nfolks.",
 				},
 			},
 		},
@@ -14396,11 +14396,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Dynamically destRoy the\nlaRge enemy foRces.",
+					説明 = "Dynamically destroy the\nlarge enemy forces.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "CleveRly eliminate the small\nunits.",
+					説明 = "Cleverly eliminate the small\nunits.",
 				},
 			},
 		},
@@ -14428,7 +14428,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Quickly wipe them out as we\nmove aRound.",
+					説明 = "Quickly wipe them out as we\nmove around.",
 				},
 			},
 		},
@@ -14454,7 +14454,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's keep up this momentum\nand cRush them!",
+					説明 = "Let's keep up this momentum\nand crush them!",
 				},
 			},
 		},
@@ -14475,11 +14475,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We've eaRned enough battle\nachievements; let's pull back.",
+					説明 = "We've earned enough battle\nachievements; let's pull back.",
 				},
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Not yet, we'll fight a little\nlongeR.",
+					説明 = "Not yet, we'll fight a little\nlonger.",
 				},
 			},
 		},
@@ -14520,7 +14520,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting foR Hellman!",
+					説明 = "Departing for Hellman!",
 					背景 = "ＪＡＰＡＮ街道",
 					地名 = "ＪＡＰＡＮ",
 					音楽 = "フィールド／ヘルマン",
@@ -14568,7 +14568,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Aiming foR the giant\nbattleship Ruins.",
+					説明 = "Aiming for the giant\nbattleship ruins.",
 				},
 			},
 		},
@@ -14600,7 +14600,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's go, soRtie time!",
+					説明 = "Let's go, sortie time!",
 				},
 			},
 		},
@@ -14611,7 +14611,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "謙信",
-					説明 = "We have the pRotection of\nBishamonten!",
+					説明 = "We have the protection of\nBishamonten!",
 				},
 			},
 		},
@@ -14627,7 +14627,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "パットン",
-					説明 = "With that huge size... if it was\ntheRe, it should be found...",
+					説明 = "With that huge size... if it was\nthere, it should be found...",
 				},
 			},
 		},
@@ -14654,7 +14654,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's go, soRtie time!",
+					説明 = "Let's go, sortie time!",
 				},
 			},
 		},
@@ -14681,7 +14681,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カバッハーン",
-					説明 = "Just foddeR soldieRs.\nUninteResting.",
+					説明 = "Just fodder soldiers.\nUninteresting.",
 				},
 			},
 		},
@@ -14710,7 +14710,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting towaRds Hellman.",
+					説明 = "Departing towards Hellman.",
 				},
 			},
 		},
@@ -14735,7 +14735,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Stopping by MaRgueRite.",
+					説明 = "Stopping by Marguerite.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -14761,7 +14761,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "...Wasn't it aRound heRe?",
+					説明 = "...Wasn't it around here?",
 				},
 			},
 		},
@@ -14836,7 +14836,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ヘルマン被害１／実行済み",
-					説明 = "The Zell sisteRs aRe\nalReady...",
+					説明 = "The Zell sisters are\nalready...",
 				},
 			},
 		},
@@ -14848,7 +14848,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Dungeon cleaRed!",
+					説明 = "Dungeon cleared!",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 					音楽 = "フィールド／ヘルマン",
@@ -14863,7 +14863,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Dungeon cleaRed!",
+					説明 = "Dungeon cleared!",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 					音楽 = "フィールド／ヘルマン",
@@ -14931,7 +14931,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "ヘルマン被害１／実行済み",
-					説明 = "The Zell sisteRs aRe\nalReady...",
+					説明 = "The Zell sisters are\nalready...",
 				},
 			},
 		},
@@ -14943,7 +14943,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's depaRt.",
+					説明 = "Let's depart.",
 					地名 = "ヘルマン",
 					背景 = "街道２",
 				},
@@ -14956,7 +14956,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRtuRe",
+					説明 = "Departure",
 					地名 = "ヘルマン",
 					背景 = "街道２",
 				},
@@ -14986,7 +14986,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Yes, that was a good detouR.",
+					説明 = "Yes, that was a good detour.",
 				},
 			},
 		},
@@ -15046,7 +15046,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRtuRe",
+					説明 = "Departure",
 					背景 = "街道２",
 					地名 = "ヘルマン",
 					音楽 = "フィールド／ヘルマン",
@@ -15124,7 +15124,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Babola is coming into view;\nwe'Re quite close.",
+					説明 = "Babola is coming into view;\nwe're quite close.",
 				},
 			},
 		},
@@ -15140,7 +15140,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "That giant! Just a little\nfuRtheR.",
+					説明 = "That giant! Just a little\nfurther.",
 				},
 			},
 		},
@@ -15155,7 +15155,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Umm... it's to the Right...",
+					説明 = "Umm... it's to the right...",
 				},
 			},
 		},
@@ -15171,7 +15171,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WheRe is BaboRa...? He\nshould be neaRby.",
+					説明 = "Where is Babolat...? He\nshould be nearby.",
 				},
 			},
 		},
@@ -15190,7 +15190,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This Rumbling... it's close.",
+					説明 = "This rumbling... it's close.",
 				},
 			},
 		},
@@ -15203,11 +15203,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					！条件 = "引き分け",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 				分岐前 = {
 					条件 = "引き分け",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 			},
 		},
@@ -15219,7 +15219,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's head back foR now.",
+					説明 = "Let's head back for now.",
 					地名 = "ヘルマン",
 					背景 = "ヘルマン平原",
 				},
@@ -15235,7 +15235,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "But fiRst, let's take a shoRt\nbReak.",
+					説明 = "But first, let's take a short\nbreak.",
 				},
 			},
 		},
@@ -15246,7 +15246,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミラクル",
-					説明 = "OuR destination is the\nTunguska Highlands.",
+					説明 = "Our destination is the\nTunguska Highlands.",
 					背景 = "山道",
 					地名 = "ヘルマン",
 					音楽 = "フィールド／ヘルマン",
@@ -15259,7 +15259,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "We will climb up heRe.",
+					説明 = "We will climb up here.",
 				},
 			},
 		},
@@ -15438,7 +15438,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's head back foR now.",
+					説明 = "Let's head back for now.",
 					地名 = "ヘルマン",
 					背景 = "ヘルマン平原",
 					音楽 = "フィールド／ヘルマン",
@@ -15479,7 +15479,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This time, I'll kill BaboRa foR\nsuRe.",
+					説明 = "This time, I'll kill Babolat for\nsure.",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 					音楽 = "フィールド／ヘルマン",
@@ -15505,7 +15505,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Anyway, let's escape fRom\nthis aRea.",
+					説明 = "Anyway, let's escape from\nthis area.",
 				},
 			},
 		},
@@ -15521,7 +15521,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's full of Demon ARmy.",
+					説明 = "It's full of Demon Army.",
 				},
 			},
 		},
@@ -15562,7 +15562,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "PRioRitize exteRminating\nBaboRa.",
+					説明 = "Prioritize exterminating\nBabolat.",
 					物語 = "２２０／４／謙信とは別行動",
 					フラグ = "謙信ルート＝０",
 					背景 = "ヘルマン平原",
@@ -15576,7 +15576,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "謙信",
-					説明 = "LoRd Rance, thank you foR\nyouR help.",
+					説明 = "Lord Rance, thank you for\nyour help.",
 				},
 			},
 		},
@@ -15603,7 +15603,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "謙信",
-					説明 = "WheRe's the next enemy? Is\nit theRe!",
+					説明 = "Where's the next enemy? Is\nit there!",
 				},
 			},
 		},
@@ -15620,7 +15620,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, the enemies aRe\ncoming.",
+					説明 = "Lord Rance, the enemies are\ncoming.",
 				},
 			},
 		},
@@ -15640,7 +15640,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's puRsue Kenshin.",
+					説明 = "Let's pursue Kenshin.",
 				},
 			},
 		},
@@ -15655,7 +15655,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "愛",
-					説明 = "EveRyone, RetReat.",
+					説明 = "Everyone, retreat.",
 					地名 = "ヘルマン",
 					背景 = "ヘルマン平原",
 				},
@@ -15671,7 +15671,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Phew... finally caught a\nbReath.",
+					説明 = "Phew... finally caught a\nbreath.",
 				},
 			},
 		},
@@ -15727,7 +15727,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's RetuRn to camp.",
+					説明 = "Alright, let's return to camp.",
 				},
 			},
 		},
@@ -15785,7 +15785,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Chase afteR Anacel.",
+					説明 = "Chase after Anacel.",
 				},
 			},
 		},
@@ -15807,7 +15807,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Now that we'Re RefReshed,\nlet's hunt down the demon.",
+					説明 = "Now that we're refreshed,\nlet's hunt down the demon.",
 				},
 			},
 		},
@@ -15826,7 +15826,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's infiltRate.",
+					説明 = "Alright, let's infiltrate.",
 				},
 			},
 		},
@@ -15840,7 +15840,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "Rance and the otheRs\nboaRded the laRge sauceR.",
+					説明 = "Rance and the others\nboarded the large saucer.",
 				},
 			},
 		},
@@ -15851,7 +15851,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hide in the sauceR.",
+					説明 = "Hide in the saucer.",
 					物語 = "２２０／選択／皿に隠れる",
 					背景 = "空／へルマン空",
 					地名 = "ノシタタ村",
@@ -15865,7 +15865,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "BaboRa bRought a food-laden\ndish Right in fRont of his face.",
+					説明 = "Babolat brought a food-laden\ndish right in front of his face.",
 				},
 			},
 		},
@@ -15880,7 +15880,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Demon BaboRa defeated.",
+					説明 = "Demon Babolat defeated.",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 				},
@@ -15943,7 +15943,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AfteR playing with Sheila,\nRetuRn to Rance's castle.",
+					説明 = "After playing with Sheila,\nreturn to Rance's castle.",
 				},
 			},
 		},
@@ -15963,7 +15963,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Into the depths of the foRest.",
+					説明 = "Into the depths of the forest.",
 				},
 			},
 		},
@@ -16117,7 +16117,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アナセル",
-					説明 = "RemembeR this...",
+					説明 = "Remember this...",
 				},
 			},
 		},
@@ -16139,12 +16139,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "To the highway wheRe\nmonsteRs aRe said to be.",
+					説明 = "To the highway where\nmonsters are said to be.",
 					背景 = "街道２",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "DetouR aRound the highway.",
+					説明 = "Detour around the highway.",
 				},
 			},
 		},
@@ -16212,7 +16212,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRt, inteRcept the Demon\nARmy.",
+					説明 = "Depart, intercept the Demon\nArmy.",
 					背景 = "ヘルマン平原",
 					地名 = "戦場　ラングバウ西",
 					音楽 = "フィールド／戦場",
@@ -16230,7 +16230,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DetouR, detouR.",
+					説明 = "Detour, detour.",
 				},
 			},
 		},
@@ -16274,7 +16274,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, Rice ball",
+					説明 = "Lord Rance, rice ball",
 				},
 			},
 		},
@@ -16344,7 +16344,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "We will soRtie now.",
+					説明 = "We will sortie now.",
 					物語 = "２２１／３／昼のトランシルバニア",
 					背景 = "トランシルバニアの森",
 					地名 = "トランシルバニアの森",
@@ -16352,7 +16352,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Wait until night to soRtie.",
+					説明 = "Wait until night to sortie.",
 					物語 = "２２１／３／夜のトランシルバニア",
 					背景 = "トランシルバニアの森／夜",
 					地名 = "トランシルバニアの森",
@@ -16395,11 +16395,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "シィル",
-					説明 = "I've pRepaRed a midnight\nsnack.",
+					説明 = "I've prepared a midnight\nsnack.",
 				},
 				分岐右 = {
 					顔画像 = "アミトス",
-					説明 = "Let's push foRwaRd!",
+					説明 = "Let's push forward!",
 				},
 			},
 		},
@@ -16471,7 +16471,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Excuse me (foR distuRbing).",
+					説明 = "Excuse me (for disturbing).",
 				},
 			},
 		},
@@ -16516,15 +16516,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Go down the staiRs.",
+					説明 = "Go down the stairs.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Open the laRge dooR.",
+					説明 = "Open the large door.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed down the Right\ncoRRidoR.",
+					説明 = "Proceed down the right\ncorridor.",
 				},
 			},
 		},
@@ -16563,7 +16563,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "屋敷の結界解除１回目",
-					説明 = "Mansion's baRRieR 25%\ndismantled.",
+					説明 = "Mansion's barrier 25%\ndismantled.",
 					フラグ = "ループ終了",
 				},
 				分岐右 = {
@@ -16637,7 +16637,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "屋敷の結界解除２回目",
-					説明 = "Mansion's baRRieR 50%\ndismantled.",
+					説明 = "Mansion's barrier 50%\ndismantled.",
 					フラグ = "ループ終了",
 				},
 				分岐右 = {
@@ -16670,15 +16670,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "RetRace the path.",
+					説明 = "Retrace the path.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go down the staiRs.",
+					説明 = "Go down the stairs.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Pass thRough a Room that\nlooks like a study.",
+					説明 = "Pass through a room that\nlooks like a study.",
 				},
 			},
 		},
@@ -16711,7 +16711,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "屋敷の結界解除３回目",
-					説明 = "Mansion's baRRieR 75%\ndismantled.",
+					説明 = "Mansion's barrier 75%\ndismantled.",
 					フラグ = "ループ終了",
 				},
 				分岐右 = {
@@ -16754,7 +16754,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's seaRch foR Kessellink.",
+					説明 = "Let's search for Kessellink.",
 				},
 			},
 		},
@@ -16796,7 +16796,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, then let's kill the\ndemon god.",
+					説明 = "Alright, then let's kill the\ndemon god.",
 				},
 			},
 		},
@@ -16811,7 +16811,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Damn, let's RetReat foR now.",
+					説明 = "Damn, let's retreat for now.",
 					背景 = "トランシルバニアの森／夜",
 				},
 			},
@@ -16837,7 +16837,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "SeveRal days have passed...",
+					説明 = "Several days have passed...",
 				},
 			},
 		},
@@ -16856,7 +16856,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetRieve my slave.",
+					説明 = "Retrieve my slave.",
 					背景 = "トランシルバニアの森／夜",
 					地名 = "トランシルバニアの森",
 					音楽 = "フィールド／僻地夜",
@@ -16922,11 +16922,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -16937,7 +16937,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "...Let's RetReat.",
+					説明 = "...Let's retreat.",
 				},
 			},
 		},
@@ -16963,7 +16963,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! ResuRRection!",
+					説明 = "Gahahahaha! Resurrection!",
 				},
 			},
 		},
@@ -16980,7 +16980,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "GatheR a laRge numbeR of\ntRustwoRthy women.",
+					説明 = "Gather a large number of\ntrustworthy women.",
 					物語 = "２２１／選択／女達を集めろ",
 					音楽 = "フィールド／奮起",
 					背景 = "トランシルバニアの森",
@@ -16988,7 +16988,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "It's a bit Reckless, but\nPeRueRe, you'll do.",
+					説明 = "It's a bit reckless, but\nPeruere, you'll do.",
 				},
 			},
 		},
@@ -17020,7 +17020,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The pRepaRations aRe\ncomplete. It's my maRching\nout.",
+					説明 = "The preparations are\ncomplete. It's my marching\nout.",
 				},
 			},
 		},
@@ -17047,7 +17047,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "That's Right, this way, this\nway.",
+					説明 = "That's right, this way, this\nway.",
 				},
 			},
 		},
@@ -17127,7 +17127,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's my victoRy.",
+					説明 = "It's my victory.",
 				},
 			},
 		},
@@ -17199,7 +17199,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					条件 = "全地域健在",
-					説明 = "Side with humanity.\nCondition: all Regions intact.",
+					説明 = "Side with humanity.\nCondition: all regions intact.",
 				},
 			},
 		},
@@ -17383,7 +17383,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRtuRe",
+					説明 = "Departure",
 					背景 = "街道２",
 					地名 = "ヘルマン",
 					音楽 = "フィールド／ヘルマン",
@@ -17409,7 +17409,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "パットン",
-					説明 = "Oh, a monsteR?",
+					説明 = "Oh, a monster?",
 				},
 				分岐右 = {
 					顔画像 = "ハンティ",
@@ -17450,7 +17450,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed to the next.",
+					説明 = "Proceed to the next.",
 					背景 = "街道２",
 				},
 			},
@@ -17472,11 +17472,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ロレックス",
-					説明 = "A monsteR, huh? I'll cut\nthRough.",
+					説明 = "A monster, huh? I'll cut\nthrough.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I won't botheR with tRouble.",
+					説明 = "I won't bother with trouble.",
 				},
 			},
 		},
@@ -17518,7 +17518,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed to the next.",
+					説明 = "Proceed to the next.",
 					背景 = "街道２",
 				},
 			},
@@ -17530,12 +17530,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Move foRwaRd.",
+					説明 = "Move forward.",
 					フラグ = "空爆見過ごし＝１",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "TuRn back and fight.",
+					説明 = "Turn back and fight.",
 				},
 			},
 		},
@@ -17586,12 +17586,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Move foRwaRd.",
+					説明 = "Move forward.",
 					フラグ = "空爆見過ごし＝１",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "TuRn back and fight.",
+					説明 = "Turn back and fight.",
 				},
 			},
 		},
@@ -17613,7 +17613,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "BiRth Village was saved.",
+					説明 = "Birth Village was saved.",
 				},
 			},
 		},
@@ -17628,7 +17628,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed to the next.",
+					説明 = "Proceed to the next.",
 					背景 = "山道",
 				},
 			},
@@ -17644,12 +17644,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Move foRwaRd.",
+					説明 = "Move forward.",
 					フラグ = "空爆見過ごし＝１",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "TuRn back and fight.",
+					説明 = "Turn back and fight.",
 				},
 			},
 		},
@@ -17673,7 +17673,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "The gReat disasteR was\npRevented.",
+					説明 = "The great disaster was\nprevented.",
 				},
 			},
 		},
@@ -17791,7 +17791,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's lightly scatteR the\ndemon aRmy.",
+					説明 = "Let's lightly scatter the\ndemon army.",
 				},
 			},
 		},
@@ -17801,7 +17801,7 @@ tree クエストデータ = {
 			戦闘 = "m11魔軍／飛行",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "It's cold, cold. Let's huRRy\nand move aRound.",
+					説明 = "It's cold, cold. Let's hurry\nand move around.",
 				},
 			},
 		},
@@ -17817,7 +17817,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "StRike that enemy!",
+					説明 = "Strike that enemy!",
 				},
 			},
 		},
@@ -17859,7 +17859,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ambush the demon aRmy\nwhile blending into the snow.",
+					説明 = "Ambush the demon army\nwhile blending into the snow.",
 					背景 = "氷雪地帯",
 				},
 			},
@@ -18025,7 +18025,7 @@ tree クエストデータ = {
 				},
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "OveR theRe.",
+					説明 = "Over there.",
 				},
 			},
 		},
@@ -18099,7 +18099,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "総戦闘ラウンドが８以上",
-					説明 = "If the total battle Rounds\ninside the castle aRe within 7.",
+					説明 = "If the total battle rounds\ninside the castle are within 7.",
 				},
 				分岐右 = {
 					条件 = "総戦闘ラウンドが８以上",
@@ -18116,7 +18116,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "総戦闘ラウンドが８以上",
-					説明 = "If the total battle Rounds\ninside the castle aRe within 7.",
+					説明 = "If the total battle rounds\ninside the castle are within 7.",
 				},
 				分岐右 = {
 					条件 = "総戦闘ラウンドが８以上",
@@ -18138,7 +18138,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "総戦闘ラウンドが８以上",
-					説明 = "If the total battle Rounds\ninside the castle aRe within 7.",
+					説明 = "If the total battle rounds\ninside the castle are within 7.",
 				},
 				分岐右 = {
 					条件 = "総戦闘ラウンドが８以上",
@@ -18153,7 +18153,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It looks suspicious beyond\nheRe. Let's go.",
+					説明 = "It looks suspicious beyond\nhere. Let's go.",
 				},
 			},
 		},
@@ -18164,7 +18164,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Taking SateRa hostage.",
+					説明 = "Taking Satella hostage.",
 					物語 = "２５４／選択／サテラを人質",
 				},
 				分岐右 = {
@@ -18217,7 +18217,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetReat!",
+					説明 = "Retreat!",
 					地名 = "ランス城",
 					背景 = "ランス城",
 				},
@@ -18253,7 +18253,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "MaRching thRough snow,\nstepping on ice.",
+					説明 = "Marching through snow,\nstepping on ice.",
 				},
 			},
 		},
@@ -18282,7 +18282,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "アーシーが居る",
-					説明 = "ARchie is heRe, Lucy is heRe.",
+					説明 = "Archie is here, Lucy is here.",
 				},
 			},
 		},
@@ -18405,7 +18405,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "AnotheR day has passed...",
+					説明 = "Another day has passed...",
 				},
 			},
 		},
@@ -18420,7 +18420,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミラクル",
-					説明 = "AccoRding to the map, it\nshould be about time, but...",
+					説明 = "According to the map, it\nshould be about time, but...",
 				},
 			},
 		},
@@ -18445,15 +18445,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Weakness of KebiRus.",
+					説明 = "Weakness of Kebirus.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "How to opeRate Rance Castle.",
+					説明 = "How to operate Rance Castle.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "How to RestoRe the Demon\nKing.",
+					説明 = "How to restore the Demon\nKing.",
 				},
 			},
 		},
@@ -18465,7 +18465,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I've extRacted the\ninfoRmation. FaRewell.",
+					説明 = "I've extracted the\ninformation. Farewell.",
 					背景 = "氷雪地帯",
 					地名 = "シベリア　氷雪地帯",
 					音楽 = "フィールド／遺跡",
@@ -18479,7 +18479,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I've extRacted the\ninfoRmation. FaRewell.",
+					説明 = "I've extracted the\ninformation. Farewell.",
 					背景 = "氷雪地帯",
 					地名 = "シベリア　氷雪地帯",
 					音楽 = "フィールド／遺跡",
@@ -18493,7 +18493,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I've extRacted the\ninfoRmation. FaRewell.",
+					説明 = "I've extracted the\ninformation. Farewell.",
 					背景 = "氷雪地帯",
 					地名 = "シベリア　氷雪地帯",
 					音楽 = "フィールド／遺跡",
@@ -18536,7 +18536,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ロッキー",
-					説明 = "Let's oRganize ouR squad\nfiRst, then pRoceed.",
+					説明 = "Let's organize our squad\nfirst, then proceed.",
 				},
 			},
 		},
@@ -18558,11 +18558,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Kill the small fRy, gain\nexpeRience!",
+					説明 = "Kill the small fry, gain\nexperience!",
 				},
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Let's RefRain fRom senseless\nkilling.",
+					説明 = "Let's refrain from senseless\nkilling.",
 				},
 			},
 		},
@@ -18595,7 +18595,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "I wondeR if we should go this\nway.",
+					説明 = "I wonder if we should go this\nway.",
 				},
 				分岐右 = {
 					顔画像 = "かなみ",
@@ -18634,7 +18634,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "That's the saintess\nSeRacloRas... I'm\ndisappointed.",
+					説明 = "That's the saintess\nSeracloras... I'm\ndisappointed.",
 				},
 			},
 		},
@@ -18659,11 +18659,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "メガッス",
-					説明 = "Open the cold sleep device\nand Release the humans.",
+					説明 = "Open the cold sleep device\nand release the humans.",
 				},
 				分岐右 = {
 					顔画像 = "メガッス",
-					説明 = "...Is it dangeRous? Leave\nthem like this a little longeR.",
+					説明 = "...Is it dangerous? Leave\nthem like this a little longer.",
 					物語 = "０２／コールドスリープ開けない",
 				},
 			},
@@ -18674,7 +18674,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "And... one yeaR has passed.",
+					説明 = "And... one year has passed.",
 					地名 = "１年後……",
 				},
 			},
@@ -18685,7 +18685,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "FuRtheRmoRe... two yeaRs\nhave passed.",
+					説明 = "Furthermore... two years\nhave passed.",
 					地名 = "３年後……",
 					フラグ = "年表　ＬＰ１０年７月前半",
 				},
@@ -18697,7 +18697,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "Yet moRe... many yeaRs have\npassed.",
+					説明 = "Yet more... many years have\npassed.",
 					地名 = "１０００年後……",
 					フラグ = "年表　ＯＺ６７７年６月前半",
 				},
@@ -18709,7 +18709,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "Yet moRe... many yeaRs have\npassed.",
+					説明 = "Yet more... many years have\npassed.",
 					地名 = "？？？？年後……",
 					フラグ = "年表　ＯＺ６７７年６月前半",
 					フラグ２ = "達成／Ｂイカ＝１",
@@ -18727,7 +18727,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "メガフォース",
-					説明 = "I'll leave it like this a little\nlongeR.",
+					説明 = "I'll leave it like this a little\nlonger.",
 					物語 = "０２／コールドスリープ５万年後",
 					背景 = "真っ白",
 					地名 = "？？？",
@@ -18803,7 +18803,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ah, enough alReady, I'll do it.",
+					説明 = "Ah, enough already, I'll do it.",
 					地名 = "ランス砦の奥",
 					背景 = "地下洞窟",
 					音楽 = "フィールド／僻地夜",
@@ -18855,7 +18855,7 @@ tree クエストデータ = {
 			物語 = "０２０／スタート",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "Let's depaRt.",
+					説明 = "Let's depart.",
 					顔画像 = "学者",
 				},
 			},
@@ -18866,7 +18866,7 @@ tree クエストデータ = {
 			物語 = "０２０／マエリータ隊飛行",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "Let's boaRd!",
+					説明 = "Let's board!",
 					顔画像 = "マッスル",
 				},
 			},
@@ -18878,7 +18878,7 @@ tree クエストデータ = {
 			地名 = "ランス城",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "CaRefully now...",
+					説明 = "Carefully now...",
 					顔画像 = "ニードル",
 				},
 			},
@@ -18889,7 +18889,7 @@ tree クエストデータ = {
 			物語 = "０２０／侵入２",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "FiRst, take a deep bReath.",
+					説明 = "First, take a deep breath.",
 					顔画像 = "アパッチ",
 				},
 			},
@@ -18900,7 +18900,7 @@ tree クエストデータ = {
 			物語 = "０２０／あてな／戦闘",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "We'Re bReaking thRough!",
+					説明 = "We're breaking through!",
 					顔画像 = "学者",
 				},
 			},
@@ -18911,7 +18911,7 @@ tree クエストデータ = {
 			物語 = "０２０／侵入に気が付く",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "This tuRned into a big fuss.",
+					説明 = "This turned into a big fuss.",
 					顔画像 = "マッスル",
 				},
 			},
@@ -18922,7 +18922,7 @@ tree クエストデータ = {
 			物語 = "０２０／サーナキア／戦闘",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "WheRe is the Demon King...\nexactly?",
+					説明 = "Where is the Demon King...\nexactly?",
 					顔画像 = "王様",
 				},
 			},
@@ -18933,7 +18933,7 @@ tree クエストデータ = {
 			物語 = "０２０／保育園",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "AlRight, let's go!",
+					説明 = "Alright, let's go!",
 					顔画像 = "ニードル",
 				},
 			},
@@ -18966,7 +18966,7 @@ tree クエストデータ = {
 			物語 = "０２０／美樹",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "I've got the Demon King, now\nlet's get out of heRe!",
+					説明 = "I've got the Demon King, now\nlet's get out of here!",
 					顔画像 = "マッスル",
 				},
 			},
@@ -19014,7 +19014,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Head towaRds Lizas Castle!",
+					説明 = "Head towards Lizas Castle!",
 				},
 			},
 		},
@@ -19042,7 +19042,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "The scent of waR is wafting\nstRongly.",
+					説明 = "The scent of war is wafting\nstrongly.",
 				},
 			},
 		},
@@ -19053,7 +19053,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "IgnoRe the village.",
+					説明 = "Ignore the village.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -19076,7 +19076,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed to the next.",
+					説明 = "Proceed to the next.",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 					音楽 = "フィールド／リーザス",
@@ -19098,11 +19098,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "We'll make a detouR to the\nJAPAN camp.",
+					説明 = "We'll make a detour to the\nJAPAN camp.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed without detouRs.",
+					説明 = "Proceed without detours.",
 				},
 			},
 		},
@@ -19130,7 +19130,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "Ah, theRe, theRe, I've got it!",
+					説明 = "Ah, there, there, I've got it!",
 				},
 			},
 		},
@@ -19141,7 +19141,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I swiped two oR thRee cute\nsamuRai giRls.",
+					説明 = "I swiped two or three cute\nsamurai girls.",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 					音楽 = "フィールド／リーザス",
@@ -19174,7 +19174,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Sleeping soundly foR one\nnight, deeply with Ria.",
+					説明 = "Sleeping soundly for one\nnight, deeply with Lia.",
 				},
 			},
 		},
@@ -19185,7 +19185,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リア",
-					説明 = "DaRling is the best-Ria falls\nfoR him all oveR again.",
+					説明 = "Darling is the best-Lia falls\nfor him all over again.",
 				},
 			},
 		},
@@ -19197,7 +19197,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'll stay anotheR night,\nheheh.",
+					説明 = "We'll stay another night,\nheheh.",
 				},
 			},
 		},
@@ -19225,7 +19225,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Well then, it's about time to\ndepaRt.",
+					説明 = "Well then, it's about time to\ndepart.",
 				},
 			},
 		},
@@ -19263,11 +19263,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the southeRn\nbattlefield, but will make\ndetouRs too.",
+					説明 = "Heading to the southern\nbattlefield, but will make\ndetours too.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Heading stRaight to the\nsoutheRn battlefield.",
+					説明 = "Heading straight to the\nsouthern battlefield.",
 				},
 			},
 		},
@@ -19278,7 +19278,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Tch, a lousy bandit\ngRoup-only uglies heRe.",
+					説明 = "Tch, a lousy bandit\ngroup-only uglies here.",
 				},
 			},
 		},
@@ -19291,7 +19291,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "My taRget is the demon\nSilky-chan.",
+					説明 = "My target is the demon\nSilky-chan.",
 				},
 			},
 		},
@@ -19302,11 +19302,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ハウレーン",
-					説明 = "I'd like you to avoid getting\nneaR dangeR.",
+					説明 = "I'd like you to avoid getting\nnear danger.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Something's theRe, let's take\nit down.",
+					説明 = "Something's there, let's take\nit down.",
 				},
 			},
 		},
@@ -19339,7 +19339,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Head to the fRont lines\naiming foR demon Silky.",
+					説明 = "Head to the front lines\naiming for demon Silky.",
 				},
 			},
 		},
@@ -19360,7 +19360,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "AlRight, let's move on next.",
+					説明 = "Alright, let's move on next.",
 				},
 			},
 		},
@@ -19373,7 +19373,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ハウレーン",
-					説明 = "LoRd BaRes's camp is this\nway.",
+					説明 = "Lord Bares's camp is this\nway.",
 				},
 			},
 		},
@@ -19397,7 +19397,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ハウレーン",
-					説明 = "About 5 kilometeRs left until\nwe Reach LoRd BaRes's\ncamp.",
+					説明 = "About 5 kilometers left until\nwe reach Lord Bares's\ncamp.",
 				},
 			},
 		},
@@ -19417,7 +19417,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Who should be my\ncompanion tonight, I\nwondeR?",
+					説明 = "Who should be my\ncompanion tonight, I\nwonder?",
 				},
 			},
 		},
@@ -19428,7 +19428,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hmm... I sense a beautiful\nwoman is asking foR help!",
+					説明 = "Hmm... I sense a beautiful\nwoman is asking for help!",
 				},
 			},
 		},
@@ -19460,7 +19460,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The battle begins. Let's staRt\nby watching.",
+					説明 = "The battle begins. Let's start\nby watching.",
 				},
 			},
 		},
@@ -19471,7 +19471,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "HeRe we go! ChaRge!",
+					説明 = "Here we go! Charge!",
 				},
 			},
 		},
@@ -19482,7 +19482,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Gahahaha! I'm in top foRm!",
+					説明 = "Gahahaha! I'm in top form!",
 				},
 			},
 		},
@@ -19494,11 +19494,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ハウレーン",
-					説明 = "Let's seaRch foR demon Silky.\nIt might be this way.",
+					説明 = "Let's search for demon Silky.\nIt might be this way.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Which way? StRaight ahead,\nhuh.",
+					説明 = "Which way? Straight ahead,\nhuh.",
 				},
 				分岐右 = {
 					顔画像 = "サテラ",
@@ -19544,11 +19544,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "Damn, huRRy up and chase\nafteR Silky.",
+					説明 = "Damn, hurry up and chase\nafter Silky.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Silky, wait. I'll stRip off youR\naRmoR caRefully so as not to\nhuRt youR soft skin.",
+					説明 = "Silky, wait. I'll strip off your\narmor carefully so as not to\nhurt your soft skin.",
 				},
 			},
 		},
@@ -19577,15 +19577,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ハウレーン",
-					説明 = "FoR the sake of ouR allies,\nlet's defeat as many demon\ntRoops as we can.",
+					説明 = "For the sake of our allies,\nlet's defeat as many demon\ntroops as we can.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "MaRia's assistant, huh...\nhehehe.",
+					説明 = "Maria's assistant, huh...\nhehehe.",
 				},
 				分岐右 = {
 					顔画像 = "サテラ",
-					説明 = "Silky... wheRe aRe you?",
+					説明 = "Silky... where are you?",
 				},
 			},
 		},
@@ -19631,11 +19631,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 					音楽 = "フィールド／優勢",
 				},
 			},
@@ -19647,7 +19647,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "AlRight, moving now.",
+					説明 = "Alright, moving now.",
 				},
 			},
 		},
@@ -19659,7 +19659,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'Re RetReating today.\nLet's RetuRn to the camp.",
+					説明 = "We're retreating today.\nLet's return to the camp.",
 				},
 			},
 		},
@@ -19671,7 +19671,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, theRe's a\nmilitaRy council.",
+					説明 = "Lord Rance, there's a\nmilitary council.",
 				},
 			},
 		},
@@ -19682,7 +19682,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, thank you foR\nyouR haRd woRk. I've made\nsome 'HendeRopa'.",
+					説明 = "Lord Rance, thank you for\nyour hard work. I've made\nsome 'Henderopa'.",
 				},
 			},
 		},
@@ -19694,7 +19694,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Heading out to the battlefield.\nToday, I'll catch heR foR\nsuRe.",
+					説明 = "Heading out to the battlefield.\nToday, I'll catch her for\nsure.",
 					背景 = "リーザス平原／紅葉",
 					地名 = "戦場　アンデル紅平原",
 					音楽 = "フィールド／戦場",
@@ -19708,7 +19708,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's fight a little, you damn\nmonsteRs.",
+					説明 = "Let's fight a little, you damn\nmonsters.",
 				},
 			},
 		},
@@ -19729,7 +19729,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Fight until she appeaRs.",
+					説明 = "Fight until she appears.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
@@ -19759,7 +19759,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Let's do ouR best.",
+					説明 = "Let's do our best.",
 				},
 			},
 		},
@@ -19770,7 +19770,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Fight until she appeaRs.",
+					説明 = "Fight until she appears.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
@@ -19799,11 +19799,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "My thRoat feels scRatchy. I'm\nthiRsty.",
+					説明 = "My throat feels scratchy. I'm\nthirsty.",
 				},
 				分岐右 = {
 					顔画像 = "ハウレーン",
-					説明 = "In that diRection, ouR allied\nunit is in dangeR.",
+					説明 = "In that direction, our allied\nunit is in danger.",
 				},
 			},
 		},
@@ -19820,7 +19820,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Chasing afteR Silky, heading\ntowaRds Lizas Castle.",
+					説明 = "Chasing after Silky, heading\ntowards Lizas Castle.",
 					地名 = "リーザス",
 					背景 = "リーザス平原",
 				},
@@ -19832,7 +19832,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ハウレーン",
-					説明 = "I'm woRRied about the\ncastle; please huRRy.",
+					説明 = "I'm worried about the\ncastle; please hurry.",
 				},
 			},
 		},
@@ -19853,7 +19853,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ハウレーン",
-					説明 = "(No matteR how stRong Lizas\nCastle is, it can't stop the\ndemon loRd...)",
+					説明 = "(No matter how strong Lizas\nCastle is, it can't stop the\ndemon lord...)",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -19881,7 +19881,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Head foR the thRone; she\nshould be theRe.",
+					説明 = "Head for the throne; she\nshould be there.",
 				},
 			},
 		},
@@ -19892,7 +19892,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This foolish giRl, doing\nunnecessaRy things at a time\nlike this.",
+					説明 = "This foolish girl, doing\nunnecessary things at a time\nlike this.",
 				},
 			},
 		},
@@ -19903,7 +19903,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "In any case, head foR the\nthRone.",
+					説明 = "In any case, head for the\nthrone.",
 				},
 			},
 		},
@@ -19914,15 +19914,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "I've got it-this is the Room.",
+					説明 = "I've got it-this is the room.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I've seen thRough it; she hid\nit heRe.",
+					説明 = "I've seen through it; she hid\nit here.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We should still make it. Let's\ntake a bReak.",
+					説明 = "We should still make it. Let's\ntake a break.",
 				},
 			},
 		},
@@ -19933,7 +19933,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go up these staiRs to Reach\nthe thRone.",
+					説明 = "Go up these stairs to reach\nthe throne.",
 				},
 			},
 		},
@@ -19944,7 +19944,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go up these staiRs to Reach\nthe thRone.",
+					説明 = "Go up these stairs to reach\nthe throne.",
 				},
 			},
 		},
@@ -19955,7 +19955,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go up these staiRs to Reach\nthe thRone.",
+					説明 = "Go up these stairs to reach\nthe throne.",
 				},
 			},
 		},
@@ -19977,7 +19977,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "SuRRendeR.",
+					説明 = "Surrender.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
@@ -19999,7 +19999,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's my victoRy.",
+					説明 = "It's my victory.",
 				},
 			},
 		},
@@ -20015,7 +20015,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "バレス",
-					説明 = "Finally, one victoRy. OR so I'd\nsay.",
+					説明 = "Finally, one victory. Or so I'd\nsay.",
 				},
 			},
 		},
@@ -20056,7 +20056,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "TheRe aRe vaRious kinds of\nshops heRe.",
+					説明 = "There are various kinds of\nshops here.",
 				},
 			},
 		},
@@ -20067,11 +20067,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Go to Romance StReet of Life.",
+					説明 = "Go to Romance Street of Life.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Go to the specialty shops\nstReet.",
+					説明 = "Go to the specialty shops\nstreet.",
 				},
 			},
 		},
@@ -20082,7 +20082,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "Oh, wow! The movie theateR\nis awesome.",
+					説明 = "Oh, wow! The movie theater\nis awesome.",
 				},
 			},
 		},
@@ -20091,7 +20091,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Love foRtune: 'So-so'...",
+					説明 = "Love fortune: 'So-so'...",
 				},
 			},
 		},
@@ -20130,7 +20130,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Ah, this pot holdeR is cute.",
+					説明 = "Ah, this pot holder is cute.",
 				},
 			},
 		},
@@ -20141,7 +20141,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ハウレーン",
-					説明 = "Enough alReady; let's move\non.",
+					説明 = "Enough already; let's move\non.",
 				},
 			},
 		},
@@ -20160,14 +20160,14 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Shall we pRoceed along the\nhighway?",
+					説明 = "Shall we proceed along the\nhighway?",
 					背景 = "街道１",
 					地名 = "リーザス",
 					音楽 = "フィールド／リーザス",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Shall we take a little side\nRoad?",
+					説明 = "Shall we take a little side\nroad?",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 					音楽 = "フィールド／リーザス",
@@ -20202,7 +20202,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リック",
-					説明 = "It's about time to scale the\nfRontline.",
+					説明 = "It's about time to scale the\nfrontline.",
 				},
 			},
 		},
@@ -20253,11 +20253,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Howzell, come out! If you\ndon't, I'll kill the monsteRs.",
+					説明 = "Howzell, come out! If you\ndon't, I'll kill the monsters.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Howzell-chan, come out. I\nwon't huRt you.",
+					説明 = "Howzell-chan, come out. I\nwon't hurt you.",
 				},
 			},
 		},
@@ -20303,7 +20303,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "That pillaR of fiRe is the\nlandmaRk. Let's Run\nthRough.",
+					説明 = "That pillar of fire is the\nlandmark. Let's run\nthrough.",
 				},
 			},
 		},
@@ -20320,11 +20320,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "A fight between demon\nloRds...? Let's watch foR a\nmoment.",
+					説明 = "A fight between demon\nlords...? Let's watch for a\nmoment.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Hm, don't ignoRe me; I'm the\none who fights. (Reckless\npath)",
+					説明 = "Hm, don't ignore me; I'm the\none who fights. (Reckless\npath)",
 				},
 			},
 		},
@@ -20342,11 +20342,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 			},
 		},
@@ -20374,7 +20374,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I don't caRe about fights\nbetween aRmies. Let's go\nback.",
+					説明 = "I don't care about fights\nbetween armies. Let's go\nback.",
 					地名 = "リーザス",
 				},
 			},
@@ -20389,7 +20389,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "That was a good bath. .In a\ngReat mood afteR the bath.",
+					説明 = "That was a good bath. .In a\ngreat mood after the bath.",
 					背景 = "都市／夜",
 				},
 			},
@@ -20402,7 +20402,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's depaRt.",
+					説明 = "Let's depart.",
 					地名 = "戦場　スケールの南",
 					背景 = "戦場",
 					音楽 = "フィールド／戦場",
@@ -20416,7 +20416,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's the battlefield- ScatteR\nthem away!",
+					説明 = "It's the battlefield- Scatter\nthem away!",
 				},
 			},
 		},
@@ -20431,11 +20431,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Chase HauseR.",
+					説明 = "Chase Hauser.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Chase HauseR.",
+					説明 = "Chase Hauser.",
 				},
 			},
 		},
@@ -20464,7 +20464,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Spotted flying HauseR. TheRe\nhe is, let's chase.",
+					説明 = "Spotted flying Hauser. There\nhe is, let's chase.",
 				},
 			},
 		},
@@ -20479,7 +20479,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サチコ",
-					説明 = "HauseR-san- I've got DRagon\nPatch heRe!",
+					説明 = "Hauser-san- I've got Dragon\nPatch here!",
 				},
 			},
 		},
@@ -20490,7 +20490,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "(As expected... I don't think\nthe book is the Real goal\nthough.)",
+					説明 = "(As expected... I don't think\nthe book is the real goal\nthough.)",
 				},
 			},
 		},
@@ -20503,7 +20503,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "HauseR, theRe, th-th-theRe's\na book!",
+					説明 = "Hauser, there, th-th-there's\na book!",
 				},
 			},
 		},
@@ -20536,7 +20536,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Not going into battle today.\nHeading to a ceRtain place.\nFollow me.",
+					説明 = "Not going into battle today.\nHeading to a certain place.\nFollow me.",
 					地名 = "自由都市",
 					背景 = "自由都市平原",
 					音楽 = "フィールド／自由都市",
@@ -20550,7 +20550,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Roughly exploRing while\nadvancing.",
+					説明 = "Roughly exploring while\nadvancing.",
 					背景 = "ハイパービル内",
 					地名 = "ハイパービル　１階",
 					音楽 = "フィールド／遺跡",
@@ -20564,7 +20564,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Advancing while exploRing\nRandomly.",
+					説明 = "Advancing while exploring\nrandomly.",
 				},
 			},
 		},
@@ -20579,7 +20579,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "WiiiiiRRRRnnn (sound effect).",
+					説明 = "Wiiiiirrrrnnn (sound effect).",
 				},
 			},
 		},
@@ -20589,7 +20589,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Advancing while exploRing.",
+					説明 = "Advancing while exploring.",
 				},
 			},
 		},
@@ -20611,7 +20611,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's seaRch foR Does-ski.",
+					説明 = "Let's search for Does-ski.",
 				},
 			},
 		},
@@ -20622,7 +20622,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "WiiiiiRRRRnnn (sound effect).",
+					説明 = "Wiiiiirrrrnnn (sound effect).",
 				},
 			},
 		},
@@ -20632,7 +20632,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "It's okay. No monsteRs aRe\nneaRby.",
+					説明 = "It's okay. No monsters are\nnearby.",
 				},
 			},
 		},
@@ -20654,7 +20654,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's seaRch foR Does-ski.\nFind him and make him wRite\na book.",
+					説明 = "Let's search for Does-ski.\nFind him and make him write\na book.",
 				},
 			},
 		},
@@ -20665,7 +20665,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "Don't leave me behind,\nIyaRisu.",
+					説明 = "Don't leave me behind,\nIyarisu.",
 				},
 			},
 		},
@@ -20681,7 +20681,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "WiiiiiRRRRnnn (sound effect).",
+					説明 = "Wiiiiirrrrnnn (sound effect).",
 				},
 			},
 		},
@@ -20691,7 +20691,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's seaRch foR Does-ski.\nFind him and make him wRite\na book.",
+					説明 = "Let's search for Does-ski.\nFind him and make him write\na book.",
 				},
 			},
 		},
@@ -20723,7 +20723,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ドエススキー",
-					説明 = "What the heck, don't say\nsomething unReasonable- It's\nimpossible, impossible!",
+					説明 = "What the heck, don't say\nsomething unreasonable- It's\nimpossible, impossible!",
 				},
 			},
 		},
@@ -20734,7 +20734,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "ThRee days lateR...",
+					説明 = "Three days later...",
 				},
 			},
 		},
@@ -20748,7 +20748,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "This is the venue of the new\npublication sales event. Many\npeople have gatheRed heRe.",
+					説明 = "This is the venue of the new\npublication sales event. Many\npeople have gathered here.",
 				},
 			},
 		},
@@ -20789,7 +20789,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha, Got HauseR!",
+					説明 = "Gahahahaha, Got Hauser!",
 					地名 = "リーザス",
 					背景 = "リーザス平原",
 				},
@@ -20843,11 +20843,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AfteR playing with Ria,\nRetuRn to Rance Castle.",
+					説明 = "After playing with Lia,\nreturn to Rance Castle.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "With this momentum, defeat\nthe otheR demon as well.",
+					説明 = "With this momentum, defeat\nthe other demon as well.",
 				},
 			},
 		},
@@ -20922,7 +20922,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hmm, has the difficulty\nincReased?",
+					説明 = "Hmm, has the difficulty\nincreased?",
 				},
 			},
 		},
@@ -20945,7 +20945,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "TRiumphant RetuRn!",
+					説明 = "Triumphant return!",
 					背景 = "都市",
 					地名 = "大都市　スケール",
 				},
@@ -21027,7 +21027,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting towaRds Leazas.",
+					説明 = "Departing towards Leazas.",
 					地名 = "リーザス",
 					背景 = "街道１",
 					音楽 = "フィールド／リーザス",
@@ -21074,7 +21074,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "DaRingly taking the thoRny\npath...",
+					説明 = "Daringly taking the thorny\npath...",
 				},
 			},
 		},
@@ -21114,7 +21114,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's go.",
+					説明 = "Alright, let's go.",
 				},
 			},
 		},
@@ -21136,11 +21136,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "立て看板",
-					説明 = ".: Female MonsteR Highway.",
+					説明 = ".: Female Monster Highway.",
 				},
 				分岐右 = {
 					顔画像 = "立て看板",
-					説明 = ".: Male MonsteR Plains.",
+					説明 = ".: Male Monster Plains.",
 				},
 			},
 		},
@@ -21175,7 +21175,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Stay at the castle tonight.\nDepaRtuRe is tomoRRow.",
+					説明 = "Stay at the castle tonight.\nDeparture is tomorrow.",
 				},
 			},
 		},
@@ -21192,7 +21192,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting towaRds CaRson!",
+					説明 = "Departing towards Carson!",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 					音楽 = "フィールド／リーザス",
@@ -21210,7 +21210,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'll beat something up to\nRefResh myself.",
+					説明 = "I'll beat something up to\nrefresh myself.",
 				},
 			},
 		},
@@ -21221,7 +21221,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Feeling a bit RefReshed.",
+					説明 = "Feeling a bit refreshed.",
 				},
 			},
 		},
@@ -21238,7 +21238,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRtuRe",
+					説明 = "Departure",
 					背景 = "リーザス平原",
 					地名 = "魔軍支配地域",
 					音楽 = "フィールド／支援",
@@ -21260,11 +21260,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DetouR and advance.",
+					説明 = "Detour and advance.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "BReak thRough the demon\naRmy's camp.",
+					説明 = "Break through the demon\narmy's camp.",
 				},
 			},
 		},
@@ -21309,12 +21309,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Take a detouR. Go help\nApemunta village.",
+					説明 = "Take a detour. Go help\nApemunta village.",
 					物語 = "２１１／２／アペムンタ村１",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed as planned. Stop by\nthe Cocktail LabyRinth.",
+					説明 = "Proceed as planned. Stop by\nthe Cocktail Labyrinth.",
 				},
 			},
 		},
@@ -21337,7 +21337,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "オーロラが居る",
-					説明 = "When Apostle AuRoRa is\npResent.",
+					説明 = "When Apostle Aurora is\npresent.",
 				},
 				分岐右 = {
 					！条件 = "オーロラが居る",
@@ -21396,7 +21396,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Nam nam... (pRayeR) I hope\ntheRe aRe no cute giRls.",
+					説明 = "Nam nam... (prayer) I hope\nthere are no cute girls.",
 				},
 			},
 		},
@@ -21420,15 +21420,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "SupeRioR path.",
+					説明 = "Superior path.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ExtRa path.",
+					説明 = "Extra path.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Path of no maRk",
+					説明 = "Path of no mark",
 				},
 			},
 		},
@@ -21480,7 +21480,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, one moRe lap!",
+					説明 = "Alright, one more lap!",
 				},
 			},
 		},
@@ -21494,7 +21494,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Let's head towaRds Scale.",
+					説明 = "Let's head towards Scale.",
 					フラグ = "地形＝戻し",
 				},
 			},
@@ -21531,7 +21531,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "It's moRning, LoRd Rance.",
+					説明 = "It's morning, Lord Rance.",
 					背景 = "リーザス平原",
 					地名 = "戦場　スケールの西",
 					音楽 = "フィールド／戦場",
@@ -21556,11 +21556,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Is it oveR theRe?",
+					説明 = "Is it over there?",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "OR is it this way?",
+					説明 = "Or is it this way?",
 				},
 			},
 		},
@@ -21590,7 +21590,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hmm, the demon aRmy oveR\ntheRe looks suspicious.",
+					説明 = "Hmm, the demon army over\nthere looks suspicious.",
 				},
 			},
 		},
@@ -21601,7 +21601,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WRong...",
+					説明 = "Wrong...",
 				},
 			},
 		},
@@ -21630,7 +21630,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ScatteR the weaklings and\nadvance.",
+					説明 = "Scatter the weaklings and\nadvance.",
 				},
 			},
 		},
@@ -21661,11 +21661,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -21700,7 +21700,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "We've RetuRned safely.",
+					説明 = "We've returned safely.",
 				},
 			},
 		},
@@ -21717,7 +21717,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "Good moRning.",
+					説明 = "Good morning.",
 				},
 			},
 		},
@@ -21759,7 +21759,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, I can walk pRopeRly\nnow.",
+					説明 = "Alright, I can walk properly\nnow.",
 				},
 			},
 		},
@@ -21786,7 +21786,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Only about halfway theRe...",
+					説明 = "Only about halfway there...",
 				},
 			},
 		},
@@ -21882,7 +21882,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウィリス",
-					説明 = "Ah... this wRong spell is...",
+					説明 = "Ah... this wrong spell is...",
 					フラグ = "禁止グループランス以外",
 				},
 			},
@@ -21897,7 +21897,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "OpeRation success!",
+					説明 = "Operation success!",
 					フラグ = "禁止グループ解除",
 				},
 			},
@@ -21910,7 +21910,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, let's RestoRe the\nunit foRmation.",
+					説明 = "Lord Rance, let's restore the\nunit formation.",
 				},
 			},
 		},
@@ -21919,7 +21919,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's RetuRn to the\nbattlefield.",
+					説明 = "Let's return to the\nbattlefield.",
 					背景 = "街道１",
 					地名 = "リーザス",
 					音楽 = "フィールド／リーザス",
@@ -21959,11 +21959,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "A squad ahead... conseRve\nstRength.",
+					説明 = "A squad ahead... conserve\nstrength.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "BReak thRough the fRont!\nJust defeat them!",
+					説明 = "Break through the front!\nJust defeat them!",
 				},
 			},
 		},
@@ -22015,7 +22015,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Damn, suRRounded by\ndemons.",
+					説明 = "Damn, surrounded by\ndemons.",
 				},
 			},
 		},
@@ -22032,11 +22032,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hey, you'Re in the way!\nBReak thRough, bReak\nthRough!",
+					説明 = "Hey, you're in the way!\nBreak through, break\nthrough!",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "While we'Re at it, let's hunt\nthe geneRal too!",
+					説明 = "While we're at it, let's hunt\nthe general too!",
 				},
 			},
 		},
@@ -22063,7 +22063,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ummm, I don't know wheRe.",
+					説明 = "Ummm, I don't know where.",
 				},
 			},
 		},
@@ -22086,7 +22086,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Well, well... the battle ended\nsafely, afteR all...",
+					説明 = "Well, well... the battle ended\nsafely, after all...",
 				},
 			},
 		},
@@ -22104,7 +22104,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Now, which giRl should I do\ntonight...",
+					説明 = "Now, which girl should I do\ntonight...",
 				},
 			},
 		},
@@ -22153,7 +22153,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					！条件 = "引き分け",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐前 = {
 					条件 = "引き分け",
@@ -22172,7 +22172,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "アペンタ村を救った",
-					説明 = "Apemunta Village Remains\nintact.",
+					説明 = "Apemunta Village remains\nintact.",
 				},
 			},
 		},
@@ -22189,7 +22189,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Well, whateveR, let's go\nhome.",
+					説明 = "Well, whatever, let's go\nhome.",
 				},
 			},
 		},
@@ -22217,7 +22217,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, time foR the final\ntouch.",
+					説明 = "Alright, time for the final\ntouch.",
 				},
 			},
 		},
@@ -22235,7 +22235,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Come to think of it, who was\nthe giRl last night?",
+					説明 = "Come to think of it, who was\nthe girl last night?",
 				},
 			},
 		},
@@ -22246,7 +22246,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I want to hold heR again.",
+					説明 = "I want to hold her again.",
 				},
 			},
 		},
@@ -22257,7 +22257,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hmm, something's Really on\nmy mind.",
+					説明 = "Hmm, something's really on\nmy mind.",
 				},
 			},
 		},
@@ -22353,7 +22353,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Now then, guhuhu~ supeR\nglamoRous demon giRl.",
+					説明 = "Now then, guhuhu~ super\nglamorous demon girl.",
 				},
 			},
 		},
@@ -22370,7 +22370,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "In otheR woRds, the inside is\nan old man, huh? Then die!",
+					説明 = "In other words, the inside is\nan old man, huh? Then die!",
 				},
 			},
 		},
@@ -22383,7 +22383,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "All Resolved.",
+					説明 = "All resolved.",
 				},
 			},
 		},
@@ -22394,7 +22394,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "HeRe's the tReasuRe.",
+					説明 = "Here's the treasure.",
 					フラグ = "ウルトラレアＯＮ",
 				},
 			},
@@ -22407,7 +22407,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Found anotheR one, nice\nseRvice.",
+					説明 = "Found another one, nice\nservice.",
 				},
 			},
 		},
@@ -22436,7 +22436,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SoRtie to Rich.",
+					説明 = "Sortie to rich.",
 					物語 = "２１２／選択／リッチに向けて",
 					背景 = "街道１",
 					地名 = "リーザス",
@@ -22523,7 +22523,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's cRoss the\nmountain.",
+					説明 = "Alright, let's cross the\nmountain.",
 					背景 = "山道",
 					地名 = "Ｌ・Ｃ・Ｍ連山",
 				},
@@ -22557,7 +22557,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "I smell something eRotic.",
+					説明 = "I smell something erotic.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -22637,11 +22637,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'll think about this lateR.",
+					説明 = "I'll think about this later.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Layla... Let's RetuRn to\nLeesas Castle.",
+					説明 = "Layla... Let's return to\nLeesas Castle.",
 					物語 = "２１２／リーザス城に戻る",
 					背景 = "山道",
 					地名 = "Ｌ・Ｃ・Ｍ連山",
@@ -22698,7 +22698,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "チルディ調教確認２",
-					説明 = "Childi tRained, holding\nTRaining Bible.",
+					説明 = "Childi trained, holding\nTraining Bible.",
 				},
 				分岐右 = {
 					説明 = "---",
@@ -22721,7 +22721,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "I'm enteRing the lich.",
+					説明 = "I'm entering the lich.",
 				},
 			},
 		},
@@ -22754,7 +22754,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Wait, I'll win faiR and squaRe.",
+					説明 = "Wait, I'll win fair and square.",
 					物語 = "２１２／選択／正々堂々",
 				},
 			},
@@ -22780,7 +22780,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "チルディ調教確認３",
-					説明 = "Childi peRfectly tRained.",
+					説明 = "Childi perfectly trained.",
 				},
 				分岐右 = {
 					！条件 = "チルディ調教確認３",
@@ -22829,7 +22829,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRtuRe",
+					説明 = "Departure",
 					地名 = "魔軍野営地",
 					背景 = "魔軍野営地",
 				},
@@ -22843,7 +22843,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahaha! I won't let the\nfilthy geneRal escape!",
+					説明 = "Gahahaha! I won't let the\nfilthy general escape!",
 				},
 			},
 		},
@@ -22859,7 +22859,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "GReat victoRy!",
+					説明 = "Great victory!",
 				},
 			},
 		},
@@ -22932,7 +22932,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -22982,7 +22982,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Quickly wipe them out as we\nmove aRound.",
+					説明 = "Quickly wipe them out as we\nmove around.",
 				},
 			},
 		},
@@ -22997,7 +22997,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, I'm counting on you,\ngo foR it, waRRioRs!",
+					説明 = "Alright, I'm counting on you,\ngo for it, warriors!",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -23033,7 +23033,7 @@ tree クエストデータ = {
 			処理 = "食券",
 			選択分岐 = {
 				分岐前 = {
-					説明 = "It's about time foR the boss.",
+					説明 = "It's about time for the boss.",
 				},
 			},
 		},
@@ -23054,11 +23054,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We've eaRned enough battle\nachievements; let's pull back.",
+					説明 = "We've earned enough battle\nachievements; let's pull back.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Not yet, we'll fight a little\nlongeR.",
+					説明 = "Not yet, we'll fight a little\nlonger.",
 				},
 			},
 		},
@@ -23153,7 +23153,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Isn't anyone awake? SeaRch!",
+					説明 = "Isn't anyone awake? Search!",
 				},
 			},
 		},
@@ -23164,7 +23164,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We've done what we needed,\nnext is a bReak.",
+					説明 = "We've done what we needed,\nnext is a break.",
 				},
 			},
 		},
@@ -23175,7 +23175,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We had a bReak, next is...",
+					説明 = "We had a break, next is...",
 				},
 			},
 		},
@@ -23186,12 +23186,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "InteRception of the demon\naRmy.",
+					説明 = "Interception of the demon\narmy.",
 					物語 = "２１３／敵襲／迎撃",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I'll take you at youR woRd\nand RetReat.",
+					説明 = "I'll take you at your word\nand retreat.",
 					物語 = "２１３／敵襲／撤退",
 					背景 = "街道２",
 					地名 = "魔軍との最前線",
@@ -23220,7 +23220,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SeaRching foR WaRgs.",
+					説明 = "Searching for Wargs.",
 					背景 = "街道２",
 					地名 = "魔軍との最前線",
 					音楽 = "フィールド／僻地昼",
@@ -23237,7 +23237,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SeaRching foR WaRgs.",
+					説明 = "Searching for Wargs.",
 				},
 			},
 		},
@@ -23269,7 +23269,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Anyway, let's Rest.",
+					説明 = "Anyway, let's rest.",
 				},
 			},
 		},
@@ -23280,7 +23280,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DinneR-",
+					説明 = "Dinner-",
 				},
 			},
 		},
@@ -23313,7 +23313,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "CaptuRe the WaRg.",
+					説明 = "Capture the Warg.",
 					物語 = "２１３／近寄る０",
 				},
 			},
@@ -23335,7 +23335,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					！条件 = "ランスのランクが３０以下",
-					説明 = "Rance's . Rank 31 oR above.",
+					説明 = "Rance's . Rank 31 or above.",
 				},
 			},
 		},
@@ -23357,7 +23357,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					！条件 = "ランスのランクが４０以下",
-					説明 = "Rance's . Rank 41 oR above.",
+					説明 = "Rance's . Rank 41 or above.",
 				},
 			},
 		},
@@ -23377,7 +23377,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					！条件 = "ランスのランクが５０以下",
-					説明 = "Rance's . Rank 51 oR above.",
+					説明 = "Rance's . Rank 51 or above.",
 				},
 			},
 		},
@@ -23395,7 +23395,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "FoRm a unit with those who\ncan move and fight.",
+					説明 = "Form a unit with those who\ncan move and fight.",
 				},
 			},
 		},
@@ -23447,7 +23447,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go thRough the otheRwoRld\ngate.",
+					説明 = "Go through the otherworld\ngate.",
 					背景 = "真っ黒",
 					地名 = "−−−",
 					音楽 = "無音",
@@ -23510,7 +23510,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Still, it's a bleak woRld.",
+					説明 = "Still, it's a bleak world.",
 				},
 			},
 		},
@@ -23679,7 +23679,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マジック",
-					説明 = "Let's huRRy.",
+					説明 = "Let's hurry.",
 				},
 			},
 		},
@@ -23706,7 +23706,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It wasn't a big deal,\nintRudeR.",
+					説明 = "It wasn't a big deal,\nintruder.",
 					地名 = "永久地下牢　下層",
 				},
 			},
@@ -23734,7 +23734,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, got Camilla.",
+					説明 = "Alright, got Camilla.",
 				},
 			},
 		},
@@ -23746,7 +23746,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetuRn to the castle.",
+					説明 = "Return to the castle.",
 					地名 = "自由都市",
 					背景 = "街道１",
 					音楽 = "フィールド／ランス城",
@@ -23771,7 +23771,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetRieve Biscetta-san.",
+					説明 = "Retrieve Biscetta-san.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -23794,11 +23794,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Hmm, the scent of a giRl\nmonsteR...",
+					説明 = "Hmm, the scent of a girl\nmonster...",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Ugh, ignoRe it, ignoRe it.",
+					説明 = "Ugh, ignore it, ignore it.",
 				},
 			},
 		},
@@ -23848,7 +23848,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "BReak thRough the fRont.",
+					説明 = "Break through the front.",
 				},
 			},
 		},
@@ -23871,11 +23871,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Kill all the monsteRs.",
+					説明 = "Kill all the monsters.",
 				},
 				分岐右 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, this aRea is\nthinly guaRded.",
+					説明 = "Lord Rance, this area is\nthinly guarded.",
 				},
 			},
 		},
@@ -23928,7 +23928,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -24025,7 +24025,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "What, they'Re alReady wiped\nout?",
+					説明 = "What, they're already wiped\nout?",
 				},
 			},
 		},
@@ -24036,7 +24036,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "What, they'Re alReady wiped\nout?",
+					説明 = "What, they're already wiped\nout?",
 				},
 			},
 		},
@@ -24059,7 +24059,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "What's going on this eaRly in\nthe moRning?",
+					説明 = "What's going on this early in\nthe morning?",
 				},
 			},
 		},
@@ -24072,7 +24072,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "MonsteRs, huh? A good way\nto kill time.",
+					説明 = "Monsters, huh? A good way\nto kill time.",
 				},
 			},
 		},
@@ -24092,7 +24092,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's pRoceed deepeR inside.",
+					説明 = "Let's proceed deeper inside.",
 					背景 = "地下洞窟",
 					地名 = "ランス砦の奥の奥",
 					音楽 = "フィールド／迷宮",
@@ -24123,7 +24123,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "日立姫",
-					説明 = "MonsteRs... scaRy, aRen't\nthey, LoRd Toshiba...?\n(glance glance)",
+					説明 = "Monsters... scary, aren't\nthey, Lord Toshiba...?\n(glance glance)",
 				},
 			},
 		},
@@ -24135,7 +24135,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "Let's go, to the faR end of the\nundeRgRound.",
+					説明 = "Let's go, to the far end of the\nunderground.",
 				},
 			},
 		},
@@ -24183,7 +24183,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Head towaRds Mount\nBezudoku.",
+					説明 = "Head towards Mount\nBezudoku.",
 					物語 = "２６０／選択／ベズドグ山",
 					背景 = "魔物平原",
 					地名 = "魔物平原",
@@ -24191,7 +24191,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Aim foR the Tanzamonza\nTRee.",
+					説明 = "Aim for the Tanzamonza\nTree.",
 					物語 = "２６０／選択／タンザモンザツリー",
 					背景 = "魔物平原",
 					地名 = "魔物平原",
@@ -24205,7 +24205,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed caRefully.",
+					説明 = "Proceed carefully.",
 				},
 			},
 		},
@@ -24215,7 +24215,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The demon aRmy hasn't\nnoticed, heh heh.",
+					説明 = "The demon army hasn't\nnoticed, heh heh.",
 				},
 			},
 		},
@@ -24250,7 +24250,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "引き分け",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐右 = {
 					条件 = "引き分け",
@@ -24267,7 +24267,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アナセル",
-					説明 = "(I want to Run... I have a bad\nfeeling.)",
+					説明 = "(I want to run... I have a bad\nfeeling.)",
 				},
 			},
 		},
@@ -24278,7 +24278,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "引き分け",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐右 = {
 					条件 = "引き分け",
@@ -24295,7 +24295,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "柚美",
-					説明 = "This place, the enemies heRe\naRen't cute at all.",
+					説明 = "This place, the enemies here\naren't cute at all.",
 				},
 			},
 		},
@@ -24306,7 +24306,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "引き分け",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐右 = {
 					条件 = "引き分け",
@@ -24323,7 +24323,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コーラ",
-					説明 = "Now, the next heRo is...",
+					説明 = "Now, the next hero is...",
 				},
 			},
 		},
@@ -24334,7 +24334,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This feeling... have the\nenemies gotten stRongeR?",
+					説明 = "This feeling... have the\nenemies gotten stronger?",
 				},
 			},
 		},
@@ -24422,7 +24422,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "学者",
-					説明 = "Quickly this way, huRRy up.",
+					説明 = "Quickly this way, hurry up.",
 					地名 = "ベズドグ山内　第１ブロック",
 					背景 = "ベズドグ山内",
 				},
@@ -24447,7 +24447,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "It's Really hot, isn't it? Whew,\nwhew.",
+					説明 = "It's really hot, isn't it? Whew,\nwhew.",
 				},
 			},
 		},
@@ -24465,11 +24465,11 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 3'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 3'.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "The path labeled 'Passage No.\n5' is the coRRect one.",
+					説明 = "The path labeled 'Passage No.\n5' is the correct one.",
 				},
 			},
 		},
@@ -24528,11 +24528,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 70'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 70'.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 77'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 77'.",
 				},
 			},
 		},
@@ -24560,7 +24560,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Schill, you pRopeRly\nRemembeRed the numbeR\njust now, Right?",
+					説明 = "Schill, you properly\nremembered the number\njust now, right?",
 				},
 			},
 		},
@@ -24573,7 +24573,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "(Eh... if I RemembeR\ncoRRectly...)",
+					説明 = "(Eh... if I remember\ncorrectly...)",
 				},
 			},
 		},
@@ -24583,15 +24583,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 6'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 6'.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 66'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 66'.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 33'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 33'.",
 				},
 			},
 		},
@@ -24782,7 +24782,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "Resu Resu, moving foRwaRd,\nResu.",
+					説明 = "Resu resu, moving forward,\nresu.",
 				},
 			},
 		},
@@ -24797,7 +24797,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "SeRiously, even as an enemy,\nit's just too pathetic.",
+					説明 = "Seriously, even as an enemy,\nit's just too pathetic.",
 				},
 			},
 		},
@@ -24811,11 +24811,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "かなみ",
-					説明 = "Along this path, theRe's\nsomething amazing.",
+					説明 = "Along this path, there's\nsomething amazing.",
 				},
 				分岐右 = {
 					顔画像 = "ミラクル",
-					説明 = "The final battle is neaR. Think\ncaRefully about what you'll\nneed.",
+					説明 = "The final battle is near. Think\ncarefully about what you'll\nneed.",
 				},
 			},
 		},
@@ -24852,7 +24852,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "健太郎",
-					説明 = "Miki-chan is inside heRe.",
+					説明 = "Miki-chan is inside here.",
 				},
 			},
 		},
@@ -24864,7 +24864,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ugh- the RewaRd sex will\nhave to wait, we must huRRy\nahead.",
+					説明 = "Ugh- the reward sex will\nhave to wait, we must hurry\nahead.",
 				},
 			},
 		},
@@ -24916,7 +24916,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -24943,7 +24943,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "Thanks foR letting me pass.",
+					説明 = "Thanks for letting me pass.",
 				},
 			},
 		},
@@ -24962,7 +24962,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "Hang in theRe, Lance, just a\nlittle moRe.",
+					説明 = "Hang in there, Rance, just a\nlittle more.",
 				},
 			},
 		},
@@ -24977,7 +24977,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "キバ子",
-					説明 = "GRRRllll.",
+					説明 = "Grrrllll.",
 				},
 			},
 		},
@@ -24987,7 +24987,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "キャロリ",
-					説明 = "Ah, RaRe medicinal heRbs\nheRe in a place like this.",
+					説明 = "Ah, rare medicinal herbs\nhere in a place like this.",
 				},
 			},
 		},
@@ -25014,7 +25014,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "...They'Re heRe. This is the\nplace.",
+					説明 = "...They're here. This is the\nplace.",
 				},
 			},
 		},
@@ -25026,11 +25026,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "敗北",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					！条件 = "敗北",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -25072,7 +25072,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "シャリエラルート",
-					説明 = "EmbRacing ShalieRa.",
+					説明 = "Embracing Shaliera.",
 				},
 				分岐右 = {
 					！条件 = "シャリエラルート",
@@ -25117,7 +25117,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "メリムが居る",
-					説明 = "When MeRim was possessed",
+					説明 = "When Merim was possessed",
 				},
 				分岐右 = {
 					！条件 = "メリムが居る",
@@ -25152,7 +25152,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "パットン",
-					説明 = "I'm glad we can fight\ntogetheR again.",
+					説明 = "I'm glad we can fight\ntogether again.",
 				},
 			},
 		},
@@ -25208,7 +25208,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "学者",
-					説明 = "This way, we'll exit the\nseweR.",
+					説明 = "This way, we'll exit the\nsewer.",
 					音楽 = "フィールド／魔物界",
 					背景 = "ベズドグ山内／恐瘴気",
 					地名 = "ベズドグ山内　第３ブロック",
@@ -25237,7 +25237,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "Lance, I'm counting on you.",
+					説明 = "Rance, I'm counting on you.",
 				},
 			},
 		},
@@ -25263,7 +25263,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We weRe inteRRupted, but\nthis time we'll finish it foR\nsuRe.",
+					説明 = "We were interrupted, but\nthis time we'll finish it for\nsure.",
 				},
 			},
 		},
@@ -25402,7 +25402,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Head foR Mount Bezdog.",
+					説明 = "Head for Mount Bezdog.",
 				},
 			},
 		},
@@ -25489,11 +25489,11 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 3'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 3'.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "The path labeled 'Passage No.\n5' is the coRRect one.",
+					説明 = "The path labeled 'Passage No.\n5' is the correct one.",
 				},
 			},
 		},
@@ -25532,7 +25532,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウルザ",
-					説明 = "The enemies aRe still in\nconfusion... This is ouR\nchance.",
+					説明 = "The enemies are still in\nconfusion... This is our\nchance.",
 				},
 			},
 		},
@@ -25569,11 +25569,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 70'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 70'.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 77'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 77'.",
 				},
 			},
 		},
@@ -25601,7 +25601,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Schill, you pRopeRly\nRemembeRed the numbeR\njust now, Right?",
+					説明 = "Schill, you properly\nremembered the number\njust now, right?",
 				},
 			},
 		},
@@ -25614,7 +25614,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "(Eh... if I RemembeR\ncoRRectly...)",
+					説明 = "(Eh... if I remember\ncorrectly...)",
 				},
 			},
 		},
@@ -25624,15 +25624,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 6'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 6'.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 66'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 66'.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed along the path\nlabeled 'Passage No. 33'.",
+					説明 = "Proceed along the path\nlabeled 'Passage No. 33'.",
 				},
 			},
 		},
@@ -25850,11 +25850,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "かなみ",
-					説明 = "Along this path, theRe's\nsomething amazing.",
+					説明 = "Along this path, there's\nsomething amazing.",
 				},
 				分岐右 = {
 					顔画像 = "ミラクル",
-					説明 = "The final battle is neaR. Think\ncaRefully about what you'll\nneed.",
+					説明 = "The final battle is near. Think\ncarefully about what you'll\nneed.",
 				},
 			},
 		},
@@ -25902,7 +25902,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "健太郎",
-					説明 = "Miki-chan is inside heRe.",
+					説明 = "Miki-chan is inside here.",
 				},
 			},
 		},
@@ -25913,7 +25913,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ugh- the RewaRd sex will\nhave to wait, we must huRRy\nahead.",
+					説明 = "Ugh- the reward sex will\nhave to wait, we must hurry\nahead.",
 				},
 			},
 		},
@@ -25965,7 +25965,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -25986,7 +25986,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "Thanks foR letting me pass.",
+					説明 = "Thanks for letting me pass.",
 				},
 			},
 		},
@@ -26000,7 +26000,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "Hang in theRe, Lance, just a\nlittle moRe.",
+					説明 = "Hang in there, Rance, just a\nlittle more.",
 				},
 			},
 		},
@@ -26045,7 +26045,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "...They'Re heRe. This is the\nplace.",
+					説明 = "...They're here. This is the\nplace.",
 				},
 			},
 		},
@@ -26057,11 +26057,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "敗北",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					！条件 = "敗北",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -26103,7 +26103,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "シャリエラルート",
-					説明 = "EmbRacing ShalieRa.",
+					説明 = "Embracing Shaliera.",
 				},
 				分岐右 = {
 					！条件 = "シャリエラルート",
@@ -26148,7 +26148,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "メリムが居る",
-					説明 = "When MeRim was possessed",
+					説明 = "When Merim was possessed",
 				},
 				分岐右 = {
 					！条件 = "メリムが居る",
@@ -26233,7 +26233,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "学者",
-					説明 = "This way, we'll exit the\nseweR.",
+					説明 = "This way, we'll exit the\nsewer.",
 					音楽 = "フィールド／魔物界",
 					背景 = "ベズドグ山内／恐瘴気",
 					地名 = "ベズドグ山内　第３ブロック",
@@ -26287,7 +26287,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "HeRe we go, this time we'll\ntake that guy down foR suRe.",
+					説明 = "Here we go, this time we'll\ntake that guy down for sure.",
 				},
 			},
 		},
@@ -26348,7 +26348,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Who's in my demon\nexteRmination squad's elite\nmembeRs?",
+					説明 = "Who's in my demon\nextermination squad's elite\nmembers?",
 				},
 			},
 		},
@@ -26361,7 +26361,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Let's oRganize the tRoops and\nthen depaRt.",
+					説明 = "Let's organize the troops and\nthen depart.",
 					背景 = "自由都市平原",
 					地名 = "ＣＩＴＹ近郊",
 					音楽 = "フィールド／自由都市",
@@ -26375,13 +26375,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Since we'Re at it, go foR a\nfRontal assault (difficult\nRoute).",
+					説明 = "Since we're at it, go for a\nfrontal assault (difficult\nroute).",
 					物語 = "０４／正面突破",
 					音楽 = "フィールド／支援",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Take a detouR and defeat the\nboss (standaRd Route).",
+					説明 = "Take a detour and defeat the\nboss (standard route).",
 					物語 = "０４／迂回して進む",
 					背景 = "森",
 					地名 = "ＣＩＴＹ近郊　裏道",
@@ -26396,7 +26396,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's pRoceed thRough the\nback alley.",
+					説明 = "Let's proceed through the\nback alley.",
 				},
 			},
 		},
@@ -26412,7 +26412,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed cautiously.",
+					説明 = "Proceed cautiously.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -26475,11 +26475,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "It's a giRl monsteR!",
+					説明 = "It's a girl monster!",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Aim foR the demon geneRal.",
+					説明 = "Aim for the demon general.",
 				},
 			},
 		},
@@ -26500,7 +26500,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "The boss is in the foRest\nahead.",
+					説明 = "The boss is in the forest\nahead.",
 					背景 = "森",
 				},
 			},
@@ -26514,7 +26514,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hehe, youR guaRds aRe too\nfew, demon geneRal.",
+					説明 = "Hehe, your guards are too\nfew, demon general.",
 				},
 			},
 		},
@@ -26531,7 +26531,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's go back.",
+					説明 = "Alright, let's go back.",
 					背景 = "自由都市平原",
 					地名 = "帰路",
 				},
@@ -26555,7 +26555,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "I'll ask you to gatheR\nmateRials.",
+					説明 = "I'll ask you to gather\nmaterials.",
 				},
 			},
 		},
@@ -26565,7 +26565,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アームズ",
-					説明 = "Now then, the most efficient\nhunting Route is... hm.",
+					説明 = "Now then, the most efficient\nhunting route is... hm.",
 				},
 			},
 		},
@@ -26581,7 +26581,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Well? Did it dRop? ...Tch, a\nmiss.",
+					説明 = "Well? Did it drop? ...Tch, a\nmiss.",
 				},
 			},
 		},
@@ -26604,7 +26604,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Let's get the mateRials.",
+					説明 = "Let's get the materials.",
 				},
 			},
 		},
@@ -26648,7 +26648,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "材料は揃った",
-					説明 = "The mateRials aRe gatheRed.",
+					説明 = "The materials are gathered.",
 				},
 				分岐右 = {
 					！条件 = "材料は揃った",
@@ -26682,7 +26682,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's depaRt foR M Land.",
+					説明 = "Let's depart for M Land.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -26699,7 +26699,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "AlRight, let's pull ouRselves\ntogetheR and go!",
+					説明 = "Alright, let's pull ourselves\ntogether and go!",
 				},
 			},
 		},
@@ -26725,11 +26725,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "I choose this way fReely.",
+					説明 = "I choose this way freely.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WhicheveR way I go, it's my\nfReedom.",
+					説明 = "Whichever way I go, it's my\nfreedom.",
 				},
 			},
 		},
@@ -26765,7 +26765,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "A male demon god... how\nboRing.",
+					説明 = "A male demon god... how\nboring.",
 				},
 			},
 		},
@@ -26781,7 +26781,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AnotheR male demon god...\nboRing, boRing.",
+					説明 = "Another male demon god...\nboring, boring.",
 				},
 			},
 		},
@@ -26802,7 +26802,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "EnteRing the demon\ncoRRidoR.",
+					説明 = "Entering the demon\ncorridor.",
 				},
 			},
 		},
@@ -26828,13 +26828,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "OffeR Kanami.",
+					説明 = "Offer Kanami.",
 					物語 = "２４０／１／リターンデーモン／かなみ",
 					フラグ = "ミラクルの追加",
 				},
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Defeat the RetuRn Demon.",
+					説明 = "Defeat the return Demon.",
 					物語 = "２４０／１／リターンデーモン／倒す",
 					フラグ = "ミラクルの追加",
 				},
@@ -26847,7 +26847,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "クルックー",
-					説明 = "While we'Re at it, let's\nscatteR the demons and\nmove foRwaRd.",
+					説明 = "While we're at it, let's\nscatter the demons and\nmove forward.",
 				},
 			},
 		},
@@ -26862,7 +26862,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's leave that bRat\nalone and move ahead.",
+					説明 = "Alright, let's leave that brat\nalone and move ahead.",
 				},
 			},
 		},
@@ -26888,7 +26888,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "Ah, theRe's the exit.",
+					説明 = "Ah, there's the exit.",
 				},
 			},
 		},
@@ -26958,7 +26958,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'Re staRting to see it soon,\nhuh?",
+					説明 = "We're starting to see it soon,\nhuh?",
 				},
 			},
 		},
@@ -26986,7 +26986,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "あてな２号",
-					説明 = "It's night - bewaRe of\nbedwetting.",
+					説明 = "It's night - beware of\nbedwetting.",
 				},
 			},
 		},
@@ -26998,7 +26998,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Looks like we can sleep\ncomfoRtably and soundly.",
+					説明 = "Looks like we can sleep\ncomfortably and soundly.",
 				},
 			},
 		},
@@ -27013,7 +27013,7 @@ tree クエストデータ = {
 			物語 = "２４０／２／マリアの依頼",
 			選択分岐 = {
 				分岐左 = {
-					説明 = "It's Custom - let's do a favoR\nfoR MaRia.",
+					説明 = "It's Custom - let's do a favor\nfor Maria.",
 					物語 = "２４０／２１／カスタムへ",
 					フラグ = "ミルの追加",
 					背景 = "自由都市平原",
@@ -27021,7 +27021,7 @@ tree クエストデータ = {
 					音楽 = "フィールド／自由都市",
 				},
 				分岐右 = {
-					説明 = "It's DiphtheRia - I'm\ninteRested in my exclusive\nship.",
+					説明 = "It's Diphtheria - I'm\ninterested in my exclusive\nship.",
 					物語 = "２４０／２２／ジフテリアへ",
 					フラグ = "志津香の追加",
 					背景 = "街道１",
@@ -27051,12 +27051,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "DetouR thRough the foRest.",
+					説明 = "Detour through the forest.",
 					背景 = "森",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go stRaight ahead.",
+					説明 = "Go straight ahead.",
 				},
 			},
 		},
@@ -27093,7 +27093,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミル",
-					説明 = "OuR town, Custom, is coming\nup soon.",
+					説明 = "Our town, Custom, is coming\nup soon.",
 				},
 			},
 		},
@@ -27115,7 +27115,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Honestly, MaRia is...",
+					説明 = "Honestly, Maria is...",
 				},
 			},
 		},
@@ -27128,7 +27128,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "EnteR the undeRgRound\nlabyRinth.",
+					説明 = "Enter the underground\nlabyrinth.",
 					背景 = "地下洞窟",
 					地名 = "カスタムの地下迷宮",
 					音楽 = "フィールド／迷宮",
@@ -27165,7 +27165,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Anyway, let's seaRch foR\nMaRia.",
+					説明 = "Anyway, let's search for\nMaria.",
 				},
 			},
 		},
@@ -27176,7 +27176,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance, enemies ahead -\nStone GuaRdian.",
+					説明 = "Lord Rance, enemies ahead -\nStone Guardian.",
 				},
 			},
 		},
@@ -27187,7 +27187,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミル",
-					説明 = "MaRia, you'Re alRight, Right?",
+					説明 = "Maria, you're alright, right?",
 				},
 			},
 		},
@@ -27226,7 +27226,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "OuR business is done; let's\nRetuRn to M Land.",
+					説明 = "Our business is done; let's\nreturn to M Land.",
 					背景 = "自由都市平原／夕方",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -27245,7 +27245,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "子供ナギ",
-					説明 = "It's moRning! Let's depaRt!",
+					説明 = "It's morning! Let's depart!",
 				},
 			},
 		},
@@ -27278,7 +27278,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Shall we depaRt soon?",
+					説明 = "Shall we depart soon?",
 					地名 = "熊野古道",
 					背景 = "街道１",
 				},
@@ -27338,7 +27338,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "Thank you, DaRk Rance.",
+					説明 = "Thank you, Dark Rance.",
 				},
 			},
 		},
@@ -27375,7 +27375,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "OuR business is done; let's\nRetuRn to M Land.",
+					説明 = "Our business is done; let's\nreturn to M Land.",
 					背景 = "自由都市平原／夕方",
 					地名 = "自由都市",
 				},
@@ -27393,7 +27393,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We picked up a beautiful\nwoman, so let's RetuRn to M\nLand.",
+					説明 = "We picked up a beautiful\nwoman, so let's return to M\nLand.",
 				},
 			},
 		},
@@ -27407,7 +27407,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "I'll pRepaRe a bath.",
+					説明 = "I'll prepare a bath.",
 				},
 			},
 		},
@@ -27431,7 +27431,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Then let's depaRt to defeat\nthe demon god.",
+					説明 = "Then let's depart to defeat\nthe demon god.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -27455,7 +27455,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "The HypeR Building has 201\nflooRs.",
+					説明 = "The Hyper Building has 201\nfloors.",
 				},
 			},
 		},
@@ -27526,7 +27526,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's RetuRn to the suRface.",
+					説明 = "Let's return to the surface.",
 				},
 			},
 		},
@@ -27540,7 +27540,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Dash stRaight ahead - a\ndiRect line to the demon god!",
+					説明 = "Dash straight ahead - a\ndirect line to the demon god!",
 				},
 			},
 		},
@@ -27550,11 +27550,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "This Route is safe - we can\npRoceed without falling.",
+					説明 = "This route is safe - we can\nproceed without falling.",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This is the Route; no\npRoblem.",
+					説明 = "This is the route; no\nproblem.",
 				},
 			},
 		},
@@ -27565,7 +27565,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "Does weight affect it... it\ndoesn't, Right?",
+					説明 = "Does weight affect it... it\ndoesn't, right?",
 				},
 			},
 		},
@@ -27595,7 +27595,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I was able to gain\nexpeRience. I've been aiming\nfoR this fRom the staRt.",
+					説明 = "I was able to gain\nexperience. I've been aiming\nfor this from the start.",
 				},
 			},
 		},
@@ -27618,7 +27618,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "HeRe we go, Rance.",
+					説明 = "Here we go, Rance.",
 				},
 			},
 		},
@@ -27631,11 +27631,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -27649,7 +27649,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "(HeaRtbeat... That was a bit\ndangeRous.)",
+					説明 = "(Heartbeat... That was a bit\ndangerous.)",
 				},
 			},
 		},
@@ -27674,7 +27674,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Phew, that feels RefReshing.",
+					説明 = "Phew, that feels refreshing.",
 				},
 			},
 		},
@@ -27698,11 +27698,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Come out, ThundeR Guy!",
+					説明 = "Come out, Thunder Guy!",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Next time, I'll win. PRobably.",
+					説明 = "Next time, I'll win. Probably.",
 				},
 			},
 		},
@@ -27742,7 +27742,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "Well then, take a good Rest.",
+					説明 = "Well then, take a good rest.",
 				},
 			},
 		},
@@ -27758,7 +27758,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "SeveRal days have passed...",
+					説明 = "Several days have passed...",
 				},
 			},
 		},
@@ -27797,11 +27797,11 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 				},
 			},
 		},
@@ -27813,7 +27813,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hehehe. Justice will pRevail.",
+					説明 = "Hehehe. Justice will prevail.",
 				},
 			},
 		},
@@ -27862,11 +27862,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Inspecting enemy\ninfoRmation: Katyusha.",
+					説明 = "Inspecting enemy\ninformation: Katyusha.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Inspecting ally infoRmation:\nCecil.",
+					説明 = "Inspecting ally information:\nCecil.",
 				},
 			},
 		},
@@ -27896,7 +27896,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Dammit... I oveRdid it. Well,\nit felt good so I guess it's fine.",
+					説明 = "Dammit... I overdid it. Well,\nit felt good so I guess it's fine.",
 				},
 			},
 		},
@@ -27913,7 +27913,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Now, to the\nbattlefield-SekigahaRa.",
+					説明 = "Now, to the\nbattlefield-Sekigahara.",
 					背景 = "野営地",
 					地名 = "戦場　セキガハラ",
 					音楽 = "フィールド／陣地",
@@ -27927,7 +27927,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's find the tRaitoR.",
+					説明 = "Let's find the traitor.",
 				},
 			},
 		},
@@ -27937,15 +27937,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エレノア",
-					説明 = "Call EleanoR (Custom City\nMayoR).",
+					説明 = "Call Eleanor (Custom City\nMayor).",
 				},
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "Call Copandon (Kopa EmpiRe\nCity MayoR).",
+					説明 = "Call Copandon (Kopa Empire\nCity Mayor).",
 				},
 				分岐右 = {
 					顔画像 = "ビヨンホウ",
-					説明 = "Call Biyonhou (JifteRia City\nMayoR).",
+					説明 = "Call Biyonhou (Jifteria City\nMayor).",
 				},
 			},
 		},
@@ -27957,7 +27957,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, then. Next\ninteRRogation.",
+					説明 = "Alright, then. Next\ninterrogation.",
 				},
 			},
 		},
@@ -27969,7 +27969,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, then. Next\ninteRRogation.",
+					説明 = "Alright, then. Next\ninterrogation.",
 				},
 			},
 		},
@@ -27981,7 +27981,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, then. Next\ninteRRogation.",
+					説明 = "Alright, then. Next\ninterrogation.",
 				},
 			},
 		},
@@ -27991,15 +27991,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "パパデマス",
-					説明 = "Call Papademas (Geo City\nMayoR).",
+					説明 = "Call Papademas (Geo City\nMayor).",
 				},
 				分岐前 = {
 					顔画像 = "ペスポ",
-					説明 = "Call Pespo (Hanna City\nMayoR).",
+					説明 = "Call Pespo (Hanna City\nMayor).",
 				},
 				分岐右 = {
 					顔画像 = "パトリシア",
-					説明 = "Call PatRicia (Ice City\nMayoR).",
+					説明 = "Call Patricia (Ice City\nMayor).",
 				},
 			},
 		},
@@ -28011,7 +28011,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, then. Next\ninteRRogation.",
+					説明 = "Alright, then. Next\ninterrogation.",
 				},
 			},
 		},
@@ -28023,7 +28023,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, then. Next\ninteRRogation.",
+					説明 = "Alright, then. Next\ninterrogation.",
 				},
 			},
 		},
@@ -28035,7 +28035,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, then. Next\ninteRRogation.",
+					説明 = "Alright, then. Next\ninterrogation.",
 				},
 			},
 		},
@@ -28045,15 +28045,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "セシル",
-					説明 = "Call Cecil (FRee City CoRps\nCommandeR).",
+					説明 = "Call Cecil (Free City Corps\nCommander).",
 				},
 				分岐前 = {
 					顔画像 = "篠田源五郎",
-					説明 = "Call Shinoda (MilitaRy\nStRategist).",
+					説明 = "Call Shinoda (Military\nStrategist).",
 				},
 				分岐右 = {
 					顔画像 = "朝倉義景",
-					説明 = "Call AsakuRa (JAPAN\nReinfoRcements).",
+					説明 = "Call Asakura (JAPAN\nreinforcements).",
 				},
 			},
 		},
@@ -28065,7 +28065,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "InteRview concluded. The\ntRaitoR is that one.",
+					説明 = "Interview concluded. The\ntraitor is that one.",
 				},
 			},
 		},
@@ -28077,7 +28077,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "InteRview concluded. The\ntRaitoR is that one.",
+					説明 = "Interview concluded. The\ntraitor is that one.",
 				},
 			},
 		},
@@ -28089,7 +28089,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "InteRview concluded. The\ntRaitoR is that one.",
+					説明 = "Interview concluded. The\ntraitor is that one.",
 				},
 			},
 		},
@@ -28100,15 +28100,15 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "We've identified the tRaitoR.\nThey'Re among the thRee we\ninteRviewed.",
+					説明 = "We've identified the traitor.\nThey're among the three we\ninterviewed.",
 				},
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "Redo the inteRview.",
+					説明 = "Redo the interview.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Hmm?? TheRe's no tRaitoR.",
+					説明 = "Hmm?? There's no traitor.",
 				},
 			},
 		},
@@ -28140,7 +28140,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We wasted extRa time.\nShould I sleep?",
+					説明 = "We wasted extra time.\nShould I sleep?",
 				},
 			},
 		},
@@ -28149,7 +28149,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "Both aRmies Remain in a\nstandoff; a day has passed...",
+					説明 = "Both armies remain in a\nstandoff; a day has passed...",
 					背景 = "空／夜",
 				},
 			},
@@ -28200,7 +28200,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "TheRe's a big fish heRe!\nDefeat it!",
+					説明 = "There's a big fish here!\nDefeat it!",
 				},
 			},
 		},
@@ -28284,7 +28284,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "A tRaitoR...!? Oh no...",
+					説明 = "A traitor...!? Oh no...",
 				},
 			},
 		},
@@ -28295,7 +28295,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Taking a bReak foR now.",
+					説明 = "Taking a break for now.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -28323,7 +28323,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "ビヨンホウが怪しい",
-					説明 = "Successfully pRevented the\nbetRayal",
+					説明 = "Successfully prevented the\nbetrayal",
 				},
 				分岐右 = {
 					！条件 = "ビヨンホウが怪しい",
@@ -28344,7 +28344,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's finish this!",
+					説明 = "Alright, let's finish this!",
 				},
 			},
 		},
@@ -28357,7 +28357,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カオス",
-					説明 = "Chase them! PuRsue and\nmake them taste theiR own\nblood and flesh!",
+					説明 = "Chase them! Pursue and\nmake them taste their own\nblood and flesh!",
 				},
 			},
 		},
@@ -28366,11 +28366,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRess the attack! Yahoo!",
+					説明 = "Press the attack! Yahoo!",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Cleaning up small fRy isn't my\njob.",
+					説明 = "Cleaning up small fry isn't my\njob.",
 				},
 			},
 		},
@@ -28429,7 +28429,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "フレイア",
-					説明 = "Received a discoveRy RepoRt\nfRom the suboRdinates -\nwe'Re closing in.",
+					説明 = "Received a discovery report\nfrom the subordinates -\nwe're closing in.",
 				},
 			},
 		},
@@ -28469,7 +28469,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "They should be in this town -\nseaRch foR them!",
+					説明 = "They should be in this town -\nsearch for them!",
 				},
 			},
 		},
@@ -28480,12 +28480,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Challenge Route: Fight using\nonly Rance.",
+					説明 = "Challenge route: Fight using\nonly Rance.",
 					フラグ = "禁止グループランス以外",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Fight with eveRyone.",
+					説明 = "Fight with everyone.",
 				},
 			},
 		},
@@ -28541,7 +28541,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Which veRsion of LoRd Rance\nwill you fight as? Hm?",
+					説明 = "Which version of Lord Rance\nwill you fight as? Hm?",
 				},
 			},
 		},
@@ -28555,7 +28555,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'm definitely tiRed now.",
+					説明 = "I'm definitely tired now.",
 				},
 			},
 		},
@@ -28604,7 +28604,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "SoRRy, Rance. Somehow, get\naway.",
+					説明 = "Sorry, Rance. Somehow, get\naway.",
 				},
 			},
 		},
@@ -28626,7 +28626,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "クルックー",
-					説明 = "Please Run away\nimmediately.",
+					説明 = "Please run away\nimmediately.",
 				},
 			},
 		},
@@ -28678,11 +28678,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Come to think of it, I\nReceived an invitation fRom\nKatyusha.",
+					説明 = "Come to think of it, I\nreceived an invitation from\nKatyusha.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I'm in top foRm! Let's defeat\nanotheR demon.",
+					説明 = "I'm in top form! Let's defeat\nanother demon.",
 				},
 			},
 		},
@@ -28699,7 +28699,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AfteR defeating the bad giRl,\nshe gets sentenced to 100\nconsecutive thRusts.",
+					説明 = "After defeating the bad girl,\nshe gets sentenced to 100\nconsecutive thrusts.",
 				},
 			},
 		},
@@ -28719,7 +28719,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PuRsue the Robot.",
+					説明 = "Pursue the robot.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -28744,7 +28744,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "Please, woRk pRopeRly...",
+					説明 = "Please, work properly...",
 				},
 			},
 		},
@@ -28756,7 +28756,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge into that factoRy!",
+					説明 = "Charge into that factory!",
 					背景 = "パイアール工場内",
 					地名 = "パイアール第２工場",
 					音楽 = "フィールド／侵入",
@@ -28775,7 +28775,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "Amazing! What is this\nmateRial?",
+					説明 = "Amazing! What is this\nmaterial?",
 				},
 			},
 		},
@@ -28789,7 +28789,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! GReat victoRy!",
+					説明 = "Gahahahaha! Great victory!",
 				},
 			},
 		},
@@ -28800,7 +28800,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "Whoa, the difficulty incReased\n- I didn't know...",
+					説明 = "Whoa, the difficulty increased\n- I didn't know...",
 				},
 			},
 		},
@@ -28819,7 +28819,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Evil has been destRoyed.\nGahahahahaha!",
+					説明 = "Evil has been destroyed.\nGahahahahaha!",
 				},
 			},
 		},
@@ -28847,11 +28847,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Play at the amusement paRk.",
+					説明 = "Play at the amusement park.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I'm in top foRm! Let's defeat\nanotheR demon.",
+					説明 = "I'm in top form! Let's defeat\nanother demon.",
 					音楽 = "フィールド／首都",
 				},
 			},
@@ -28940,7 +28940,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ヌヌハラ",
-					説明 = "The heRoic tale of LoRd\nRance begins!",
+					説明 = "The heroic tale of Lord\nRance begins!",
 				},
 			},
 		},
@@ -28952,7 +28952,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's depaRt!",
+					説明 = "Let's depart!",
 					背景 = "へっぽこ街道",
 					地名 = "へっぽこ街道",
 					音楽 = "フィールド／自由都市",
@@ -29006,7 +29006,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "チューリップ３号",
-					説明 = "Zugogogogo, kyuRukyuRu\n(mechanical and scReeching\nsounds)",
+					説明 = "Zugogogogo, kyurukyuru\n(mechanical and screeching\nsounds)",
 				},
 			},
 		},
@@ -29062,7 +29062,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "マリア",
-					説明 = "Do youR best, my tulip.",
+					説明 = "Do your best, my tulip.",
 				},
 			},
 		},
@@ -29109,7 +29109,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We've figuRed out theiR\nfoRces. Let's RetuRn to the\ntown.",
+					説明 = "We've figured out their\nforces. Let's return to the\ntown.",
 				},
 			},
 		},
@@ -29123,7 +29123,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Leave the tank to MaRia and\ntake a bReak.",
+					説明 = "Leave the tank to Maria and\ntake a break.",
 				},
 			},
 		},
@@ -29156,7 +29156,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Right now, I feel like wanting\nsome bReast poRtion.",
+					説明 = "Right now, I feel like wanting\nsome breast portion.",
 				},
 			},
 		},
@@ -29216,7 +29216,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Indeed, this sound is\nconceRning.",
+					説明 = "Indeed, this sound is\nconcerning.",
 				},
 			},
 		},
@@ -29227,7 +29227,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リセット",
-					説明 = "Rin Rin RiRin♪ (bell Ringing\nsound)",
+					説明 = "Rin rin ririn♪ (bell ringing\nsound)",
 				},
 			},
 		},
@@ -29237,7 +29237,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "子供ナギ",
-					説明 = "MonsteR spotted! Shoot!",
+					説明 = "Monster spotted! Shoot!",
 				},
 				分岐右 = {
 					顔画像 = "子供志津香",
@@ -29261,7 +29261,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ミル",
-					説明 = "I'd pRefeR cake oveR\nfloweRs.",
+					説明 = "I'd prefer cake over\nflowers.",
 				},
 				分岐前 = {
 					顔画像 = "あてな２号",
@@ -29286,7 +29286,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "香姫",
-					説明 = "Is eveRyone okay?",
+					説明 = "Is everyone okay?",
 				},
 			},
 		},
@@ -29332,11 +29332,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed to the uppeR flooR.",
+					説明 = "Proceed to the upper floor.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Go down the coRRidoR to the\nRight of the paRtition wall.",
+					説明 = "Go down the corridor to the\nright of the partition wall.",
 				},
 			},
 		},
@@ -29360,7 +29360,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, the paRtition wall\nopened.",
+					説明 = "Alright, the partition wall\nopened.",
 				},
 			},
 		},
@@ -29398,7 +29398,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Tch, let's pull back foR now.",
+					説明 = "Tch, let's pull back for now.",
 					地名 = "自由都市",
 					背景 = "自由都市平原",
 				},
@@ -29418,7 +29418,7 @@ tree クエストデータ = {
 				},
 				分岐左 = {
 					条件 = "カチューシャ展開２とセラクロ大人",
-					説明 = "TheRe is an adult SeRacloRas\ninvestigating Katiusha.",
+					説明 = "There is an adult Seracloras\ninvestigating Katiusha.",
 				},
 				分岐右 = {
 					条件 = "セシルルート１",
@@ -29433,12 +29433,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "ReveRt to adult.",
+					説明 = "Revert to adult.",
 					フラグ = "カチューシャ展開＝３",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Keep as a giRl.",
+					説明 = "Keep as a girl.",
 					フラグ = "カチューシャ展開＝４",
 				},
 			},
@@ -29498,7 +29498,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "Zenzai... oshiRuko... hmm,\ncan't dismiss dango as the\nmain thing eitheR...",
+					説明 = "Zenzai... oshiruko... hmm,\ncan't dismiss dango as the\nmain thing either...",
 				},
 			},
 		},
@@ -29525,7 +29525,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Anyway, if we Run away,\nwe'll be fine.",
+					説明 = "Anyway, if we run away,\nwe'll be fine.",
 				},
 			},
 		},
@@ -29538,7 +29538,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Let's dodge oveR theRe!",
+					説明 = "Let's dodge over there!",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -29577,7 +29577,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Just Run!",
+					説明 = "Just run!",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -29622,7 +29622,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Sex foR a change of pace.",
+					説明 = "Sex for a change of pace.",
 				},
 			},
 		},
@@ -29655,7 +29655,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "FiRst, aiming foR the\nmountain foot, dash thRough.",
+					説明 = "First, aiming for the\nmountain foot, dash through.",
 					地名 = "自由都市",
 					背景 = "自由都市平原",
 					音楽 = "フィールド／自由都市",
@@ -29671,7 +29671,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Damn, walking won't do.\nLet's go by ox caRt.",
+					説明 = "Damn, walking won't do.\nLet's go by ox cart.",
 				},
 			},
 		},
@@ -29695,11 +29695,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "サチコ",
-					説明 = "Maybe a detouR?",
+					説明 = "Maybe a detour?",
 				},
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "StRaight ahead.",
+					説明 = "Straight ahead.",
 				},
 			},
 		},
@@ -29725,7 +29725,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "They'Re definitely shooting at\nus... gotta enduRe it.",
+					説明 = "They're definitely shooting at\nus... gotta endure it.",
 				},
 			},
 		},
@@ -29750,7 +29750,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "子供ナギ",
-					説明 = "Ahahahahaha! SupeR high!",
+					説明 = "Ahahahahaha! Super high!",
 				},
 			},
 		},
@@ -29783,7 +29783,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "子供ナギ",
-					説明 = "Yay! DRagon SlayeR!",
+					説明 = "Yay! Dragon Slayer!",
 				},
 			},
 		},
@@ -29793,7 +29793,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "子供志津香",
-					説明 = "Nagi, be quiet foR a bit.",
+					説明 = "Nagi, be quiet for a bit.",
 				},
 			},
 		},
@@ -29844,7 +29844,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "A Rest point in a place like\nthis, we'Re lucky.",
+					説明 = "A rest point in a place like\nthis, we're lucky.",
 				},
 			},
 		},
@@ -29856,7 +29856,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Insects aRen't useful. We'll\nhave to walk.",
+					説明 = "Insects aren't useful. We'll\nhave to walk.",
 				},
 			},
 		},
@@ -29911,7 +29911,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "Goji-kaRa man!",
+					説明 = "Goji-kara man!",
 				},
 			},
 		},
@@ -29920,7 +29920,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, just a bit moRe.\nAlmost at the same altitude.",
+					説明 = "Alright, just a bit more.\nAlmost at the same altitude.",
 				},
 			},
 		},
@@ -29934,7 +29934,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Ah, I feel RefReshed.",
+					説明 = "Ah, I feel refreshed.",
 				},
 			},
 		},
@@ -29951,7 +29951,7 @@ tree クエストデータ = {
 				},
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Since we'Re heRe, shall we\naim foR the summit?",
+					説明 = "Since we're here, shall we\naim for the summit?",
 				},
 			},
 		},
@@ -29962,7 +29962,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "Ehh!? We have to climb\nmoRe?!",
+					説明 = "Ehh!? We have to climb\nmore?!",
 				},
 			},
 		},
@@ -29989,7 +29989,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "I can't anymoRe...",
+					説明 = "I can't anymore...",
 				},
 			},
 		},
@@ -30001,7 +30001,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ミル",
-					説明 = "I'm tiRed!",
+					説明 = "I'm tired!",
 				},
 			},
 		},
@@ -30055,7 +30055,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "クルックー",
-					説明 = "Just a little moRe to go.",
+					説明 = "Just a little more to go.",
 				},
 			},
 		},
@@ -30067,7 +30067,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "To...aRRived!",
+					説明 = "To...arrived!",
 				},
 			},
 		},
@@ -30097,7 +30097,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'Re heading down the\nmountain-dada-da!",
+					説明 = "We're heading down the\nmountain-dada-da!",
 					背景 = "街道１",
 					地名 = "自由都市",
 					音楽 = "無音",
@@ -30114,7 +30114,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Even while I'm sleeping, my\nsuboRdinates aRe woRking.",
+					説明 = "Even while I'm sleeping, my\nsubordinates are working.",
 				},
 			},
 		},
@@ -30130,17 +30130,17 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Mission complete. RetuRning\nto Rance Castle.",
+					説明 = "Mission complete. Returning\nto Rance Castle.",
 					物語 = "２４１／選択／ランス城に帰る",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'll smash that factoRy to\npieces.",
+					説明 = "I'll smash that factory to\npieces.",
 					物語 = "２４１／選択／工場を破壊する",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "TheRe was that demon\ngeneRal, Right? I'll take him\nout as well while I'm at it...",
+					説明 = "There was that demon\ngeneral, right? I'll take him\nout as well while I'm at it...",
 					物語 = "２４１／選択／魔物大将軍を倒す",
 				},
 			},
@@ -30152,7 +30152,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "And then dawn bRoke.",
+					説明 = "And then dawn broke.",
 				},
 			},
 		},
@@ -30163,7 +30163,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "So, what exactly happened\nafteR all?",
+					説明 = "So, what exactly happened\nafter all?",
 				},
 			},
 		},
@@ -30195,7 +30195,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's exploRe the\nsuRRoundings.",
+					説明 = "Let's explore the\nsurroundings.",
 				},
 			},
 		},
@@ -30208,7 +30208,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "A stRange woRld.",
+					説明 = "A strange world.",
 				},
 			},
 		},
@@ -30307,7 +30307,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "CRackeen!",
+					説明 = "Crackeen!",
 				},
 			},
 		},
@@ -30322,7 +30322,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "HeRe, Sheel is\ndRowning-gahaha!",
+					説明 = "Here, Sheel is\ndrowning-gahaha!",
 				},
 			},
 		},
@@ -30365,7 +30365,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's see, shall I Read the\ndiaRy?",
+					説明 = "Let's see, shall I read the\ndiary?",
 				},
 			},
 		},
@@ -30376,7 +30376,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "So, PaiaR made the\ncomputeR, huh?",
+					説明 = "So, Pi-R made the\ncomputer, huh?",
 				},
 			},
 		},
@@ -30386,7 +30386,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "TheRe's a big shot heRe.\nMaybe I'll Rest a bit.",
+					説明 = "There's a big shot here.\nMaybe I'll rest a bit.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -30420,7 +30420,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hehehe, now then, let's take\na look at the tReasuRe.",
+					説明 = "Hehehe, now then, let's take\na look at the treasure.",
 				},
 			},
 		},
@@ -30431,7 +30431,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "I have to defeat PaiaR befoRe\nthe weapons aRe made!",
+					説明 = "I have to defeat Pi-R before\nthe weapons are made!",
 				},
 			},
 		},
@@ -30440,7 +30440,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, it's OPEN.",
+					説明 = "Alright, it's OPEN.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -30467,7 +30467,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's get thRough the\notheRwoRld!",
+					説明 = "Let's get through the\notherworld!",
 				},
 			},
 		},
@@ -30488,7 +30488,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, huRRy up! SoRtie!",
+					説明 = "Alright, hurry up! Sortie!",
 				},
 			},
 		},
@@ -30499,7 +30499,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "OuR taRget is... yes, oveR\ntheRe!",
+					説明 = "Our target is... yes, over\nthere!",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／僻地昼",
@@ -30583,13 +30583,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Go up to the second flooR.",
+					説明 = "Go up to the second floor.",
 					背景 = "パイアール工場内",
 					地名 = "パイアール第２工場　２Ｆ",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed on the fiRst flooR.",
+					説明 = "Proceed on the first floor.",
 					背景 = "パイアール工場内",
 					地名 = "パイアール第２工場　１Ｆ",
 				},
@@ -30618,13 +30618,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Go up to the thiRd flooR.",
+					説明 = "Go up to the third floor.",
 					背景 = "パイアール工場内",
 					地名 = "パイアール第２工場　３Ｆ",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed on the second flooR.",
+					説明 = "Proceed on the second floor.",
 					背景 = "パイアール工場内",
 					地名 = "パイアール第２工場　２Ｆ",
 				},
@@ -30657,7 +30657,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetuRn to the fiRst flooR.",
+					説明 = "Return to the first floor.",
 					背景 = "パイアール工場内",
 					地名 = "パイアール第２工場　１Ｆ",
 				},
@@ -30696,7 +30696,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Mm, I've enjoyed the\nappetizeR.",
+					説明 = "Mm, I've enjoyed the\nappetizer.",
 				},
 			},
 		},
@@ -30710,7 +30710,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Demon PaiaR has been\ndefeated.",
+					説明 = "Demon Pi-R has been\ndefeated.",
 				},
 			},
 		},
@@ -30743,7 +30743,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Heading towaRds M Land.",
+					説明 = "Heading towards M Land.",
 				},
 			},
 		},
@@ -30762,7 +30762,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ユーティン",
-					説明 = "AlRight, I will enteRtain the\nSupReme LeadeR.",
+					説明 = "Alright, I will entertain the\nSupreme Leader.",
 				},
 			},
 		},
@@ -30784,7 +30784,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go to the Demon CoRRidoR.",
+					説明 = "Go to the Demon Corridor.",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 					音楽 = "フィールド／自由都市",
@@ -30828,7 +30828,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "RecoveR and kill time.",
+					説明 = "Recover and kill time.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -30956,7 +30956,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hmph. Let's move foRwaRd.",
+					説明 = "Hmph. Let's move forward.",
 				},
 			},
 		},
@@ -31021,7 +31021,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Quietly wait foR them to pass\nby.",
+					説明 = "Quietly wait for them to pass\nby.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -31041,7 +31041,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -31063,7 +31063,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Thank you foR youR haRd\nwoRk, LoRd Rance.",
+					説明 = "Thank you for your hard\nwork, Lord Rance.",
 				},
 			},
 		},
@@ -31106,7 +31106,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DaRk Rance, huh? You've\ngRown.",
+					説明 = "Dark Rance, huh? You've\ngrown.",
 				},
 			},
 		},
@@ -31116,11 +31116,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed thRough this flooR.",
+					説明 = "Proceed through this floor.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Go down to the loweR flooR.",
+					説明 = "Go down to the lower floor.",
 				},
 			},
 		},
@@ -31152,7 +31152,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Oh, theRe he is! The fool got\ncaught in a tRap.",
+					説明 = "Oh, there he is! The fool got\ncaught in a trap.",
 				},
 			},
 		},
@@ -31166,7 +31166,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "PisaRo, wait up! Wait up!",
+					説明 = "Pisaro, wait up! Wait up!",
 				},
 			},
 		},
@@ -31177,7 +31177,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Wait foR me... huh?",
+					説明 = "Wait for me... huh?",
 				},
 			},
 		},
@@ -31204,7 +31204,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "HeRe, I must show my\nfatheR's dignity.",
+					説明 = "Here, I must show my\nfather's dignity.",
 				},
 			},
 		},
@@ -31215,11 +31215,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Now foR the Real thing. I'll\nshow them.",
+					説明 = "Now for the real thing. I'll\nshow them.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "I'll stop aRound heRe.",
+					説明 = "I'll stop around here.",
 				},
 			},
 		},
@@ -31231,7 +31231,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "I wondeR if she's alRight...",
+					説明 = "I wonder if she's alright...",
 				},
 			},
 		},
@@ -31259,7 +31259,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "フェリス",
-					説明 = "(DaRk Rance...)",
+					説明 = "(Dark Rance...)",
 					物語 = "２４４／選択／フェリスとダークランス",
 					背景 = "街道１",
 					地名 = "自由都市",
@@ -31267,7 +31267,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "フェリス",
-					説明 = "(NepRacas...)",
+					説明 = "(Nepracas...)",
 					物語 = "２４４／選択／フェリスとネプラカス",
 					背景 = "街道１",
 					地名 = "自由都市",
@@ -31284,7 +31284,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "セシル",
-					説明 = "Leave the Rest to me.",
+					説明 = "Leave the rest to me.",
 				},
 			},
 		},
@@ -31319,7 +31319,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's lightly thRash\nthe demon aRmy.",
+					説明 = "Alright, let's lightly thrash\nthe demon army.",
 				},
 			},
 		},
@@ -31340,11 +31340,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "LaRge aRmies aRe just\nnumbeRs.",
+					説明 = "Large armies are just\nnumbers.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "A tRue heRo takes down\nsmall squads foR suRe.",
+					説明 = "A true hero takes down\nsmall squads for sure.",
 				},
 			},
 		},
@@ -31394,7 +31394,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Take advantage of the night\nto kill the monsteR geneRals.",
+					説明 = "Take advantage of the night\nto kill the monster generals.",
 					背景 = "魔軍野営地／夜",
 				},
 			},
@@ -31443,7 +31443,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting to exteRminate the\nyokai.",
+					説明 = "Departing to exterminate the\nyokai.",
 					背景 = "ＪＡＰＡＮ街道",
 					地名 = "ＪＡＰＡＮ",
 					音楽 = "フィールド／ＪＡＰＡＮ",
@@ -31465,7 +31465,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I enjoyed last night\nthoRoughly.",
+					説明 = "I enjoyed last night\nthoroughly.",
 				},
 			},
 		},
@@ -31484,11 +31484,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "PoRtopia.",
+					説明 = "Portopia.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Advance while beating up\nsome monsteRs.",
+					説明 = "Advance while beating up\nsome monsters.",
 				},
 			},
 		},
@@ -31524,7 +31524,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "政宗",
-					説明 = "We'Re appRoaching the\nDeath CountRy soon. Be\ncaReful.",
+					説明 = "We're approaching the\nDeath Country soon. Be\ncareful.",
 				},
 			},
 		},
@@ -31612,7 +31612,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *IRRegulaR",
+					説明 = "Battle = Victory *Irregular",
 					音楽 = "フィールド／優勢",
 				},
 			},
@@ -31684,7 +31684,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I wondeR if theRe aRe any\ncute giRls aRound.",
+					説明 = "I wonder if there are any\ncute girls around.",
 				},
 			},
 		},
@@ -31708,7 +31708,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I want a level 99, but I guess\ntheRe isn't one.",
+					説明 = "I want a level 99, but I guess\nthere isn't one.",
 				},
 			},
 		},
@@ -31731,7 +31731,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "FiRst, soRt out the Lizas\ndiRection.",
+					説明 = "First, sort out the Lizas\ndirection.",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 					音楽 = "フィールド／支援",
@@ -31746,7 +31746,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Now, let's scatteR them!",
+					説明 = "Now, let's scatter them!",
 				},
 			},
 		},
@@ -31771,7 +31771,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, next is the FRee City\ndiRection.",
+					説明 = "Alright, next is the Free City\ndirection.",
 					背景 = "自由都市平原／夕方",
 					地名 = "自由都市",
 				},
@@ -31785,7 +31785,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "BRing it on!",
+					説明 = "Bring it on!",
 				},
 			},
 		},
@@ -31878,7 +31878,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "かなみ",
-					説明 = "I can't... anymoRe...",
+					説明 = "I can't... anymore...",
 				},
 			},
 		},
@@ -31900,7 +31900,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Oops, this Room is...",
+					説明 = "Oops, this room is...",
 				},
 			},
 		},
@@ -31962,7 +31962,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting to the\nundeRgRound labyRinth.",
+					説明 = "Departing to the\nunderground labyrinth.",
 					背景 = "人工迷宮",
 					地名 = "地下へ続く迷宮",
 					音楽 = "フィールド／迷宮",
@@ -31977,7 +31977,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "In the end, what kind of\npeople aRe they?",
+					説明 = "In the end, what kind of\npeople are they?",
 				},
 			},
 		},
@@ -31992,7 +31992,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "DwaRfs... exciting.",
+					説明 = "Dwarfs... exciting.",
 				},
 			},
 		},
@@ -32061,7 +32061,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WheRe's the oRgy paRty!",
+					説明 = "Where's the orgy party!",
 				},
 			},
 		},
@@ -32091,7 +32091,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Shall we head to the Kinani\nDeseRt?",
+					説明 = "Shall we head to the Kinani\nDesert?",
 					背景 = "砂漠",
 					地名 = "キナニ砂漠",
 					音楽 = "フィールド／僻地昼",
@@ -32105,7 +32105,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's make contact with the\ndeseRt guide.",
+					説明 = "Let's make contact with the\ndesert guide.",
 				},
 			},
 		},
@@ -32125,11 +32125,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "PRoceed to the destination.",
+					説明 = "Proceed to the destination.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Hunt monsteRs in the deseRt.",
+					説明 = "Hunt monsters in the desert.",
 				},
 			},
 		},
@@ -32150,7 +32150,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "RetuRn to the castle foR now;\nI'm tiRed.",
+					説明 = "Return to the castle for now;\nI'm tired.",
 					地名 = "自由都市",
 					背景 = "街道２",
 				},
@@ -32166,7 +32166,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Let's take a bReak foR now.",
+					説明 = "Let's take a break for now.",
 				},
 			},
 		},
@@ -32177,7 +32177,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "DepaRting foR An'yagas\nKingdom!",
+					説明 = "Departing for An'yagas\nKingdom!",
 					フラグ = "地形＝屋内",
 				},
 			},
@@ -32192,7 +32192,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, dungeon attack!",
+					説明 = "Alright, dungeon attack!",
 				},
 			},
 		},
@@ -32230,7 +32230,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マリア",
-					説明 = "They aRe victims too, Right...",
+					説明 = "They are victims too, right...",
 				},
 			},
 		},
@@ -32270,7 +32270,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "柚美",
-					説明 = "StRuggle... stRuggle...!",
+					説明 = "Struggle... struggle...!",
 				},
 			},
 		},
@@ -32291,7 +32291,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Shall we go Rescue the\npRince...",
+					説明 = "Shall we go rescue the\nprince...",
 					背景 = "人工迷宮",
 					地名 = "アニャガス牢獄",
 					音楽 = "フィールド／迷宮",
@@ -32305,7 +32305,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I'm not motivated by a\npRince... wish it was a\npRincess instead.",
+					説明 = "I'm not motivated by a\nprince... wish it was a\nprincess instead.",
 				},
 			},
 		},
@@ -32332,7 +32332,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "Now, to PRincess Hitachi's\nplace!",
+					説明 = "Now, to Princess Hitachi's\nplace!",
 				},
 			},
 		},
@@ -32343,7 +32343,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "BRave ship, depaRt!",
+					説明 = "Brave ship, depart!",
 					背景 = "地底",
 					地名 = "地底",
 					音楽 = "フィールド／地底",
@@ -32355,7 +32355,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "Good, peRfoRmance matches\ncalculations; we can dive\nsteadily.",
+					説明 = "Good, performance matches\ncalculations; we can dive\nsteadily.",
 				},
 			},
 		},
@@ -32368,11 +32368,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Go! BRave ship!",
+					説明 = "Go! Brave ship!",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Advance! BRave ship!",
+					説明 = "Advance! Brave ship!",
 				},
 			},
 		},
@@ -32401,7 +32401,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "TheRe aRe lots of monsteRs\nundeRgRound as well.",
+					説明 = "There are lots of monsters\nunderground as well.",
 				},
 			},
 		},
@@ -32416,12 +32416,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Let's follow Hanny's tRail and\ndeceive them.",
+					説明 = "Let's follow Hanny's trail and\ndeceive them.",
 					物語 = "２５５／選択／ハニー再出発",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "We have no choice but to\nattack URza! Hehehe.",
+					説明 = "We have no choice but to\nattack Urza! Hehehe.",
 					物語 = "２５５／選択／ウルザ再出発",
 				},
 			},
@@ -32453,7 +32453,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I don't caRe about this guy.\nIgnoRe him.",
+					説明 = "I don't care about this guy.\nIgnore him.",
 					物語 = "２５５／ますぞえ／無視",
 				},
 				分岐左 = {
@@ -32475,7 +32475,7 @@ tree クエストデータ = {
 				},
 				分岐左 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 			},
 		},
@@ -32511,7 +32511,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We've passed the teRRacotta\nstatue-smelly aRea. Move on,\nmove on.",
+					説明 = "We've passed the terracotta\nstatue-smelly area. Move on,\nmove on.",
 				},
 			},
 		},
@@ -32522,11 +32522,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's looking dangeRous, so\nwe'll change the path.",
+					説明 = "It's looking dangerous, so\nwe'll change the path.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "AppRoach the diRection of\nthe vibRations.",
+					説明 = "Approach the direction of\nthe vibrations.",
 				},
 			},
 		},
@@ -32547,7 +32547,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 					物語２ = "２５５／怪獣／撃破",
 					フラグ = "達成／怪獣＝５",
 				},
@@ -32596,7 +32596,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "Diving deepeR and deepeR.",
+					説明 = "Diving deeper and deeper.",
 				},
 			},
 		},
@@ -32611,11 +32611,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, take that hollow and\npRoceed to the left.",
+					説明 = "Alright, take that hollow and\nproceed to the left.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Dive deepeR; aim foR the\nbottom of the eaRth!",
+					説明 = "Dive deeper; aim for the\nbottom of the earth!",
 				},
 			},
 		},
@@ -32647,7 +32647,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "LoweR the bow; we'll dive\nfuRtheR undeRgRound.",
+					説明 = "Lower the bow; we'll dive\nfurther underground.",
 				},
 			},
 		},
@@ -32658,13 +32658,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Can't be helped; change\ncouRse.",
+					説明 = "Can't be helped; change\ncourse.",
 					物語 = "２５５／選択／進路変更",
 					背景 = "地底",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Of couRse, chaRge foRwaRd.",
+					説明 = "Of course, charge forward.",
 					物語 = "２５５／選択／もちろん突き進む",
 				},
 			},
@@ -32681,7 +32681,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "We aRe advancing into\nunknown undeRgRound\nteRRitoRy.",
+					説明 = "We are advancing into\nunknown underground\nterritory.",
 				},
 			},
 		},
@@ -32692,13 +32692,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Change couRse.",
+					説明 = "Change course.",
 					物語 = "２５５／選択／進路変更",
 					背景 = "地底",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Anything blocking the way\nwill be cRushed.",
+					説明 = "Anything blocking the way\nwill be crushed.",
 				},
 			},
 		},
@@ -32718,7 +32718,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Condition = victoRy.",
+					説明 = "Condition = victory.",
 				},
 			},
 		},
@@ -32749,7 +32749,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's investigate neaRby;\ntheRe might be something.",
+					説明 = "Let's investigate nearby;\nthere might be something.",
 				},
 			},
 		},
@@ -32785,7 +32785,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "東芝王子",
-					説明 = "DepaRting towaRds the\nsuRface.",
+					説明 = "Departing towards the\nsurface.",
 				},
 			},
 		},
@@ -32804,7 +32804,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "東芝王子",
-					説明 = "BReaking thRough the\nbedRock; anti-shock defense.",
+					説明 = "Breaking through the\nbedrock; anti-shock defense.",
 				},
 				分岐右 = {
 					顔画像 = "マリア",
@@ -32956,7 +32956,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! Who should I\nchoose foR tomoRRow night?",
+					説明 = "Gahahahaha! Who should I\nchoose for tomorrow night?",
 				},
 			},
 		},
@@ -32980,7 +32980,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サテラ",
-					説明 = "Guaaah! I ended up dRawing\nthe bad caRd afteR all!",
+					説明 = "Guaaah! I ended up drawing\nthe bad card after all!",
 				},
 			},
 		},
@@ -33004,7 +33004,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "健太郎",
-					説明 = "Miki-chan... I wondeR if she's\nokay.",
+					説明 = "Miki-chan... I wonder if she's\nokay.",
 				},
 			},
 		},
@@ -33058,7 +33058,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "LoRd Rance...!",
+					説明 = "Lord Rance...!",
 				},
 			},
 		},
@@ -33085,14 +33085,14 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Lizas, FRee CityR,\nconscRiption heRe.",
+					説明 = "Lizas, Free Cityr,\nconscription here.",
 					背景 = "その他",
 					地名 = "−−−",
 					音楽 = "フィールド／村",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Hellman, ZesR, conscRiption\nheRe.",
+					説明 = "Hellman, Zesr, conscription\nhere.",
 					背景 = "その他",
 					地名 = "−−−",
 					音楽 = "フィールド／村",
@@ -33105,13 +33105,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Lizas RegionR,\nconducting conscRiption!",
+					説明 = "Heading to the Lizas regionr,\nconducting conscription!",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the FRee City\nRegionR, conducting\nconscRiption!",
+					説明 = "Heading to the Free City\nregionr, conducting\nconscription!",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 				},
@@ -33123,13 +33123,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Lizas RegionR,\nconducting conscRiption!",
+					説明 = "Heading to the Lizas regionr,\nconducting conscription!",
 					背景 = "リーザス平原",
 					地名 = "リーザス",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the FRee City\nRegionR, conducting\nconscRiption!",
+					説明 = "Heading to the Free City\nregionr, conducting\nconscription!",
 					背景 = "自由都市平原",
 					地名 = "自由都市",
 				},
@@ -33141,13 +33141,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Hellman\nRegionR, thoRoughly\nconscRipting.",
+					説明 = "Heading to the Hellman\nregionr, thoroughly\nconscripting.",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Zes RegionR,\nthoRoughly conscRipting.",
+					説明 = "Heading to the Zes regionr,\nthoroughly conscripting.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 				},
@@ -33159,13 +33159,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Hellman\nRegionR, distRibuting Red\nnotices.",
+					説明 = "Heading to the Hellman\nregionr, distributing red\nnotices.",
 					背景 = "ヘルマン平原",
 					地名 = "ヘルマン",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Zes RegionR,\ndistRibuting Red notices.",
+					説明 = "Heading to the Zes regionr,\ndistributing red notices.",
 					背景 = "ゼス平原",
 					地名 = "ゼス",
 				},
@@ -33207,7 +33207,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! I'll make those\nRuffians woRk foR me!",
+					説明 = "Gahahahaha! I'll make those\nruffians work for me!",
 					背景 = "その他",
 					地名 = "−−−",
 				},
@@ -33221,7 +33221,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! Bandits, to the\nfRont lines!",
+					説明 = "Gahahahaha! Bandits, to the\nfront lines!",
 					背景 = "その他",
 					地名 = "−−−",
 				},
@@ -33235,7 +33235,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! PooR faRmeRs,\nfight, fight!",
+					説明 = "Gahahahaha! Poor farmers,\nfight, fight!",
 					背景 = "その他",
 					地名 = "−−−",
 				},
@@ -33249,7 +33249,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahahaha! It's best to\nweaR out the vicious\ncRiminals.",
+					説明 = "Gahahahahaha! It's best to\nwear out the vicious\ncriminals.",
 					背景 = "その他",
 					地名 = "−−−",
 				},
@@ -33263,7 +33263,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha! Those fools,\nsend them to the fRont line.",
+					説明 = "Gahahahaha! Those fools,\nsend them to the front line.",
 					背景 = "その他",
 					地名 = "−−−",
 				},
@@ -33277,7 +33277,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Gahahahaha!\nGood-foR-nothings, fight!",
+					説明 = "Gahahahaha!\nGood-for-nothings, fight!",
 					背景 = "その他",
 					地名 = "−−−",
 				},
@@ -33301,7 +33301,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "パットン",
-					説明 = "Let's depaRt.",
+					説明 = "Let's depart.",
 					背景 = "街道２",
 					地名 = "へルマン",
 					音楽 = "フィールド／ヘルマン",
@@ -33328,7 +33328,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, time to exploRe the\nlabyRinth.",
+					説明 = "Alright, time to explore the\nlabyrinth.",
 				},
 			},
 		},
@@ -33366,7 +33366,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "This... Reminds me of the\nBattle God City...",
+					説明 = "This... reminds me of the\nBattle God City...",
 				},
 			},
 		},
@@ -33387,7 +33387,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's kick away the junk and\nmove foRwaRd.",
+					説明 = "Let's kick away the junk and\nmove forward.",
 				},
 			},
 		},
@@ -33415,11 +33415,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's huRRy ahead.",
+					説明 = "Let's hurry ahead.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "FiRst, let's take a lunch\nbReak.",
+					説明 = "First, let's take a lunch\nbreak.",
 				},
 			},
 		},
@@ -33457,7 +33457,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "DRive it oveR theRe!",
+					説明 = "Drive it over there!",
 				},
 			},
 		},
@@ -33514,7 +33514,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "A battle commandeR, huh?\nWell, I'll put you to woRk.",
+					説明 = "A battle commander, huh?\nWell, I'll put you to work.",
 				},
 			},
 		},
@@ -33526,7 +33526,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "What was I doing? Oh Right,\nthe dumplings...",
+					説明 = "What was I doing? Oh right,\nthe dumplings...",
 				},
 			},
 		},
@@ -33535,7 +33535,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Something moved! OveR\ntheRe!",
+					説明 = "Something moved! Over\nthere!",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
@@ -33543,7 +33543,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "The pResence of tReasuRe...\nCould it be!",
+					説明 = "The presence of treasure...\nCould it be!",
 				},
 			},
 		},
@@ -33569,7 +33569,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リセット",
-					説明 = "Wow, tag is Really stRong!",
+					説明 = "Wow, tag is really strong!",
 				},
 			},
 		},
@@ -33616,7 +33616,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hmm... Is it alReady this\nlate?",
+					説明 = "Hmm... Is it already this\nlate?",
 				},
 			},
 		},
@@ -33640,7 +33640,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Oh, a dooR that looks\nfamiliaR...",
+					説明 = "Oh, a door that looks\nfamiliar...",
 				},
 			},
 		},
@@ -33682,7 +33682,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Behave and accept youR\naRRest!",
+					説明 = "Behave and accept your\narrest!",
 				},
 			},
 		},
@@ -33700,7 +33700,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Got the ARk!",
+					説明 = "Got the Ark!",
 				},
 			},
 		},
@@ -33711,7 +33711,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Umm, was it ahead fRom\nheRe?",
+					説明 = "Umm, was it ahead from\nhere?",
 				},
 			},
 		},
@@ -33722,7 +33722,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's RetuRn.",
+					説明 = "Alright, let's return.",
 				},
 			},
 		},
@@ -33750,7 +33750,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's a defense battle! PRotect\nmy castle!",
+					説明 = "It's a defense battle! Protect\nmy castle!",
 					背景 = "ランス城／夜",
 				},
 			},
@@ -33762,7 +33762,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Good moRning, LoRd Rance.",
+					説明 = "Good morning, Lord Rance.",
 					背景 = "ランス城",
 				},
 			},
@@ -33774,7 +33774,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Demon hunting squad,\nsoRtie! Follow me!",
+					説明 = "Demon hunting squad,\nsortie! Follow me!",
 					背景 = "山道",
 					地名 = "東登り口",
 					音楽 = "フィールド／戦場",
@@ -33844,7 +33844,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's RetuRn to the castle foR\nnow.",
+					説明 = "Let's return to the castle for\nnow.",
 				},
 			},
 		},
@@ -33862,11 +33862,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Take a bReak with Sheila.",
+					説明 = "Take a break with Sheila.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Visit SaRnacia.",
+					説明 = "Visit Sarnacia.",
 				},
 			},
 		},
@@ -33898,7 +33898,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SoRtie again! Don't let them\nappRoach my castle!",
+					説明 = "Sortie again! Don't let them\napproach my castle!",
 					背景 = "山道",
 					地名 = "北登り口",
 					音楽 = "フィールド／戦場",
@@ -33933,7 +33933,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Avoid the demon aRmy.",
+					説明 = "Avoid the demon army.",
 				},
 			},
 		},
@@ -33972,7 +33972,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's RetuRn once.",
+					説明 = "Let's return once.",
 				},
 			},
 		},
@@ -33986,7 +33986,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Take a bReak with Sheila.",
+					説明 = "Take a break with Sheila.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -34027,7 +34027,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Red-Eye the Demon was\nheRe? AlRight, let's go.",
+					説明 = "Red-Eye the Demon was\nhere? Alright, let's go.",
 					背景 = "山道",
 					地名 = "正面登り口",
 					音楽 = "フィールド／危機",
@@ -34052,12 +34052,12 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy *Special",
+					説明 = "Battle = Victory *Special",
 					音楽 = "フィールド／優勢",
 				},
 				分岐前 = {
 					！条件 = "勝利",
-					説明 = "Battle = ... *NoRmal",
+					説明 = "Battle = ... *Normal",
 					物語 = "１０／３／レッドアイ戦闘後",
 				},
 			},
@@ -34072,7 +34072,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "コパンドン",
-					説明 = "Good gRief.",
+					説明 = "Good grief.",
 				},
 			},
 		},
@@ -34128,7 +34128,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐前 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 					物語 = "１０／４／レッドアイ戦闘後",
 					音楽 = "フィールド／危機",
 				},
@@ -34183,7 +34183,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "SoRtie",
+					説明 = "Sortie",
 					背景 = "山道",
 					地名 = "正面登り口",
 					音楽 = "フィールド／支援",
@@ -34228,7 +34228,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "No way, I'm going to Steel\nHoRRoR.",
+					説明 = "No way, I'm going to Steel\nHorror.",
 				},
 			},
 		},
@@ -34256,12 +34256,12 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Go to Tokyo and meet the\nPRime MinisteR.",
+					説明 = "Go to Tokyo and meet the\nPrime Minister.",
 					物語 = "２０２／選択／東京に向かうぞ",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Settle foR the MayoR of\nOsaka.",
+					説明 = "Settle for the Mayor of\nOsaka.",
 					物語 = "２０２／選択／中之島に向かうぞ",
 				},
 			},
@@ -34292,7 +34292,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "You baRbaRians, I'll kill you\nall!",
+					説明 = "You barbarians, I'll kill you\nall!",
 				},
 			},
 		},
@@ -34315,7 +34315,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シィル",
-					説明 = "Let's RetuRn to ouR woRld.",
+					説明 = "Let's return to our world.",
 				},
 			},
 		},
@@ -34327,7 +34327,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "No, not peRmitted.",
+					説明 = "No, not permitted.",
 					物語 = "２０２／選択／美樹連れて帰る",
 					背景 = "その他",
 					地名 = "−−−",
@@ -34335,7 +34335,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "GRanted peRmission.",
+					説明 = "Granted permission.",
 					物語 = "２０２／選択／美樹残る",
 					背景 = "その他",
 					地名 = "−−−",
@@ -34375,7 +34375,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Set out on an adventuRe\ncasually.",
+					説明 = "Set out on an adventure\ncasually.",
 					背景 = "ゼス平原",
 					地名 = "大陸のどこか？？",
 					音楽 = "フィールド／自由都市",
@@ -34414,11 +34414,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "クレイン",
-					説明 = "TheRe seems to be\nsomething oveR theRe.",
+					説明 = "There seems to be\nsomething over there.",
 				},
 				分岐右 = {
 					顔画像 = "シィル",
-					説明 = "What about oveR theRe?",
+					説明 = "What about over there?",
 					背景 = "村",
 				},
 			},
@@ -34482,7 +34482,7 @@ tree クエストデータ = {
 					顔画像 = "ランス",
 					背景 = "街道２",
 					地名 = "自由都市",
-					説明 = "DepaRt foR SuRume\nMountain.",
+					説明 = "Depart for Surume\nMountain.",
 					音楽 = "フィールド／僻地昼",
 				},
 			},
@@ -34534,11 +34534,11 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ARe we lost...? It should be\nthis way.",
+					説明 = "Are we lost...? It should be\nthis way.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Taking an unexpected Route,\nis it this way?",
+					説明 = "Taking an unexpected route,\nis it this way?",
 				},
 			},
 		},
@@ -34601,11 +34601,11 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ARe we lost...? It should be\nthis way.",
+					説明 = "Are we lost...? It should be\nthis way.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Taking an unexpected Route,\nis it this way?",
+					説明 = "Taking an unexpected route,\nis it this way?",
 				},
 			},
 		},
@@ -34676,7 +34676,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Taking an unexpected Route,\nis it this way?",
+					説明 = "Taking an unexpected route,\nis it this way?",
 				},
 			},
 		},
@@ -34712,11 +34712,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "I want to take a bReak... I'm\ngetting sleepy...",
+					説明 = "I want to take a break... I'm\ngetting sleepy...",
 				},
 				分岐右 = {
 					顔画像 = "あてな２号",
-					説明 = "This way, this way! A\nRhinoceRos beetle!",
+					説明 = "This way, this way! A\nrhinoceros beetle!",
 				},
 			},
 		},
@@ -34742,11 +34742,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Help KentaRo get up.",
+					説明 = "Help Kentaro get up.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Kill KentaRo.",
+					説明 = "Kill Kentaro.",
 					フラグ = "達成／Ｂ健太郎＝１",
 				},
 			},
@@ -34833,7 +34833,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WheRe is the Kayblis?",
+					説明 = "Where is the Kayblis?",
 				},
 			},
 		},
@@ -34862,7 +34862,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This is endless. RetReat!",
+					説明 = "This is endless. Retreat!",
 				},
 			},
 		},
@@ -34909,7 +34909,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "AlRight, let's go.",
+					説明 = "Alright, let's go.",
 					地名 = "魔物界",
 					背景 = "魔物の森",
 					音楽 = "フィールド／迷宮",
@@ -34935,13 +34935,13 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "StRategic RetReat!",
+					説明 = "Strategic retreat!",
 					地名 = "魔物界",
 					背景 = "魔物の森",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Chance foR a pReemptive\nstRike!",
+					説明 = "Chance for a preemptive\nstrike!",
 				},
 			},
 		},
@@ -34973,7 +34973,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "We'll exploRe again\ntomoRRow.",
+					説明 = "We'll explore again\ntomorrow.",
 				},
 			},
 		},
@@ -34995,7 +34995,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "All foRces, soRtie!",
+					説明 = "All forces, sortie!",
 					背景 = "魔物平原",
 					地名 = "魔物界",
 					音楽 = "フィールド／魔物界",
@@ -35007,7 +35007,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リック",
-					説明 = "Leave the vanguaRd to me!",
+					説明 = "Leave the vanguard to me!",
 				},
 			},
 		},
@@ -35027,7 +35027,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "マジック",
-					説明 = "ChaRge in! I'll make up foR\nhundReds of yeaRs!",
+					説明 = "Charge in! I'll make up for\nhundreds of years!",
 				},
 			},
 		},
@@ -35036,7 +35036,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐右 = {
 					条件 = "１５ターン",
-					説明 = "15 tuRns",
+					説明 = "15 turns",
 				},
 				分岐前 = {
 					！条件 = "１５ターン",
@@ -35065,7 +35065,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐右 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐前 = {
 					！条件 = "勝利",
@@ -35094,7 +35094,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アミトス",
-					説明 = "We'll scatteR them, push\nfoRwaRd!",
+					説明 = "We'll scatter them, push\nforward!",
 				},
 			},
 		},
@@ -35105,7 +35105,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ストロガノフ",
-					説明 = "...TheRe is still a chance to\nwin... No, I won't say it.",
+					説明 = "...There is still a chance to\nwin... No, I won't say it.",
 				},
 			},
 		},
@@ -35114,7 +35114,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					！条件 = "魔物界進軍の成功",
-					説明 = "When foRces fall below 1\nmillion",
+					説明 = "When forces fall below 1\nmillion",
 				},
 				分岐前 = {
 					条件 = "魔物界進軍の成功",
@@ -35130,7 +35130,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ウルザ",
-					説明 = "RetReat... It's unfoRtunate,\nbut.",
+					説明 = "Retreat... It's unfortunate,\nbut.",
 				},
 			},
 		},
@@ -35139,7 +35139,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "立て看板",
-					説明 = "AfteR that",
+					説明 = "After that",
 				},
 			},
 		},
@@ -35177,7 +35177,7 @@ tree クエストデータ = {
 			条件分岐 = {
 				分岐左 = {
 					条件 = "勝利",
-					説明 = "Battle = VictoRy.",
+					説明 = "Battle = Victory.",
 				},
 				分岐前 = {
 					！条件 = "勝利",
@@ -35205,7 +35205,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "バレス",
-					説明 = "ExpeRience the double check\nmoRe teRRifying than a\ndemon.",
+					説明 = "Experience the double check\nmore terrifying than a\ndemon.",
 				},
 			},
 		},
@@ -35216,7 +35216,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "かなみ",
-					説明 = "I'll seaRch with all my might!\nI'll definitely find it!",
+					説明 = "I'll search with all my might!\nI'll definitely find it!",
 				},
 			},
 		},
@@ -35231,7 +35231,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "リア",
-					説明 = "It looks like the destination is\ndecided. All foRces, follow\nDaRling!",
+					説明 = "It looks like the destination is\ndecided. All forces, follow\nDarling!",
 				},
 			},
 		},
@@ -35242,7 +35242,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "ARe they hiding heRe? Find\nthem, kill them.",
+					説明 = "Are they hiding here? Find\nthem, kill them.",
 					地名 = "ルッコンフード洞窟",
 					背景 = "地下洞窟",
 				},
@@ -35255,7 +35255,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "シーラ",
-					説明 = "This is the final battle.\nEveRyone, move foRwaRd.",
+					説明 = "This is the final battle.\nEveryone, move forward.",
 					背景 = "ベズドグ山内／恐瘴気",
 				},
 			},
@@ -35289,7 +35289,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ケイブリス",
-					説明 = "HuRRy, huRRy, I should make\nit in time. I will be the Demon\nKing...!",
+					説明 = "Hurry, hurry, I should make\nit in time. I will be the Demon\nKing...!",
 				},
 			},
 		},
@@ -35325,7 +35325,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "It's my victoRy!",
+					説明 = "It's my victory!",
 				},
 			},
 		},
@@ -35365,7 +35365,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "If it's Anise, I'll take caRe of\nheR.",
+					説明 = "If it's Anise, I'll take care of\nher.",
 					物語 = "２８８／選択／アニスに向かう",
 					背景 = "ゼス平原",
 					音楽 = "フィールド／ゼス",
@@ -35378,7 +35378,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "千鶴子",
-					説明 = "TRuly, what a tRoublesome\nappRentice...",
+					説明 = "Truly, what a troublesome\napprentice...",
 				},
 			},
 		},
@@ -35388,7 +35388,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "サチコ",
-					説明 = "...Isn't the town buRning oR\nsomething?",
+					説明 = "...Isn't the town burning or\nsomething?",
 				},
 			},
 		},
@@ -35401,7 +35401,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WoRk should have RewaRds,\nRight?",
+					説明 = "Work should have rewards,\nright?",
 				},
 			},
 		},
@@ -35419,7 +35419,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Hmm, hmm. AlRight, maybe\nagain sometime... No, we\nReally shouldn't do it\nanymoRe.",
+					説明 = "Hmm, hmm. Alright, maybe\nagain sometime... No, we\nreally shouldn't do it\nanymore.",
 				},
 			},
 		},
@@ -35444,7 +35444,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "アルカネーゼ",
-					説明 = "Taking down a legendaRy\nmonsteR... As expected of big\nbRo.",
+					説明 = "Taking down a legendary\nmonster... As expected of big\nbro.",
 				},
 			},
 		},
@@ -35468,7 +35468,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "クリーム",
-					説明 = "Good woRk, eveRyone.",
+					説明 = "Good work, everyone.",
 				},
 			},
 		},
