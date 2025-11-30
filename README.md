@@ -37,5 +37,3 @@ ______________________________________
 5. Run `npm run regenerate-pack` to translate some UI elements, like settings menu
 
 (there are also some image translations in `Rance10CG2_v1_04` and `Rance10Flat_v1_04` folders, but for them there is currently no simple command)
-
-
