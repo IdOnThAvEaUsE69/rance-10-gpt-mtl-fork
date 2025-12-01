@@ -188,12 +188,12 @@ tree 秘書データ = {
 			"＜ケイブニャン＞ Why are you spacing out, nya?",
 			"＜ケイブニャン＞ Fnyaaaan...\n getting sleepy, nyaaan...",
 			"＜ケイブワン＞ Not taking any action, woof?",
-			"＜ケイブワン＞ Thinking too long is like resting, as they say",
+			"＜ケイブワン＞ Thinking too long is like\nresting, as they say",
 			"＜ケイブワン＞ Bored, woof...",
 			"＜ケイブワン＞ Shall we go soon?",
 			"＜ケイブニャン＞ What are you daydreaming for, nya?\n\n＜ケイブワン＞ ...Feeling sleepy?",
 			"＜ケイブニャン＞ Hey, aren't we doing something, nya?\n\n＜ケイブワン＞ ...Humans are lazy",
-			"＜ケイブニャン＞ Zzz...\n zzz...\n\n＜ケイブワン＞ ...Too bored,\n Nyan fell asleep"
+			"＜ケイブニャン＞ Zzz... zzz...\n\n＜ケイブワン＞ ...Too bored,\n Nyan fell asleep"
 		},
 		進む = (list) {
 			"＜ケイブニャン＞ Go go nya!",
