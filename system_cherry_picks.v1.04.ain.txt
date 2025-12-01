@@ -1362,7 +1362,6 @@ s[9032] = "I'll eat Zans's share too."
 
 ; 605/Arrived at Oda Castle
 s[9034] = "Yay!"
-s[5581] = "Fire!"
 s[9035] = "Let's go inside!"
 s[9036] = "Let's go help Rangi!"
 s[9037] = "Let's go defeat the demon!"
