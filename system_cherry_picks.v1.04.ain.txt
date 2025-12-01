@@ -2248,5 +2248,5 @@ s[8711] = "Let's go and check on her."
 s[8731] = "Maybe..."
 
 ; ６１３／エピローグ
-s[8735] = ".... Are you done?"
+s[8735] = ".... Is it finally over?"
 s[8736] = "Quelplan?"
