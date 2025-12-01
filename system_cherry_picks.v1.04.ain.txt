@@ -2250,6 +2250,3 @@ s[8731] = "Maybe..."
 ; ６１３／エピローグ
 s[8735] = ".... Are you done?"
 s[8736] = "Quelplan?"
-
-; ６１３／帰宅ヘルマン
-s[8740] = "Give her one final hug..."
