@@ -232,7 +232,7 @@ s[3273] = "The <Party> recovered thanks to Hanny Zippo！"
 s[3288] = "<AegisEffect>'s <Skill>！"
 s[3289] = "<Player>'s <Skill>！"
 s[3290] = "<Enemy>'s <Skill>！"
-s[3287] = "<Player>'s {255,200,0}Voluntary Action{}！"
+s[3287] = "<Player>'s {255,200,0}Independent Action{}！"
 
 ; SkillEffectProcessRecoverAp@Evaluate
 s[3971] = "AP of <Any> Recovered！"
