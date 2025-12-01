@@ -968,6 +968,7 @@ s[8314] = "It's a little scary, but I'll go."
 
 ; Rescue 601/Creamin
 s[8315] = "The kidnapped girl."
+s[8336] = "Yee-yee-oh!"
 s[8316] = "Be humble."
 s[8317] = "Be embarrassed."
 s[8318] = "Attack."
