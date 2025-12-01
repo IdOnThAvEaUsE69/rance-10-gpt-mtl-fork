@@ -881,6 +881,7 @@ s[8246] = "Leave me alone."
 s[8247] = "Well, I look forward to working with you."
 
 ; 601 / Camping with Nagata
+s[6972] = "Thank you."
 s[8248] = "I don't really need it."
 s[8249] = "Put a mandarin orange on his head."
 
@@ -900,6 +901,7 @@ s[8260] = "Wow..."
 ; 601/Dosswassu appears/helps
 s[8261] = "They don't look like bad guys."
 s[8262] = "Okay, I'll be careful."
+s[8263] = "Actually, I've fallen in love."
 
 ; 601/Dosswassu appears/finishes
 s[8264] = "Just because"
@@ -996,6 +998,7 @@ s[8333] = "Grrr!"
 ; 601 / Epilogue
 s[8334] = "Yeah, that's right!"
 s[8335] = "Avert your eyes in silence"
+s[8336] = "Yay!"
 
 ; 602 / Start
 s[8748] = "Ruffling hair"
@@ -1358,6 +1361,8 @@ s[9031] = "It's delicious."
 s[9032] = "I'll eat Zans's share too."
 
 ; 605/Arrived at Oda Castle
+s[9034] = "Yay!"
+s[5581] = "Fire!"
 s[9035] = "Let's go inside!"
 s[9036] = "Let's go help Rangi!"
 s[9037] = "Let's go defeat the demon!"
@@ -1462,8 +1467,10 @@ s[9121] = "...Demon?"
 s[9122] = "Would you like to join us?"
 
 ; 605 / Epilogue
+s[9030] = "No"
 s[9124] = "Nothing important"
 s[9125] = "About the power within me"
+s[9126] = "Sexy Stories"
 
 ; 606 / Teleport
 s[9128] = "My curiosity is piqued. Let's go and take a look."
@@ -1670,7 +1677,7 @@ s[9306] = "I understand."
 s[9307] = "Just be yourself and you'll be fine."
 
 ; 608/Strategy Meeting
-s[9308] = "Putting pork soup on Rangi's head."
+s[9308] = "Put pork soup on Rangi's head."
 s[9309] = "I'm looking forward to meeting Relikov."
 s[9310] = "Follow me!"
 s[9311] = "Let's all work together and do our best!"
@@ -1683,6 +1690,7 @@ s[9315] = "I'm not going."
 ; 608 / Arrived in Siberia
 s[9322] = "Praising Reset"
 s[9323] = "Lifting Reset up high"
+s[9324] = "Mysterious Dragon"
 s[9325] = "Let's chase him"
 
 ; 608 / Winter General / Before the battle
@@ -1870,7 +1878,7 @@ s[9496] = "It's more fun to be liked by others."
 s[9497] = "I don't really get it..."
 s[9498] = "I think I understand."
 s[9499] = "I just hope I win tomorrow."
-\
+
 ; 609 / Gathering Information on Ricchel
 s[9503] = "That's right."
 s[9504] = "I can't promise you anything."
@@ -1948,6 +1956,9 @@ s[8353] = "An arrogant queen"
 s[8355] = "A respectable princess"
 s[8356] = "A useless queen"
 s[8361] = "A quiet pope"
+
+; 610 / General Tiger / After Battle
+s[8366] = "Heal"
 
 ; 610/Gate Destroyed
 s[8370] = "Insert the last orb"
@@ -2199,6 +2210,9 @@ s[8665] = "I'm going to make you scream!"
 
 ; ６１２／魔王ランス／戦闘前
 s[8666] = "Open the door"
+s[8667] = "Win the battle"
+s[8668] = "Save our Father"
+s[8671] = "This is the final battle!"
 
 ; ６１２／時間切れ後のビンタ
 s[8675] = "Jump forward"
@@ -2237,3 +2251,6 @@ s[8731] = "Maybe..."
 ; ６１３／エピローグ
 s[8735] = ".... Are you done?"
 s[8736] = "Quelplan?"
+
+; ６１３／帰宅ヘルマン
+s[8740] = "Give her one final hug..."
