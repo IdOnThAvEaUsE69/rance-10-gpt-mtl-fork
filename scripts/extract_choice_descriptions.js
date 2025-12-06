@@ -1360,7 +1360,7 @@ const translations = `出発します\tWe're departing.
 いくぞ、今度こそr奴を仕留める\tHere we go, this time we'll take that guy down for sure.
 ・・・・\t....
 ・・・・\t....
-俺様の魔人討伐隊r精鋭メンバーは誰かな\tWho's in my demon extermination squad's elite members?
+俺様の魔人討伐隊r精鋭メンバーは誰かな\tWho's in my fiend slayers's elite members?
 部隊編成をしてからr出発しましょう\tLet's organize the troops and then depart.
 せっかくだから正面突破r(大変ルート)\tSince we're at it, go for a frontal assault (difficult route).
 迂回してボスを倒すr(順当ルート)\tTake a detour and defeat the boss (standard route).

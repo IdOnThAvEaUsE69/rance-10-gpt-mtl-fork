@@ -15,7 +15,7 @@ tree 実績情報 = {
 		種類 = 10,
 		ボーナス = "ＣＰ＋１",
 		値 = (list) { "ルート／強行" },
-		説明 = "Clear A - Forced Breakthrough ★CP+1\nMain story route. You push through the Demon Realm with only the Anti-Demon Army, repel several Demon Lords, and defeat Kayblis.",
+		説明 = "Clear A - Forced Breakthrough ★CP+1\nMain story route. You push through the Demon Realm with only the Fiend Slayers, repel several Demon Lords, and defeat Kayblis.",
 	},
 	クリアＡ　魔物界大侵攻　　　　　　　★ＣＰ＋１ = {
 		種類 = 10,
