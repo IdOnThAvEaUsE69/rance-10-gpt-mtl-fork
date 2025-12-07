@@ -7,7 +7,7 @@ table スキルデータ = {
     { 1670,"Assault 2",1,3,"",2,100,1,200,0,0,0,0,"",0,0,"Attack (2x)" },
     { 1967,"Assault 3",1,3,"",4,100,1,300,0,0,0,0,"",1,0,"Attack (3x)" },
     { 2065,"Charge 4",1,3,"",5,100,1,400,0,0,0,0,"",1,0,"Attack (4x)" },
-    { 1003,"Full-Force Charge",1,3,"",1,100,1,200,0,0,0,0,"",1,1,"Attack (2x)\rAP Accumulation" },
+    { 1003,"All-out Charge",1,3,"",1,100,1,200,0,0,0,0,"",1,1,"Attack (2x)\rAP Accumulation" },
     { 1990,"Charge -Zero-",1,3,"",0,100,1,150,0,0,0,1,"",0,0,"Attack (1.5x)\rAP Accumulation" },
     { 1524,"Demon General's Great Move",1,3,"",0,100,1,300,42,2,0,0,"",1,0,"Attack (3x)\rDown 2 people" },
     { 1839,"Great Purge",1,3,"",0,100,1,500,42,2,0,0,"",1,0,"Attack (5x)\rDown 2 people" },
