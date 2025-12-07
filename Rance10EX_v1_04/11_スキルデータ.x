@@ -126,7 +126,7 @@ table スキルデータ = {
     { 2073,"？？？",1,2,"霧",1,100,26,150,0,0,0,0,"",0,0,"Attack (Ranged) (1x)\r▼Poison 150%" },
     { 1496,"Ranged Atk＋poison",1,2,"",0,100,1,100,26,50,0,0,"",0,0,"Attack (Ranged) (1x)\r▼Poison 50%\rAccuracy +25" },
     { 1663,"3x ranged Atk＋venom",1,2,"",0,100,1,300,26,100,0,0,"",1,0,"Attack (Ranged) (3x)\r▼Poison 100%" },
-    { 1071,"Take Some Dango",1,2,"お団子",1,100,1,10,26,100,0,0,"",0,0,"Attack (Ranged) (0.1x)\r▼Poison 100%" },
+    { 1071,"Eat Some Dango",1,2,"お団子",1,100,1,10,26,100,0,0,"",0,0,"Attack (Ranged) (0.1x)\r▼Poison 100%" },
     { 1613,"Generate Poison",1,5,"",0,100,26,80,0,0,0,0,"",0,0,"▼Poison 80%" },
     { 1617,"Kalar Arrow",1,2,"",1,100,1,100,27,20,0,0,"",0,0,"Attack (Ranged) (1x)\r▼Curse 20%" },
     { 1619,"Kalar Arrow 2",1,2,"",1,100,69,1,27,30,0,0,"",0,0,"Attack (Ranged) (1x)\r▼Curse 30%\rRemove 1 debuff" },
