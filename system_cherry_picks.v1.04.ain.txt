@@ -414,7 +414,8 @@ s[3987] = "EXP UP Increase"
 s[3988] = "★Rank on Acquisition"
 s[3989] = "Anything Goes"
 s[3990] = "Card Added"
-s[3994] = "Get cards from all chests"
+s[3993] = "★Rank＋%D"
+s[3994] = "All cards appear in chests"
 
 ; ０２／コールドスリープ５万年後２
 s[7548] = "Historian"
