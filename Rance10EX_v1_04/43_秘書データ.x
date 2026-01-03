@@ -421,11 +421,11 @@ tree 秘書データ = {
 		待ち会話 = (list) {
 			"Hmm...\n is the formation ready?",
 			"Lord Rance...\n are you thinking of something?",
-			"If we're waiting, how about a game of shogi?",
+			"If we're waiting, how\n about a game of shogi?",
 			"What in the world...\n no, Lord Rance surely has a deep plan...",
-			"Ah yes, this is a photo for my daughter's arranged marriage...",
+			"Ah yes, this is a photo for my\n daughter's arranged marriage...",
 			"Reminds me of the old days...\n yes, that was...",
-			"条件＜部隊ボ-ナス有り＞　A good chance to use the unit bonus.\n Please check it.",
+			"条件＜部隊ボ-ナス有り＞　A good chance to use\n the unit bonus.\n Please check it.",
 			"条件＜ＨＰ５０％以下＞　Lord Rance, danger is near.\n Let's reorganize."
 		},
 		進む = (list) {
@@ -433,8 +433,8 @@ tree 秘書データ = {
 			"Let's advance like a lance.",
 			"Now, march!",
 			"This way looks best.",
-			"Hmm...\n what to do in this situation.",
-			"I, Bares, still won't lose to the young.",
+			"Hmm... what to do\n in this situation.",
+			"I, Bares, still won't\n lose to the young.",
 			"I wonder what awaits next..."
 		},
 		挨拶 = (list) {
