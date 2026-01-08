@@ -162,6 +162,14 @@ s[13443] = "5,10 turns special"
 ; SkillEffectProcessAlterRound@Evaluate
 ;s[3950] = "New Round！"
 
+; BattleInfoView@GetProcessTypeString
+s[3355] = "Advance"
+s[3355] = "Advance"
+
+s[3636] = "View"
+
+s[12905] = "x"
+
 s[3948] = "<AegisEffect> is in effect！"
 ; SkillEffectProcessBoost@Evaluate
 s[3303] = "Boost Activated！"
@@ -209,6 +217,8 @@ s[13240] = "Flying Monsters Ｂ"
 s[8006] = "Demons"
 s[9610] = "Maelita Squad"
 s[12994] = "Monster Magicians"
+s[13204] = "Miiran and Friends"
+s[13178] = "Weak Monsters"
 
 s[4008] = "Fiend Slayers"
 
