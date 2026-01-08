@@ -10,13 +10,13 @@ tree 秘書データ = {
 		},
 		待ち会話 = (list) {
 			"Is it snack time soon?",
-			"Screen mode...\n maybe 1024x768",
+			"Screen mode...\nmaybe 1024x768",
 			"Computer, computer!",
 			"Only six hours of games per day (maybe)",
 			"When unsure about choices-yes, SAVE",
 			"What should I have for dinner tonight♪",
-			"If you're tired of the game,\n take a proper rest",
-			"Hello?\n ...Did you fall asleep?"
+			"If you're tired of the game,\ntake a proper rest",
+			"Hello?\n...Did you fall asleep?"
 		},
 		進む = (list) {
 			"Let's walk, let's walk",
@@ -30,10 +30,10 @@ tree 秘書データ = {
 			"I'm Alice, let's do our best"
 		},
 		クエストクリア = (list) {
-			"Quest clear!\n Congratulations!"
+			"Quest clear!\nCongratulations!"
 		},
 		クエストアウト = (list) {
-			"Don't worry, don't worry,\n just keep moving forward"
+			"Don't worry, don't worry,\njust keep moving forward"
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
 			"This is read as ‘Game Over'"
@@ -42,7 +42,7 @@ tree 秘書データ = {
 			"Mission start, let's do our best!"
 		},
 		準備 = (list) {
-			"Before doing something big,\n preparation is necessary"
+			"Before doing something big,\npreparation is necessary"
 		},
 		作戦 = (list) {
 			"Strategy phase, let's go all out"
@@ -53,18 +53,18 @@ tree 秘書データ = {
 		地域 = (list) {
 			"条件＜地域奪還＞　This area seems safe now, that's good",
 			"条件＜地域滅亡＞　Unfortunately, this region is already...",
-			"条件＜リ-ザス＞　Kingdom of Leazas, the setting of Rance 1 and 3",
+			"条件＜リーザス＞　Kingdom of Leazas, the setting of Rance 1 and 3",
 			"条件＜ゼス＞　Kingdom of Zeth, the setting of Rance 6",
 			"条件＜ヘルマン＞　Republic of Helman, the setting of Rance 9",
-			"条件＜自由都市＞　Free Cities...\n maybe Rance 2?",
+			"条件＜自由都市＞　Free Cities...\nmaybe Rance 2?",
 			"Do you have any missions planned？"
 		},
 		冒険 = (list) {
 			"Let's go on an adventure enthusiastically"
 		},
 		食券 = (list) {
-			"During the Meal Ticket Phase,\n let's see how everyone's doing",
-			"It's a character event-don't forget\n to check the boys' events too"
+			"During the Meal Ticket Phase,\nlet's see how everyone's doing",
+			"It's a character event-don't forget\nto check the boys' events too"
 		},
 		売店 = (list) {
 			"Yukichi, shall we buy ice cream?",
@@ -74,88 +74,88 @@ tree 秘書データ = {
 	},
 	クゥ = {
 		つつく = (list) {
-			"I shall announce that it's 10 PM already!\n Just kidding!",
-			"Even if you poke me, I won't\n drop coins or anything, you know?",
-			"The system where you can poke assistant\n characters in gacha games is nice, isn't it?\n I like it too!",
-			"Beep♪\n My affection toward you has gone up by 2!",
-			"Ow, ow ow!\n Stop it, you idiot!",
-			"I'm cute as an assistant character, right?\n There aren't any bedroom scenes though!",
+			"I shall announce that it's 10 PM already!\nJust kidding!",
+			"Even if you poke me, I won't\ndrop coins or anything, you know?",
+			"The system where you can poke assistant\ncharacters in gacha games is nice, isn't it?\nI like it too!",
+			"Beep♪\nMy affection toward you has gone up by 2!",
+			"Ow, ow ow!\nStop it, you idiot!",
+			"I'm cute as an assistant character, right?\nThere aren't any bedroom scenes though!",
 			"(´・ω・`) Disappointed...",
 			"＼(*｀∧´)／ Stop it!",
-			"Behold! When I'm poked,\n my breasts bounce doing boing-boing...\n ...huh?",
+			"Behold! When I'm poked,\nmy breasts bounce doing boing-boing...\n...huh?",
 			"I won't say anything especially funny\neven if you poke me!",
 			"If you poke me a special event could appear.\nThe probability displayed is 0%, but\nI'm sure there's a decimal probability...",
-			"What's this, what's this?\n Poking me nonstop like that... hmm,\ndo you want attention from me that much?",
-			"Feel my motherly warmth,\n and babble like a baby all you like!",
-			"Spend money on me!\n You can draw a guaranteed gacha right now!\n And you can get only me!",
-			"If you poke me 50,000 times,\n an erotic scene will trigger! Do your best!\n (It's a lie!!!!!!)",
+			"What's this, what's this?\nPoking me nonstop like that... hmm,\ndo you want attention from me that much?",
+			"Feel my motherly warmth,\nand babble like a baby all you like!",
+			"Spend money on me!\nYou can draw a guaranteed gacha right now!\nAnd you can get only me!",
+			"If you poke me 50,000 times,\nan erotic scene will trigger! Do your best!\n(It's a lie!!!!!!)",
 			"Games these days hardly have loading\ntimes anymore, what a\ngreat time we live in.",
-			"Rance...\n do you truly have time\n to be poking me?",
-			"Ah, sorry.\n I'm about to start a gacha game marathon,\n so I can't give you attention for a bit.",
+			"Rance...\ndo you truly have time\nto be poking me?",
+			"Ah, sorry.\nI'm about to start a gacha game marathon,\nso I can't give you attention for a bit.",
 			"Shall we talk about Chinese proverbs?",
-			"Snaaaake!\n SNAAAAAAAAKE!!!!",
-			"Haaah...\n I talked too much, now I'm a bit tired.",
+			"Snaaaake!\nSNAAAAAAAAKE!!!!",
+			"Haaah...\nI talked too much, now I'm a bit tired.",
 			"I could have made seven versions of myself\nto be in every faction!\nBut I'm holding myself back. I’m admirable!",
-			"I tried earning profits with herring and giving\nthem to you to raise your affection...\n but... you don't actually need money, do you?",
-			"Hey! Are you listening to me!?\n You're not opening another window and\n playing browser games, are you!?",
-			"Oh-ho, what is it?\n Acting like you want attention from me?\n Hohohohoho.",
-			"Ohh, recent 3D anime \n has advanced quite a lot, hasn't it?\n There's no difference from regular drawings anymore.",
-			"I still haven't gotten used to recent game consoles\n where the disc tray doesn't come\nout and you just download the software...",
-			"Games and manga being purchasable online\n is so convenient! You should\nbuy lots of our company's games too!",
+			"I tried earning profits with herring and giving\nthem to you to raise your affection...\nbut... you don't actually need money, do you?",
+			"Hey! Are you listening to me!?\nYou're not opening another window and\nplaying browser games, are you!?",
+			"Oh-ho, what is it?\nActing like you want attention from me?\nHohohohoho.",
+			"Ohh, recent 3D anime\nhas advanced quite a lot, hasn't it?\nThere's no difference from regular drawings anymore.",
+			"I still haven't gotten used to recent game consoles\nwhere the disc tray doesn't come\nout and you just download the software...",
+			"Games and manga being purchasable online\nis so convenient! You should\nbuy lots of our company's games too!",
 			"After all, this kind of assistant character\nis all about bouncy breasts!\nHmm, what is it?",
-			"If you want to see my erotic scenes,\n buy Drapeko! Somehow it\nfeels really weird now.",
-			"I'm going to be a Virtual YouTuber!\n How about it!\n Huh? Is it already too late!?"
+			"If you want to see my erotic scenes,\nbuy Drapeko! Somehow it\nfeels really weird now.",
+			"I'm going to be a Virtual YouTuber!\nHow about it!\nHuh? Is it already too late!?"
 		},
 		待ち会話 = (list) {
-			"Stamina's filled up!\n I'll go burn a bit of it!",
-			"Curry, curry udon, or curry bread...\n That's the question.",
-			"The gacha game I'm playing\nright now is so boring...\n got any recommendations?",
+			"Stamina's filled up!\nI'll go burn a bit of it!",
+			"Curry, curry udon, or curry bread...\nThat's the question.",
+			"The gacha game I'm playing\nright now is so boring...\ngot any recommendations?",
 			"There's been a good amount of anime\nthis season, hasn't there?",
 			"ゲームは一日百時間まで！\nまだ行けるまだ行ける！",
 			"⊂⌒~⊃｡ー｡)⊃ So boooored.",
 			"I'm bored... _(:3 」∠ )_",
 			"Boooored... ヾ(:３ﾉｼヾ)ﾉｼ",
-			"If you find any bugs,\n you should report them to AliceSoft!",
+			"If you find any bugs,\nyou should report them to AliceSoft!",
 			"I wonder if I could make some\ncute LINE stamps of me!",
 			"Ah, weren't you admiring\nmy body just now?",
-			"Oh, getting tired of Rance 10?\n Then you should play Drapeko!\n or Evenicle instead!",
+			"Oh, getting tired of Rance 10?\nThen you should play Drapeko!\nor Evenicle instead!",
 			"ＺＺＺ...ＺＺＺ...",
-			"A guaranteed 5-star character! Finally!!!\n Ah, sorry, I was playing a gacha game."
+			"A guaranteed 5-star character! Finally!!!\nAh, sorry, I was playing a gacha game."
 		},
 		進む = (list) {
 			"Tonight's dinner is curry udon!",
 			"(｀・ω・´)",
-			"Fwhahahahahaha!\n Keep going, keep going!",
+			"Fwhahahahahaha!\nKeep going, keep going!",
 			"Be careful! Injuries happen in just a second!\nIf you're careful, injuries will be minor. Now, keep going!",
 			"Adventuring is nice, but you may dote\non me from time to time, you know?",
 			"Who knows what lies ahead once you move forward!",
 			"Proceed to the next!",
-			"Whoa!?\n Didn't it just shake like an earthquake!?",
-			"Take a break from studying with Rance 10!\n No no, students shouldn't do that, okay?"
+			"Whoa!?\nDidn't it just shake like an earthquake!?",
+			"Take a break from studying with Rance 10!\nNo no, students shouldn't do that, okay?"
 		},
 		挨拶 = (list) {
-			"Hey!\n It's me!",
+			"Hey!\nIt's me!",
 			"I've arrived, and I won't tell you anything useful!",
-			"You may as well think of me as some kind of bot!\n That will do!",
-			"Did you say you wanted to see the pretty me?\n Very well! Adore me!"
+			"You may as well think of me as some kind of bot!\nThat will do!",
+			"Did you say you wanted to see the pretty me?\nVery well! Adore me!"
 		},
 		クエストクリア = (list) {
-			"Wow! You cleared it!\n I don't really get it, but good job, good job!"
+			"Wow! You cleared it!\nI don't really get it, but good job, good job!"
 		},
 		クエストアウト = (list) {
-			"Hmm?\n Did you mess something up?"
+			"Hmm?\nDid you mess something up?"
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
 			"Game over?!\nWell, don't give up and just keep trying!"
 		},
 		クエスト開始 = (list) {
-			"Fwhahahahahaha!\n The start of our grand adventure!"
+			"Fwhahahahahaha!\nThe start of our grand adventure!"
 		},
 		準備 = (list) {
-			"Preparation phase, you say?\n I don't really understand it."
+			"Preparation phase, you say?\nI don't really understand it."
 		},
 		作戦 = (list) {
-			"Strategy phase!\n Come on now, let's slam it down!"
+			"Strategy phase!\nCome on now, let's slam it down!"
 		},
 		拠点 = (list) {
 			"Base phase!"
@@ -164,36 +164,36 @@ tree 秘書データ = {
 			"Are we doing an operation here?"
 		},
 		食券 = (list) {
-			"条件＜クゥ発生中＞　Behold! I am here!\n You have no choice but to go!",
+			"条件＜クゥ発生中＞　Behold! I am here!\nYou have no choice but to go!",
 			"Meal ticket phase!"
 		},
 	},
 	ケイブワン＆ニャン = {
 		つつく = (list) {
 			"＜ケイブニャン＞ Don't touch me, nya!",
-			"＜ケイブニャン＞ Nya!?\n Why are you petting my head, nya!",
-			"＜ケイブニャン＞ H-hey!\n Rubbing my chin is not allowed, nya...",
-			"＜ケイブニャン＞ What, nya?\n Why are you touching my nose, nya?",
-			"＜ケイブワン＞ Woof?\n Why are you petting my head, woof?",
-			"＜ケイブワン＞ Ugh...\n please don't poke my cheeks, woof",
+			"＜ケイブニャン＞ Nya!?\nWhy are you petting my head, nya!",
+			"＜ケイブニャン＞ H-hey!\nRubbing my chin is not allowed, nya...",
+			"＜ケイブニャン＞ What, nya?\nWhy are you touching my nose, nya?",
+			"＜ケイブワン＞ Woof?\nWhy are you petting my head, woof?",
+			"＜ケイブワン＞ Ugh...\nplease don't poke my cheeks, woof",
 			"＜ケイブワン＞ You touch my nose-what's so fun about that, woof?",
 			"＜ケイブワン＞ Don't pat my ears like that, woof",
 			"＜ケイブニャン＞ I got touched, nya!?\n\n＜ケイブワン＞ ...Pervert",
-			"＜ケイブニャン＞ Pervert!\n Where are you touching, nya!\n\n＜ケイブワン＞ Nyan, what's he doing, woof?",
+			"＜ケイブニャン＞ Pervert!\nWhere are you touching, nya!\n\n＜ケイブワン＞ Nyan, what's he doing, woof?",
 			"＜ケイブニャン＞ Don't touch weird places, nya!\n\n＜ケイブワン＞ ...What are you doing?"
 		},
 		待ち会話 = (list) {
 			"＜ケイブニャン＞ I'm bored, nya",
 			"＜ケイブニャン＞ Not going anywhere, nya?",
 			"＜ケイブニャン＞ Why are you spacing out, nya?",
-			"＜ケイブニャン＞ Fnyaaaan...\n getting sleepy, nyaaan...",
+			"＜ケイブニャン＞ Fnyaaaan...\ngetting sleepy, nyaaan...",
 			"＜ケイブワン＞ Not taking any action, woof?",
 			"＜ケイブワン＞ Thinking too long is like\nresting, as they say",
 			"＜ケイブワン＞ Bored, woof...",
 			"＜ケイブワン＞ Shall we go soon?",
 			"＜ケイブニャン＞ What are you daydreaming for, nya?\n\n＜ケイブワン＞ ...Feeling sleepy?",
 			"＜ケイブニャン＞ Hey, aren't we doing something, nya?\n\n＜ケイブワン＞ ...Humans are lazy",
-			"＜ケイブニャン＞ Zzz... zzz...\n\n＜ケイブワン＞ ...Too bored,\n Nyan fell asleep"
+			"＜ケイブニャン＞ Zzz... zzz...\n\n＜ケイブワン＞ ...Too bored,\nNyan fell asleep"
 		},
 		進む = (list) {
 			"＜ケイブニャン＞ Go go nya!",
@@ -204,8 +204,8 @@ tree 秘書データ = {
 			"＜ケイブワン＞ Step step..."
 		},
 		挨拶 = (list) {
-			"＜ケイブニャン＞ Nyan and Wan will be your secretaries!\n Humans should be grateful, nya!",
-			"＜ケイブワン＞ For a smart dog like me, being\n a secretary is an easy job, woof",
+			"＜ケイブニャン＞ Nyan and Wan will be your secretaries!\nHumans should be grateful, nya!",
+			"＜ケイブワン＞ For a smart dog like me, being\na secretary is an easy job, woof",
 			"＜ケイブニャン＞ The Wan-Nyan duo is here!\n\n＜ケイブワン＞ ...Why are we the secretaries again?"
 		},
 		クエストクリア = (list) {
@@ -219,7 +219,7 @@ tree 秘書データ = {
 		},
 		クエスト開始 = (list) {
 			"＜ケイブニャン＞ Let's go, nya!\n\n＜ケイブワン＞ Alright, let's move, woof",
-			"条件＜最終決戦＞　This is the last fight, nya!\n リス様, do your best, nya!\n \n＜ケイブワン＞ Don't lose to the humans, woof!"
+			"条件＜最終決戦＞　This is the last fight, nya!\nリス様, do your best, nya!\n\n＜ケイブワン＞ Don't lose to the humans, woof!"
 		},
 		準備 = (list) {
 			"＜ケイブニャン＞ Preparation phase, nya!\n\n＜ケイブワン＞ Preparation is important, woof"
@@ -229,41 +229,41 @@ tree 秘書データ = {
 		},
 		拠点 = (list) {
 			"＜ケイブニャン＞ Base phase, time to relax, nya!\n\n＜ケイブワン＞ Where are we going?",
-			"条件＜第７タ-ン＞　＜ケイブニャン＞ Happy New Year, nya!\n\n＜ケイブワン＞ Oh, it's New Year's, woof"
+			"条件＜第７ターン＞　＜ケイブニャン＞ Happy New Year, nya!\n\n＜ケイブワン＞ Oh, it's New Year's, woof"
 		},
 		地域 = (list) {
 			"＜ケイブニャン＞ Operation here, nya?\n\n＜ケイブワン＞ Well, fine I guess",
-			"条件＜地域奪還＞　＜ケイブニャン＞ Grr...\n those humans...\n\n＜ケイブワン＞ The demons' defeat is so sad, woof",
+			"条件＜地域奪還＞　＜ケイブニャン＞ Grr...\nthose humans...\n\n＜ケイブワン＞ The demons' defeat is so sad, woof",
 			"条件＜地域危機＞　＜ケイブニャン＞ Demon army, do your best, nya!\n\n＜ケイブワン＞ Hehe, almost complete occupation",
-			"条件＜地域滅亡＞　＜ケイブニャン＞ We did it, demon army victory,\n nya \n\n＜ケイブワン＞ Hehe, good job everyone, woof"
+			"条件＜地域滅亡＞　＜ケイブニャン＞ We did it, demon army victory,\nnya\n\n＜ケイブワン＞ Hehe, good job everyone, woof"
 		},
 		食券 = (list) {
 			"＜ケイブニャン＞ Meal ticket phase, nya!\n\n＜ケイブワン＞ Peeking at everyone's lives, woof?",
-			"条件＜食券３枚＞　＜ケイブニャン＞ We've got a lot of meal tickets, nya \n\n＜ケイブワン＞ You should use them before they're wasted, woof"
+			"条件＜食券３枚＞　＜ケイブニャン＞ We've got a lot of meal tickets, nya\n\n＜ケイブワン＞ You should use them before they're wasted, woof"
 		},
 	},
 	サテラ = {
 		つつく = (list) {
-			"Hm?\n What is it?",
-			"Hey!\n Don't touch weird places!",
+			"Hm?\nWhat is it?",
+			"Hey!\nDon't touch weird places!",
 			"Kya!?",
 			"Be serious!",
-			"You fool!\n Don't touch Satella!",
+			"You fool!\nDon't touch Satella!",
 			"Wh-where are you touching!?",
-			"Y-you idiot servant!\n W-where did you just touch!?",
-			"Th-that hand movement is indecent!\n You idiot!"
+			"Y-you idiot servant!\nW-where did you just touch!?",
+			"Th-that hand movement is indecent!\nYou idiot!"
 		},
 		待ち会話 = (list) {
-			"Hm?\n What's wrong?",
+			"Hm?\nWhat's wrong?",
 			"Hey, let's move already",
 			"Why are you spacing out?",
-			"Yawn...\n I'm bored...",
+			"Yawn...\nI'm bored...",
 			"(Playing with clay out of boredom)",
 			"If you're troubled, consult your master",
 			"We can't afford to stand still here",
 			"Shall we organize the troops?",
-			"条件＜部隊ボ-ナス有り＞　Hey, you've got a unit bonus saved up.\n Don't be stingy-use it.",
-			"条件＜ＨＰ５０％以下＞　Tch, too many are exhausted.\n This isn't good."
+			"条件＜部隊ボーナス有り＞　Hey, you've got a unit bonus saved up.\nDon't be stingy-use it.",
+			"条件＜ＨＰ５０％以下＞　Tch, too many are exhausted.\nThis isn't good."
 		},
 		進む = (list) {
 			"Alright, let's go!",
@@ -273,73 +273,73 @@ tree 秘書データ = {
 			"Hurry up, move forward!"
 		},
 		挨拶 = (list) {
-			"Seriously!\n Making Satella your secretary!?\n How arrogant!",
-			"Hmph, I'll take care of you.\n Be grateful.",
+			"Seriously!\nMaking Satella your secretary!?\nHow arrogant!",
+			"Hmph, I'll take care of you.\nBe grateful.",
 			"Uh, what does a secretary even do?"
 		},
 		クエストクリア = (list) {
-			"Not bad!\n That's my disciple!"
+			"Not bad!\nThat's my disciple!"
 		},
 		クエストアウト = (list) {
-			"Hmph...\n so it ends here, huh..."
+			"Hmph...\nso it ends here, huh..."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
-			"No...\n Satella...\n Satella is..."
+			"No...\nSatella...\nSatella is..."
 		},
 		クエスト開始 = (list) {
-			"Alright, ready?\n Let's go, ランス!",
+			"Alright, ready?\nLet's go, ランス!",
 			"Let's finish this mission quickly!",
-			"条件＜最終決戦＞　This is the final fight!\n Let's end everything, ランス!"
+			"条件＜最終決戦＞　This is the final fight!\nLet's end everything, ランス!"
 		},
 		準備 = (list) {
-			"It's the preparation phase.\n What are you going to do?",
-			"条件＜第８タ-ン飛ぶ＞　Honestly, flying the castle...\n such recklessness...\n Let's go see how it's doing.",
-			"条件＜第１２タ-ン＞　Hm?\n The sea appeared?\n Well, that's none of Satella's concern.",
-			"条件＜ランス城は上陸地点＞　The Monster Realm...\n to return here like this..."
+			"It's the preparation phase.\nWhat are you going to do?",
+			"条件＜第８ターン飛ぶ＞　Honestly, flying the castle...\nsuch recklessness...\nLet's go see how it's doing.",
+			"条件＜第１２ターン＞　Hm?\nThe sea appeared?\nWell, that's none of Satella's concern.",
+			"条件＜ランス城は上陸地点＞　The Monster Realm...\nto return here like this..."
 		},
 		作戦 = (list) {
-			"It's the strategy phase.\n Choose what to do, ランス.",
-			"条件＜第８タ-ン飛ぶ＞　Alright, from here on is the second half.\n Time to defeat ケイブリス!",
-			"条件＜第８タ-ン＞　The castle's been taken...\n but I won't admit defeat over this...\n let's go, ランス.",
-			"条件＜ランス城は上陸地点＞　Finally the decisive battle.\n Let's go, ランス!",
-			"条件＜第１２タ-ン＞　The war is dragging on...\n this could be bad..."
+			"It's the strategy phase.\nChoose what to do, ランス.",
+			"条件＜第８ターン飛ぶ＞　Alright, from here on is the second half.\nTime to defeat ケイブリス!",
+			"条件＜第８ターン＞　The castle's been taken...\nbut I won't admit defeat over this...\nlet's go, ランス.",
+			"条件＜ランス城は上陸地点＞　Finally the decisive battle.\nLet's go, ランス!",
+			"条件＜第１２ターン＞　The war is dragging on...\nthis could be bad..."
 		},
 		拠点 = (list) {
-			"It's the base phase.\n What will you do?",
-			"条件＜第７タ-ン＞　It's the base phase.\n Hm?\n What's this ‘New Year' thing?"
+			"It's the base phase.\nWhat will you do?",
+			"条件＜第７ターン＞　It's the base phase.\nHm?\nWhat's this ‘New Year' thing?"
 		},
 		地域 = (list) {
-			"Hm?\n You're doing the mission here?",
-			"条件＜地域奪還＞　This area's already retaken.\n As expected of Satella's disciple-well done.",
-			"条件＜地域滅亡＞　Tch, those idiot demons...\n swaggering around...",
-			"条件＜戦果なし＞　This country has no defenses...\n is that alright?"
+			"Hm?\nYou're doing the mission here?",
+			"条件＜地域奪還＞　This area's already retaken.\nAs expected of Satella's disciple-well done.",
+			"条件＜地域滅亡＞　Tch, those idiot demons...\nswaggering around...",
+			"条件＜戦果なし＞　This country has no defenses...\nis that alright?"
 		},
 		食券 = (list) {
-			"It's the meal ticket phase.\n I wonder how everyone's doing?",
-			"条件＜サテラ発生中＞　Hm...\n Satella's here...\n i-it's not like you had to come see me or anything...\n h-hmph...",
-			"条件＜ホ-ネット発生中＞　Hm, Lady Hornet is here.\n It's far too great an honor for you-don't choose her.",
-			"条件＜食券３枚＞　What, you've hoarded three?\n You'd better use them."
+			"It's the meal ticket phase.\nI wonder how everyone's doing?",
+			"条件＜サテラ発生中＞　Hm...\nSatella's here...\ni-it's not like you had to come see me or anything...\nh-hmph...",
+			"条件＜ホーネット発生中＞　Hm, Lady Hornet is here.\nIt's far too great an honor for you-don't choose her.",
+			"条件＜食券３枚＞　What, you've hoarded three?\nYou'd better use them."
 		},
 	},
 	シィル = {
 		つつく = (list) {
-			"Hnn...\n what is it, Lord Rance?",
-			"Ouch...\n um, is something wrong?",
-			"Ah, are you going to\n fluff my hair again...?",
+			"Hnn...\nwhat is it, Lord Rance?",
+			"Ouch...\num, is something wrong?",
+			"Ah, are you going to\nfluff my hair again...?",
 			"Please don't poke weird spots...",
-			"Kya!?","A-ah, please don't\n touch strange places...",
-			"Yah!\n That tickles!",
-			"A-ah...\n being touched there...\n is troubling..."
+			"Kya!?","A-ah, please don't\ntouch strange places...",
+			"Yah!\nThat tickles!",
+			"A-ah...\nbeing touched there...\nis troubling..."
 		},
 		待ち会話 = (list) {
-			"Lord Rance?\n Is something wrong?",
-			"Thank you for your hard work,\n Lord Rance.\n Shall I make some tea?",
+			"Lord Rance?\nIs something wrong?",
+			"Thank you for your hard work,\nLord Rance.\nShall I make some tea?",
 			"Do you have your handkerchief and tissues?",
-			"Lord Rance, are you\n troubled by something?",
+			"Lord Rance, are you\ntroubled by something?",
 			"Shall I prepare some sweets?",
-			"If you're hungry, please\n just tell me anytime.",
-			"条件＜部隊ボ-ナス有り＞　The unit bonus is saved up.\n Shall we use it to power up?",
-			"条件＜ＨＰ５０％以下＞　The unit's HP is quite low.\n Um...\n we should consider healing..."
+			"If you're hungry, please\njust tell me anytime.",
+			"条件＜部隊ボーナス有り＞　The unit bonus is saved up.\nShall we use it to power up?",
+			"条件＜ＨＰ５０％以下＞　The unit's HP is quite low.\nUm...\nwe should consider healing..."
 		},
 		進む = (list) {
 			"Let's go.",
@@ -354,87 +354,87 @@ tree 秘書データ = {
 			"I'm Lord Rance's secretary, Sill!"
 		},
 		クエストクリア = (list) {
-			"Congratulations!\n Clap clap!"
+			"Congratulations!\nClap clap!"
 		},
 		クエストアウト = (list) {
-			"Uu...\n that was a bit disappointing..."
+			"Uu...\nthat was a bit disappointing..."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
-			"It's...\n over..."
+			"It's...\nover..."
 		},
 		クエスト開始 = (list) {
-			"条件＜カラ-救出＞ Lord Rance, let's go see\n Urza and the others right away.",
-			"条件＜最終決戦＞ This is the final battle...\n let's do our best, Lord Rance...",
+			"条件＜カラー救出＞ Lord Rance, let's go see\nUrza and the others right away.",
+			"条件＜最終決戦＞ This is the final battle...\nlet's do our best, Lord Rance...",
 			"The mission starts, let's do our best!"
 		},
 		準備 = (list) {
-			"It's the preparation phase.\n Lord Rance, please give your instructions.",
-			"条件＜第１タ-ン＞ Lord Rance...\n I mean,\n Supreme Leader Rance.\n What will you do now?",
-			"条件＜第２タ-ン＞ The counteroffensive begins in earnest.\n What's your first move, Lord Rance?",
-			"条件＜第８タ-ン飛ぶ＞Flying> Wow, we're above the clouds, amazing, Lord Rance!",
-			"条件＜第８タ-ン＞ Good morning, Lord Rance...\n I'm so glad you're safe...\n sniff...\n let's meet everyone first.",
-			"条件＜第１２タ-ン＞ Lord Rance, the sea has appeared.\n Shall we take a look?",
-			"条件＜ランス城は上陸地点＞ Good morning, Lord Rance.\n It's morning in the Monster Realm.\n What will we do now?"
+			"It's the preparation phase.\nLord Rance, please give your instructions.",
+			"条件＜第１ターン＞ Lord Rance...\nI mean,\nSupreme Leader Rance.\nWhat will you do now?",
+			"条件＜第２ターン＞ The counteroffensive begins in earnest.\nWhat's your first move, Lord Rance?",
+			"条件＜第８ターン飛ぶ＞ Wow, we're above the clouds,\namazing, Lord Rance!",
+			"条件＜第８ターン＞ Good morning, Lord Rance...\nI'm so glad you're safe...\nsniff...\nlet's meet everyone first.",
+			"条件＜第１２ターン＞ Lord Rance, the sea has appeared.\nShall we take a look?",
+			"条件＜ランス城は上陸地点＞ Good morning, Lord Rance.\nIt's morning in the Monster Realm.\nWhat will we do now?"
 		},
 		作戦 = (list) {
-			"It's the strategy phase.\n Please choose a mission, Lord Rance.",
-			"条件＜第１タ-ン＞　The last battle was splendid, Lord Rance.\n What shall we do next?",
-			"条件＜第２タ-ン＞　The demon extermination operation begins...\n which demon will you fight, Lord Rance?",
-			"条件＜第８タ-ン砦＞　Rance Castle was taken, but we haven't lost yet.\n Let's restart and keep fighting.",
-			"条件＜第８タ-ン飛ぶ＞　Dragon Cantel will carry us anywhere.\n Lord Rance, where to?",
-			"条件＜第８タ-ン＞　Rance Castle was taken, but we haven't lost yet.\n Let's restart and keep fighting.",
-			"条件＜ランス城は上陸地点＞　 Finally, the battle with Kayblis.\n Lord Rance, I'll stay with you always...",
-			"条件＜第１２タ-ン＞　We need to settle things with the demon army soon...\n this could get bad...\n Lord Rance, do you have any ideas?"
+			"It's the strategy phase.\nPlease choose a mission, Lord Rance.",
+			"条件＜第１ターン＞　The last battle was splendid, Lord Rance.\nWhat shall we do next?",
+			"条件＜第２ターン＞　The demon extermination operation begins...\nwhich demon will you fight, Lord Rance?",
+			"条件＜第８ターン砦＞　Rance Castle was taken, but we haven't lost yet.\nLet's restart and keep fighting.",
+			"条件＜第８ターン飛ぶ＞　Dragon Cantel will carry us anywhere.\nLord Rance, where to?",
+			"条件＜第８ターン＞　Rance Castle was taken, but we haven't lost yet.\nLet's restart and keep fighting.",
+			"条件＜ランス城は上陸地点＞　 Finally, the battle with Kayblis.\nLord Rance, I'll stay with you always...",
+			"条件＜第１２ターン＞　We need to settle things with the demon army soon...\nthis could get bad...\nLord Rance, do you have any ideas?"
 		},
 		拠点 = (list) {
-			"It's the base phase.\n Let's relax a bit.",
-			"条件＜第１タ-ン＞　During the base phase, please do as you like inside the castle.",
-			"条件＜第７タ-ン＞　Happy New Year, Lord Rance♪ It's the New Year!",
-			"条件＜第１２タ-ン上陸＞　We...\n really came to the Monster Realm...\n Lord Rance, it's the base phase.\n Please choose."
+			"It's the base phase.\nLet's relax a bit.",
+			"条件＜第１ターン＞　During the base phase, please do as you like inside the castle.",
+			"条件＜第７ターン＞　Happy New Year, Lord Rance♪ It's the New Year!",
+			"条件＜第１２ターン上陸＞　We...\nreally came to the Monster Realm...\nLord Rance, it's the base phase.\nPlease choose."
 		},
 		地域 = (list) {
 			"Checking each region's situation.",
 			"Will we operate in this area?",
-			"条件＜地域奪還＞　This region is already safe.\n That's good, Lord Rance.",
+			"条件＜地域奪還＞　This region is already safe.\nThat's good, Lord Rance.",
 			"条件＜地域滅亡＞　This region has been taken by the demon army..."
 		},
 		食券 = (list) {
-			"Ah, we have meal tickets.\n Who shall we deepen ties with?",
-			"Please select someone.\n Ah, you can also carry over tickets to the next phase.",
+			"Ah, we have meal tickets.\nWho shall we deepen ties with?",
+			"Please select someone.\nAh, you can also carry over tickets to the next phase.",
 			"Let's peek into everyone's lives a bit.",
 			"条件＜ランス発生中＞　Ah, Lord Rance is here.",
-			"条件＜シィル発生中＞　Ah, I'm here too...\n just kidding...",
-			"条件＜食券３枚＞　Wow, three tickets!\n Better use them before wasting them."
+			"条件＜シィル発生中＞　Ah, I'm here too...\njust kidding...",
+			"条件＜食券３枚＞　Wow, three tickets!\nBetter use them before wasting them."
 		},
 	},
 	バレス = {
 		つつく = (list) {
-			"Whoa!?\n My beard!",
+			"Whoa!?\nMy beard!",
 			"Do you need something?",
-			"Hm, Lord Rance?\n What's the matter?",
-			"Oof!\n Even if you pull my cheeks...",
-			"My hair?\n No, it's real...",
+			"Hm, Lord Rance?\nWhat's the matter?",
+			"Oof!\nEven if you pull my cheeks...",
+			"My hair?\nNo, it's real...",
 			"Please refrain from doodling on me.",
-			"Oh, oh...\n are you asking for a sumo match?",
+			"Oh, oh...\nare you asking for a sumo match?",
 			"I won't lose to the young ones yet!"
 		},
 		待ち会話 = (list) {
-			"Hmm...\n is the formation ready?",
-			"Lord Rance...\n are you thinking of something?",
-			"If we're waiting, how\n about a game of shogi?",
-			"What in the world...\n no, Lord Rance surely has a deep plan...",
-			"Ah yes, this is a photo for my\n daughter's arranged marriage...",
-			"Reminds me of the old days...\n yes, that was...",
-			"条件＜部隊ボ-ナス有り＞　A good chance to use\n the unit bonus.\n Please check it.",
-			"条件＜ＨＰ５０％以下＞　Lord Rance, danger is near.\n Let's reorganize."
+			"Hmm...\nis the formation ready?",
+			"Lord Rance...\nare you thinking of something?",
+			"If we're waiting, how\nabout a game of shogi?",
+			"What in the world...\nno, Lord Rance surely has a deep plan...",
+			"Ah yes, this is a photo for my\ndaughter's arranged marriage...",
+			"Reminds me of the old days...\nyes, that was...",
+			"条件＜部隊ボーナス有り＞　A good chance to use\nthe unit bonus.\nPlease check it.",
+			"条件＜ＨＰ５０％以下＞　Lord Rance, danger is near.\nLet's reorganize."
 		},
 		進む = (list) {
 			"Hmm, let's move carefully.",
 			"Let's advance like a lance.",
 			"Now, march!",
 			"This way looks best.",
-			"Hmm... what to do\n in this situation.",
-			"I, Bares, still won't\n lose to the young.",
+			"Hmm... what to do\nin this situation.",
+			"I, Bares, still won't\nlose to the young.",
 			"I wonder what awaits next..."
 		},
 		挨拶 = (list) {
@@ -442,66 +442,66 @@ tree 秘書データ = {
 			"I, Bares, shall be your guide!"
 		},
 		クエストクリア = (list) {
-			"Splendid!\n As expected of Lord Rance!",
-			"Hehe, I was of some use...\n oof, my beard!"
+			"Splendid!\nAs expected of Lord Rance!",
+			"Hehe, I was of some use...\noof, my beard!"
 		},
 		クエストアウト = (list) {
-			"Let's withdraw.\n A wise decision.",
-			"Heh...\n sometimes we must lose."
+			"Let's withdraw.\nA wise decision.",
+			"Heh...\nsometimes we must lose."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
-			"Regrettable...\n but this is the end..."
+			"Regrettable...\nbut this is the end..."
 		},
 		クエスト開始 = (list) {
 			"Then, let's sortie.",
-			"条件＜リ-ザス１＞　Now, let's protect Leazas together!",
-			"条件＜リ-ザス２＞　Forward!\n Let's defend our homeland!"
+			"条件＜リーザス１＞　Now, let's protect Leazas together!",
+			"条件＜リーザス２＞　Forward!\nLet's defend our homeland!"
 		},
 		準備 = (list) {
-			"It's the preparation phase.\n Where shall we begin?",
-			"Everything begins with careful preparation.\n What will you do?",
-			"Preparation prevents misfortune.\n Now, what will you decide?",
-			"条件＜第１タ-ン＞　As expected of Lord Rance...\n no, Supreme Leader.\n Please issue your command.",
-			"条件＜第８タ-ン飛ぶ＞　A flying castle, truly.\n Living long has its surprises.",
-			"条件＜第８タ-ン砦＞　We suffered losses, but it's not over.\n Let's assess the situation.",
-			"条件＜第１２タ-ン＞　Oh, the sea has appeared.\n Getting old makes past events feel recent..."
+			"It's the preparation phase.\nWhere shall we begin?",
+			"Everything begins with careful preparation.\nWhat will you do?",
+			"Preparation prevents misfortune.\nNow, what will you decide?",
+			"条件＜第１ターン＞　As expected of Lord Rance...\nno, Supreme Leader.\nPlease issue your command.",
+			"条件＜第８ターン飛ぶ＞　A flying castle, truly.\nLiving long has its surprises.",
+			"条件＜第８ターン砦＞　We suffered losses, but it's not over.\nLet's assess the situation.",
+			"条件＜第１２ターン＞　Oh, the sea has appeared.\nGetting old makes past events feel recent..."
 		},
 		作戦 = (list) {
 			"Let's plan our strategy.",
 			"Which one shall we handle first?",
 			"Sortie preparations complete.",
-			"条件＜第１タ-ン＞　The command center is secured.\n I shall assist here as well.",
-			"条件＜第８タ-ン砦＞　Losses happen, but we're used to it.\n The war isn't over yet.",
-			"条件＜第１２タ-ン＞　The war drags on...\n soon we'll need one decisive move..."
+			"条件＜第１ターン＞　The command center is secured.\nI shall assist here as well.",
+			"条件＜第８ターン砦＞　Losses happen, but we're used to it.\nThe war isn't over yet.",
+			"条件＜第１２ターン＞　The war drags on...\nsoon we'll need one decisive move..."
 		},
 		拠点 = (list) {
 			"Let's rest at base.",
 			"Could use a cup of tea.",
-			"条件＜第７タ-ン＞　Happy New Year.\n As they say, the year's plan begins on New Year's Day..."
+			"条件＜第７ターン＞　Happy New Year.\nAs they say, the year's plan begins on New Year's Day..."
 		},
 		地域 = (list) {
-			"This land seems troubled.\n Shall we head there?",
-			"Let's confirm the current situation...\n hmm, hmm...",
-			"条件＜リ-ザス＞　Hm...\n the current state of our kingdom...",
+			"This land seems troubled.\nShall we head there?",
+			"Let's confirm the current situation...\nhmm, hmm...",
+			"条件＜リーザス＞　Hm...\nthe current state of our kingdom...",
 			"条件＜地域奪還＞　There are no strong enemies here anymore.",
-			"条件＜地域滅亡＞　Lord Rance...\n this place is already..."
+			"条件＜地域滅亡＞　Lord Rance...\nthis place is already..."
 		},
 		食券 = (list) {
 			"With whom shall we deepen relations?",
-			"Speaking with subordinates is also a mark of a good commander.\n What will you do?",
+			"Speaking with subordinates is also a mark of a good commander.\nWhat will you do?",
 			"Please choose one person.",
 			"条件＜バレス発生中＞　How about sharing a drink with me sometime?",
-			"条件＜ス-発生中＞　Oh?\n There's Sue over there...",
-			"条件＜ハウレ-ン発生中＞　Hm, Hawl...\n what is he doing over there?",
-			"条件＜食券３枚＞　Oh, three tickets.\n They should be used."
+			"条件＜スー発生中＞　Oh?\nThere's Sue over there...",
+			"条件＜ハウレーン発生中＞　Hm, Hawl...\nwhat is he doing over there?",
+			"条件＜食券３枚＞　Oh, three tickets.\nThey should be used."
 		},
 	},
 	ビスケッタ = {
 		つつく = (list) {
-			"Master?\n No, it's nothing.",
+			"Master?\nNo, it's nothing.",
 			"As you wish, take your time.",
 			"Is something the matter?",
-			"You wish to touch me?\n Then please, go ahead.",
+			"You wish to touch me?\nThen please, go ahead.",
 			"Does that bring you joy?",
 			"..................",
 			"As you wish, if that is your desire.",
@@ -511,10 +511,10 @@ tree 秘書データ = {
 			"........................",
 			"Waiting for one's master is a maid's duty.",
 			"Please, take your time.",
-			"Here is your tea.\n Please enjoy.",
+			"Here is your tea.\nPlease enjoy.",
 			"Yes. Please relax.",
-			"条件＜部隊ボ-ナス有り＞　It seems there's a unit bonus available.\n Might you use it?",
-			"条件＜ＨＰ５０％以下＞　The troops appear heavily wounded.\n Shall I provide treatment?"
+			"条件＜部隊ボーナス有り＞　It seems there's a unit bonus available.\nMight you use it?",
+			"条件＜ＨＰ５０％以下＞　The troops appear heavily wounded.\nShall I provide treatment?"
 		},
 		進む = (list) {
 			"Then, please be careful.",
@@ -529,10 +529,10 @@ tree 秘書データ = {
 			"Though it may be presumptuous, I shall serve faithfully."
 		},
 		クエストクリア = (list) {
-			"Congratulations.\n You've done well."
+			"Congratulations.\nYou've done well."
 		},
 		クエストアウト = (list) {
-			"Understood.\n We shall withdraw."
+			"Understood.\nWe shall withdraw."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
 			"............Thank you for your efforts."
@@ -541,56 +541,56 @@ tree 秘書データ = {
 			"Then, let us begin."
 		},
 		準備 = (list) {
-			"It is the preparation phase.\n What will you do?",
-			"Preparations before the mission.\n Please consider accordingly.",
-			"条件＜第１タ-ン＞　It seems things will get busy.\n Please, your orders.",
-			"条件＜第８タ-ン飛ぶ＞　Even in flight, all systems remain stable.\n Please observe.",
-			"条件＜第１２タ-ン＞　A report says the sea has appeared.\n Would you like to see it?"
+			"It is the preparation phase.\nWhat will you do?",
+			"Preparations before the mission.\nPlease consider accordingly.",
+			"条件＜第１ターン＞　It seems things will get busy.\nPlease, your orders.",
+			"条件＜第８ターン飛ぶ＞　Even in flight, all systems remain stable.\nPlease observe.",
+			"条件＜第１２ターン＞　A report says the sea has appeared.\nWould you like to see it?"
 		},
 		作戦 = (list) {
-			"Mission begins.\n Please select your destination.",
-			"Deployment preparations complete.\n Please make your selection.",
-			"条件＜第１タ-ン＞　Good work on the last operation.\n What's next?",
-			"条件＜第８タ-ン飛ぶ＞　Sir Cantel is waiting.\n Where shall we go?",
-			"条件＜第１２タ-ン＞　Everyone seems exhausted...\n No matter, I shall accompany you wherever you go."
+			"Mission begins.\nPlease select your destination.",
+			"Deployment preparations complete.\nPlease make your selection.",
+			"条件＜第１ターン＞　Good work on the last operation.\nWhat's next?",
+			"条件＜第８ターン飛ぶ＞　Sir Cantel is waiting.\nWhere shall we go?",
+			"条件＜第１２ターン＞　Everyone seems exhausted...\nNo matter, I shall accompany you wherever you go."
 		},
 		拠点 = (list) {
-			"Preparations are complete.\n Please relax and rest.",
-			"It's the base phase.\n What will you do?",
-			"Thank you for your work.\n Please spend your time as you wish.",
-			"条件＜第７タ-ン＞　Everything is ready."
+			"Preparations are complete.\nPlease relax and rest.",
+			"It's the base phase.\nWhat will you do?",
+			"Thank you for your work.\nPlease spend your time as you wish.",
+			"条件＜第７ターン＞　Everything is ready."
 		},
 		地域 = (list) {
 			"You wish to visit this area?",
 			"Here is the current status of this region.",
 			"条件＜地域奪還＞　Reports say no abnormalities in this region.",
-			"条件＜地域滅亡＞　..................\n Please abandon this area."
+			"条件＜地域滅亡＞　..................\nPlease abandon this area."
 		},
 		食券 = (list) {
-			"You may now use meal tickets.\n Please select one person.",
+			"You may now use meal tickets.\nPlease select one person.",
 			"What would you like to do today, Master?",
 			"条件＜シィル発生中＞　Master, Lady Sill is over there.",
-			"条件＜メイドロナ発生中＞　Master, that girl...\n no, forgive me for speaking out of turn.",
-			"条件＜食券３枚＞　You cannot store any more.\n Please be cautious."
+			"条件＜メイドロナ発生中＞　Master, that girl...\nno, forgive me for speaking out of turn.",
+			"条件＜食券３枚＞　You cannot store any more.\nPlease be cautious."
 		},
 	},
 	リセット = {
 		つつく = (list) {
-			"Kya!?\n Wh-where are you touching!?",
-			"W-wait!\n Don't touch weird places!",
-			"Kyahaha!\n N-no, not my sides!",
-			"Hm?\n Are you curious about my sister's forehead crystal?",
-			"Hyaah!\n Don't poke me!",
-			"Unyaa!?\n Why are you poking me?",
-			"Geez!\n No teasing!",
+			"Kya!?\nWh-where are you touching!?",
+			"W-wait!\nDon't touch weird places!",
+			"Kyahaha!\nN-no, not my sides!",
+			"Hm?\nAre you curious about my sister's forehead crystal?",
+			"Hyaah!\nDon't poke me!",
+			"Unyaa!?\nWhy are you poking me?",
+			"Geez!\nNo teasing!",
 			"Poke poke?"
 		},
 		待ち会話 = (list) {
-			"Hm?\n Taking a break?",
+			"Hm?\nTaking a break?",
 			"Let's drink some tea and relax.",
 			"If you're tired, take a break♪",
 			"Are you worried about something?",
-			"Hungry?\n Want some sweets?",
+			"Hungry?\nWant some sweets?",
 			"Haaah, it feels so relaxed♪",
 			"So chill♪ So chill♪",
 			"If you're lost, save the game!"
@@ -605,40 +605,40 @@ tree 秘書データ = {
 			"Let's go hand in hand with big sis!"
 		},
 		挨拶 = (list) {
-			"Hehe, secretary work, huh?\n Big sis will do her best!",
-			"Toh!\n Secretary big sis, on the job!",
-			"Hm?\n I just need to be a secretary?\n Hehe, nice to meet you!"
+			"Hehe, secretary work, huh?\nBig sis will do her best!",
+			"Toh!\nSecretary big sis, on the job!",
+			"Hm?\nI just need to be a secretary?\nHehe, nice to meet you!"
 		},
 		クエストクリア = (list) {
-			"Yay!\n We did it, El-chan!",
-			"Congrats!\n Hehe, you did great, El-chan.",
-			"Yay!\n Quest clear!"
+			"Yay!\nWe did it, El-chan!",
+			"Congrats!\nHehe, you did great, El-chan.",
+			"Yay!\nQuest clear!"
 		},
 		クエストアウト = (list) {
-			"Aww, too bad...\n let's try again next time."
+			"Aww, too bad...\nlet's try again next time."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
 			"No way..."
 		},
 		クエスト開始 = (list) {
 			"Let's do our best on this new adventure!",
-			"Alright!\n Let's go, El-chan!",
+			"Alright!\nLet's go, El-chan!",
 			"Let's go, El-chan!"
 		},
 		冒険 = (list) {
-			"条件＜第１タ-ン＞　Fufu, a new adventure begins!ね！",
-			"条件＜第２タ-ン＞　Hehe, you made friends with Nagata-kun♪ That's great, El-chan♪ん♪",
-			"条件＜第３タ-ン＞　You had a tough time...\n let's start fresh!-ね",
-			"条件＜第４タ-ン＞　Hehe, nice to meet you, let's head to Leazas where Zance-chan is!ご-",
-			"条件＜第５タ-ン＞　Fufu, you're already good friends with Zance-chan.だね",
-			"条件＜第６タ-ン＞　Rangy-chan joined us!\n The adventure's going smoothly, El-chan.\n Hmm, next is.........",
-			"条件＜第７タ-ン＞　Miracle-san is always so energetic.\n Mix-chan joined too, let's go to Zeth next!-う",
-			"条件＜第８タ-ン＞　Fufu, you've gotten close with Sushi-nu-chan.\n Now, off to Helman!よ-",
-			"条件＜第９タ-ン＞　Finally, the last orb!\n Huh, a martial arts tournament?\n Hope it's fine!ぁ？",
-			"条件＜第１０タ-ン＞　You've gathered all allies and orbs.........",
-			"条件＜第１１タ-ン＞　Things got pretty bad...\n cheer up, El-chan!てね",
-			"条件＜第１２タ-ン＞　Time to show the results of training!\n Let's do our best, El-chan!ゃん",
-			"条件＜第１３タ-ン＞　Yay!\n Dad's back to normal!\n Thank you, El-chan"
+			"条件＜第１ターン＞　Fufu, a new adventure begins!ね！",
+			"条件＜第２ターン＞　Hehe, you made friends with Nagata-kun♪ That's great, El-chan♪ん♪",
+			"条件＜第３ターン＞　You had a tough time...\nlet's start fresh!-ね",
+			"条件＜第４ターン＞　Hehe, nice to meet you, let's head to Leazas where Zance-chan is!ご-",
+			"条件＜第５ターン＞　Fufu, you're already good friends with Zance-chan.だね",
+			"条件＜第６ターン＞　Rangy-chan joined us!\nThe adventure's going smoothly, El-chan.\nHmm, next is.........",
+			"条件＜第７ターン＞　Miracle-san is always so energetic.\nMix-chan joined too, let's go to Zeth next!-う",
+			"条件＜第８ターン＞　Fufu, you've gotten close with Sushi-nu-chan.\nNow, off to Helman!よ-",
+			"条件＜第９ターン＞　Finally, the last orb!\nHuh, a martial arts tournament?\nHope it's fine!ぁ？",
+			"条件＜第１０ターン＞　You've gathered all allies and orbs.........",
+			"条件＜第１１ターン＞　Things got pretty bad...\ncheer up, El-chan!てね",
+			"条件＜第１２ターン＞　Time to show the results of training!\nLet's do our best, El-chan!ゃん",
+			"条件＜第１３ターン＞　Yay!\nDad's back to normal!\nThank you, El-chan"
 		},
 		売店 = (list) {
 			"What should we buy?"
@@ -649,13 +649,13 @@ tree 秘書データ = {
 			"＜ナギ＞ Oh, what's up?",
 			"＜ナギ＞ Hey, don't push me!",
 			"＜ナギ＞ Hehehe♪ Don't touch weird places♪",
-			"＜ナギ＞ Pat my head!\n Pat my head!",
+			"＜ナギ＞ Pat my head!\nPat my head!",
 			"＜志津香＞ ...What?",
 			"＜志津香＞ Don't touch me.",
-			"＜志津香＞ H-hey!\n Don't pat my head!",
-			"＜志津香＞ H-hey...\n don't touch weird spots...",
-			"＜ナギ＞ Hehehe, that tickles♪ \n\n＜志津香＞ What... are you doing?",
-			"＜ナギ＞ Ah, you touched me!\n You perv! \n\n＜志津香＞ Hey, stop that..."
+			"＜志津香＞ H-hey!\nDon't pat my head!",
+			"＜志津香＞ H-hey...\ndon't touch weird spots...",
+			"＜ナギ＞ Hehehe, that tickles♪\n\n＜志津香＞ What... are you doing?",
+			"＜ナギ＞ Ah, you touched me!\nYou perv!\n\n＜志津香＞ Hey, stop that..."
 		},
 		待ち会話 = (list) {
 			"＜ナギ＞ Hey, why are you zoning out?",
@@ -666,8 +666,8 @@ tree 秘書データ = {
 			"＜志津香＞ ...Not going?",
 			"＜志津香＞ If you're tired, take a proper break.",
 			"＜志津香＞ If you're unsure, save your progress.",
-			"＜ナギ＞ Hey, what's up? \n\n＜志津香＞ Thinking about something?",
-			"＜ナギ＞ Big Sis, I'm bored! \n\n＜志津香＞ Want to play word chain?"
+			"＜ナギ＞ Hey, what's up?\n\n＜志津香＞ Thinking about something?",
+			"＜ナギ＞ Big Sis, I'm bored!\n\n＜志津香＞ Want to play word chain?"
 		},
 		進む = (list) {
 			"＜ナギ＞ Boooom-baaa!!!",
@@ -678,8 +678,8 @@ tree 秘書データ = {
 			"＜志津香＞ Hm, forward then."
 		},
 		挨拶 = (list) {
-			"＜ナギ＞ Alright!\n I'll do my best as secretary!",
-			"＜志津香＞ Secretary, huh...\n don't expect too much.",
+			"＜ナギ＞ Alright!\nI'll do my best as secretary!",
+			"＜志津香＞ Secretary, huh...\ndon't expect too much.",
 			"＜ナギ＞ The two of us will take care of you!\n\n＜志津香＞ ...Why does this feel weird?"
 		},
 		クエストクリア = (list) {
@@ -697,19 +697,19 @@ tree 秘書データ = {
 		},
 		準備 = (list) {
 			"＜ナギ＞ Preparation phase!\n\n＜志津香＞ Preparation matters too.",
-			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Hahaha!\n We're flying!\n\n＜志津香＞ You're still the same as ever...",
-			"条件＜第１２タ-ン＞　＜ナギ＞ The seaaa!\n\n＜志津香＞ Hm, seems the sea appeared."
+			"条件＜第８ターン飛ぶ＞　＜ナギ＞ Hahaha!\nWe're flying!\n\n＜志津香＞ You're still the same as ever...",
+			"条件＜第１２ターン＞　＜ナギ＞ The seaaa!\n\n＜志津香＞ Hm, seems the sea appeared."
 		},
 		作戦 = (list) {
 			"＜ナギ＞ Strategy phase!\n\n＜志津香＞ What will you do?",
-			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Second half, start!\n\n＜志津香＞ ...Is that so?",
-			"条件＜第８タ-ン＞　＜ナギ＞ Sniff...\n the castle got taken...\n\n＜志津香＞ Don't sulk.",
+			"条件＜第８ターン飛ぶ＞　＜ナギ＞ Second half, start!\n\n＜志津香＞ ...Is that so?",
+			"条件＜第８ターン＞　＜ナギ＞ Sniff...\nthe castle got taken...\n\n＜志津香＞ Don't sulk.",
 			"条件＜ランス城は上陸地点＞　＜ナギ＞ The final battle begins!\n\n＜志津香＞ ...So, this is the end, huh."
 		},
 		拠点 = (list) {
 			"＜ナギ＞ Base phaaase!\n\n＜志津香＞ Make sure to rest properly.",
-			"条件＜第７タ-ン＞　＜ナギ＞ Happy New Yeaaar!\n\n＜志津香＞ Hm, good job greeting properly.",
-			"条件＜第１２タ-ン上陸＞　＜ナギ＞ The Monster Realm!\n\n＜志津香＞ ...Who will you spend time with?"
+			"条件＜第７ターン＞　＜ナギ＞ Happy New Yeaaar!\n\n＜志津香＞ Hm, good job greeting properly.",
+			"条件＜第１２ターン上陸＞　＜ナギ＞ The Monster Realm!\n\n＜志津香＞ ...Who will you spend time with?"
 		},
 		地域 = (list) {
 			"＜ナギ＞ We're doing the mission here?\n\n＜志津香＞ ...Having doubts?",
@@ -718,32 +718,32 @@ tree 秘書データ = {
 			"条件＜地域滅亡＞　＜ナギ＞ ...\n\n＜志津香＞ This area's been taken by the demon army..."
 		},
 		食券 = (list) {
-			"＜ナギ＞ Meal ticket phase!\n \n＜志津香＞ Whose event will you see?",
-			"＜ナギ＞ Let's peek at everyone's lives!\n \n＜志津香＞ ...Can't you say that better?",
-			"条件＜子供志津香発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n You're here, Rance!\n ",
-			"条件＜リセット発生中＞　＜ナギ＞ Oh, ＜リセット＞ is here!\n Let's go meet her!\n \n＜志津香＞ ...You two really get along.",
-			"条件＜ランス発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n Rance is here!\n \n＜志津香＞ ...Why are you telling me that?",
+			"＜ナギ＞ Meal ticket phase!\n\n＜志津香＞ Whose event will you see?",
+			"＜ナギ＞ Let's peek at everyone's lives!\n\n＜志津香＞ ...Can't you say that better?",
+			"条件＜子供志津香発生中＞　＜ナギ＞ Ah!\n＜志津香＞-sama, ＜志津香＞-sama!\nYou're here, Rance!\n",
+			"条件＜リセット発生中＞　＜ナギ＞ Oh, ＜リセット＞ is here!\nLet's go meet her!\n\n＜志津香＞ ...You two really get along.",
+			"条件＜ランス発生中＞　＜ナギ＞ Ah!\n＜志津香＞-sama, ＜志津香＞-sama!\nRance is here!\n\n＜志津香＞ ...Why are you telling me that?",
 			"条件＜マリア発生中＞　＜ナギ＞ Ah, ＜マリア＞ is here!\n\n＜志津香＞ Shall we go see her?",
 			"条件＜ミル発生中＞　＜ナギ＞ ＜ミル＞-neechan's here!\n\n＜志津香＞ ...Don't get too attached, okay?",
-			"条件＜エレノア発生中＞　＜ナギ＞ Ah, ＜ラン＞ is here!\n \n＜志津香＞ Don't try to make Rance and ＜ラン＞ meet, please...",
-			"条件＜子供ナギ発生中＞　＜志津香＞ ...＜ナギ＞'s here.\n Hm, that's all.",
+			"条件＜エレノア発生中＞　＜ナギ＞ Ah, ＜ラン＞ is here!\n\n＜志津香＞ Don't try to make Rance and ＜ラン＞ meet, please...",
+			"条件＜子供ナギ発生中＞　＜志津香＞ ...＜ナギ＞'s here.\nHm, that's all.",
 			"条件＜食券３枚＞　＜ナギ＞ Whoa, we've got three meal tickets!\n\n＜志津香＞ Better use them before wasting them."
 		},
 	},
 	長田君 = {
 		つつく = (list) {
 			"Ouch, ouch...",
-			"Ow ow!\n What are you doing!?",
+			"Ow ow!\nWhat are you doing!?",
 			"Why are you hitting me!?",
 			"Whoa-my styled hair's messed up!",
-			"Oh?\n What's up?",
-			"Hahaha!\n T-that tickles!",
-			"Hm?\n Why are you touching me?",
-			"Kya!\n Where are you touching!?"
+			"Oh?\nWhat's up?",
+			"Hahaha!\nT-that tickles!",
+			"Hm?\nWhy are you touching me?",
+			"Kya!\nWhere are you touching!?"
 		},
 		待ち会話 = (list) {
-			"What's wrong, partner?\n Got something on your mind?",
-			"Hey, partner!\n Let's move already!",
+			"What's wrong, partner?\nGot something on your mind?",
+			"Hey, partner!\nLet's move already!",
 			"If you're worried, talk to me!",
 			"Want to organize the party?",
 			"...Hungry or something?",
@@ -753,28 +753,28 @@ tree 秘書データ = {
 			"Zzz..."
 		},
 		進む = (list) {
-			"Alright!\n Let's keep going!",
+			"Alright!\nLet's keep going!",
 			"Let's go!",
 			"Nothing can stop us!",
 			"Hey, don't leave me behind!",
 			"Let's push forward!",
 			"Moving on!",
 			"Advance, advance!",
-			"＜エ-ル＞, let's move carefully!"
+			"＜エール＞, let's move carefully!"
 		},
 		挨拶 = (list) {
-			"I'll be your secretary, partner!\n Leave it to me!",
-			"Osada-kun's here!\n I'll secretary it up!",
+			"I'll be your secretary, partner!\nLeave it to me!",
+			"Osada-kun's here!\nI'll secretary it up!",
 			"Heheh, yeah, I've gotta stick with my partner!"
 		},
 		クエストクリア = (list) {
-			"Alright!\n We did it, partner!"
+			"Alright!\nWe did it, partner!"
 		},
 		クエストアウト = (list) {
-			"Gueeeh...\n guess we've gotta give up for now..."
+			"Gueeeh...\nguess we've gotta give up for now..."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
-			"No way...\n partner...\n is it over already...?"
+			"No way...\npartner...\nis it over already...?"
 		},
 		クエスト開始 = (list) {
 			"Alright, let's go!",
@@ -782,19 +782,19 @@ tree 秘書データ = {
 			"Adventure, start!"
 		},
 		冒険 = (list) {
-			"条件＜第１タ-ン＞　Our awesome adventure begins!",
-			"条件＜第２タ-ン＞　Hehe, we're in top form!\n Where to next, partner?",
-			"条件＜第３タ-ン＞　Yeah, fighting the Demon King right away's a bit much...\n Let's take it slow!",
-			"条件＜第４タ-ン＞　We've got great allies now-our adventure's going strong!\n Next up, Leazas!",
-			"条件＜第５タ-ン＞　Next is JAPAN!\n It's my first time going there!",
-			"条件＜第６タ-ン＞　Hm?\n Something feels ominous next...",
-			"条件＜第７タ-ン＞　Next adventure's in Zeth!\n Let's not drop our guard, partner!",
-			"条件＜第８タ-ン＞　Next is Helman!\n Easy win for us!",
-			"条件＜第９タ-ン＞　The last orb, huh...\n alright, let's do this!",
-			"条件＜第１０タ-ン＞　We've got all our allies and orbs!\n Time to move, partner!",
-			"条件＜第１１タ-ン＞　Ugh...\n can't believe the Demon King was like that...\n partner, what now?",
-			"条件＜第１２タ-ン＞　Hehe, after all that training, nothing can scare us!\n Let's go, partner!",
-			"条件＜第１３タ-ン＞　We did it, partner!\n We finally beat the Demon King!"
+			"条件＜第１ターン＞　Our awesome adventure begins!",
+			"条件＜第２ターン＞　Hehe, we're in top form!\nWhere to next, partner?",
+			"条件＜第３ターン＞　Yeah, fighting the Demon King right away's a bit much...\nLet's take it slow!",
+			"条件＜第４ターン＞　We've got great allies now-our adventure's going strong!\nNext up, Leazas!",
+			"条件＜第５ターン＞　Next is JAPAN!\nIt's my first time going there!",
+			"条件＜第６ターン＞　Hm?\nSomething feels ominous next...",
+			"条件＜第７ターン＞　Next adventure's in Zeth!\nLet's not drop our guard, partner!",
+			"条件＜第８ターン＞　Next is Helman!\nEasy win for us!",
+			"条件＜第９ターン＞　The last orb, huh...\nalright, let's do this!",
+			"条件＜第１０ターン＞　We've got all our allies and orbs!\nTime to move, partner!",
+			"条件＜第１１ターン＞　Ugh...\ncan't believe the Demon King was like that...\npartner, what now?",
+			"条件＜第１２ターン＞　Hehe, after all that training, nothing can scare us!\nLet's go, partner!",
+			"条件＜第１３ターン＞　We did it, partner!\nWe finally beat the Demon King!"
 		},
 		売店 = (list) {
 			"Heh, I love browsing through stuff like this!"
@@ -802,23 +802,23 @@ tree 秘書データ = {
 	},
 	母クルックー = {
 		つつく = (list) {
-			"Hm?\n What is it?",
+			"Hm?\nWhat is it?",
 			"One should not poke their mother.",
-			"＜エ-ル＞, that tickles.",
-			"＜エ-ル＞, please don't poke me.",
-			"＜エ-ル＞, is something wrong?",
+			"＜エール＞, that tickles.",
+			"＜エール＞, please don't poke me.",
+			"＜エール＞, is something wrong?",
 			"Being poked reminds me of when you were little."
 		},
 		待ち会話 = (list) {
 			"Phew, time for a short rest.",
-			"＜エ-ル＞?\n Taking a break?",
+			"＜エール＞?\nTaking a break?",
 			"What shall we make for dinner?",
 			"Are you eating properly?",
 			"...I'm bored.",
 			"If we're taking a break, I'll nap for a bit.",
 			"Are you worried about something?",
-			"条件＜部隊ボ-ナス有り＞　Oh?\n There's a unit bonus available-don't let it go to waste.",
-			"条件＜ＨＰ５０％以下＞　Oh?\n Your stamina's quite low.\n You should prioritize healing."
+			"条件＜部隊ボーナス有り＞　Oh?\nThere's a unit bonus available-don't let it go to waste.",
+			"条件＜ＨＰ５０％以下＞　Oh?\nYour stamina's quite low.\nYou should prioritize healing."
 		},
 		進む = (list) {
 			"Alright, let's move forward.",
@@ -829,11 +829,11 @@ tree 秘書データ = {
 		},
 		挨拶 = (list) {
 			"I'm just a mother quietly watching over you.",
-			"A secretary, you say...\n I have no experience, but I'll try.",
+			"A secretary, you say...\nI have no experience, but I'll try.",
 			"I'm your mother."
 		},
 		クエストクリア = (list) {
-			"Well done, ＜エ-ル＞."
+			"Well done, ＜エール＞."
 		},
 		クエストアウト = (list) {
 			"We'll retreat for now."
@@ -843,22 +843,22 @@ tree 秘書データ = {
 		},
 		クエスト開始 = (list) {
 			"The adventure begins.",
-			"Let's do our best, ＜エ-ル＞."
+			"Let's do our best, ＜エール＞."
 		},
 		冒険 = (list) {
-			"条件＜第１タ-ン＞　Your adventure begins now.",
-			"条件＜第２タ-ン＞　You made a friend-Mother is relieved.",
-			"条件＜第３タ-ン＞　Challenging the Demon King so soon was too much, wasn't it?",
-			"条件＜第４タ-ン＞　Having ＜リセット＞ as a companion is very reassuring.",
-			"条件＜第５タ-ン＞　You must be getting used to traveling by now.\n Next up is JAPAN.",
-			"条件＜第６タ-ン＞　Your companions are steadily growing...\n hm?\n Something ominous lies ahead?",
-			"条件＜第７タ-ン＞　＜ミックス＞ has joined you.\n Next, adventure in Zeth.",
-			"条件＜第８タ-ン＞　Phew, it's a bit chilly.\n Next up is an adventure in Helman.",
-			"条件＜第９タ-ン＞　All your allies are gathered.\n Now, let's retrieve the final orb.",
-			"条件＜第１０タ-ン＞　Your allies and orbs are ready.\n Time to face Demon King Rance.",
-			"条件＜第１１タ-ン＞　...Mother believes you'll be fine, ＜エ-ル＞.",
-			"条件＜第１２タ-ン＞　Preparations complete, spirit full-now, go and give it your all.",
-			"条件＜第１３タ-ン＞　Thank you, ＜エ-ル＞.\n It's all thanks to you..."
+			"条件＜第１ターン＞　Your adventure begins now.",
+			"条件＜第２ターン＞　You made a friend-Mother is relieved.",
+			"条件＜第３ターン＞　Challenging the Demon King so soon was too much, wasn't it?",
+			"条件＜第４ターン＞　Having ＜リセット＞ as a companion is very reassuring.",
+			"条件＜第５ターン＞　You must be getting used to traveling by now.\nNext up is JAPAN.",
+			"条件＜第６ターン＞　Your companions are steadily growing...\nhm?\nSomething ominous lies ahead?",
+			"条件＜第７ターン＞　＜ミックス＞ has joined you.\nNext, adventure in Zeth.",
+			"条件＜第８ターン＞　Phew, it's a bit chilly.\nNext up is an adventure in Helman.",
+			"条件＜第９ターン＞　All your allies are gathered.\nNow, let's retrieve the final orb.",
+			"条件＜第１０ターン＞　Your allies and orbs are ready.\nTime to face Demon King Rance.",
+			"条件＜第１１ターン＞　...Mother believes you'll be fine, ＜エール＞.",
+			"条件＜第１２ターン＞　Preparations complete, spirit full-now, go and give it your all.",
+			"条件＜第１３ターン＞　Thank you, ＜エール＞.\nIt's all thanks to you..."
 		},
 		売店 = (list) {
 			"Don't waste money needlessly."
