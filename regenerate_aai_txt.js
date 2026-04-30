@@ -1,7 +1,6 @@
 import * as fs from "fs/promises";
 import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
 
-
 const v100AinJson = await fs.readFile("./Rance10.v1.00.ain.json", "utf-8");
 const v100AinData = JSON.parse(v100AinJson);
 
@@ -99,7 +98,7 @@ const normalizeNames = (lineRecord) => {
     return sentence;
 };
 
-const output = allLineRecordsV100
+const output = [...allLineRecordsV100
     .flatMap(lr => {
         const v104LineNumber = v100ToV104.get(+lr.lineNumber);
         if (!v104LineNumber) {
@@ -109,6 +108,12 @@ const output = allLineRecordsV100
         }
     })
     .concat(allLineRecordsV104)
+    // Deduplicate by lineNumber - v1.04 takes precedence (comes last in concat)
+    .reduce((acc, lr) => {
+        acc.set(lr.lineNumber, lr);
+        return acc;
+    }, new Map())
+    .values()]
     .flatMap(lr => {
         let text = normalizeNames(lr);
         text = replaceUnicode(text);

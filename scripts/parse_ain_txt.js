@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import parseAin from "../modules/AinTxtParser.js";
 
-const ainTxt = await fs.readFile("./Rance10.v1.04.ain.txt", "utf-8");
+const ainTxt = await fs.readFile("./Rance10.v1.00.ain.txt", "utf-8");
 
 const { parsed, unparsed } = parseAin(ainTxt);
 
@@ -11,4 +11,4 @@ const { parsed, unparsed } = parseAin(ainTxt);
 const messageLines = parsed.filter(lr => lr.lineKind === "m");
 const outputJson = "[\n" + messageLines.map(ml => JSON.stringify(ml)).join(",\n") + "\n]";
 
-await fs.writeFile("./Rance10.v1.04.ain.json", outputJson, "utf-8");
+await fs.writeFile("./Rance10.v1.00.ain.json", outputJson, "utf-8");

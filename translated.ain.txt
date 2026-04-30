@@ -1,0 +1,3 @@
+m[129002] = "\"M-my master...\""
+m[85219] = "\"It seems that characters who participate will be incapacitated\nat the end of the battle. It's a little troublesome,"
+m[85220] = "but be sure to adjust your formation each time.\""

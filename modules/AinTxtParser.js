@@ -25,13 +25,16 @@ export default function parseAin(ainTxt) {
 
     const lines = ainTxt.split("\n");
     for (const line of lines) {
-        if (!line.trim()) {
+        const trimmedLine = line.trim().replace(/\r$/, '');
+        if (!trimmedLine) {
             continue;
         }
-        const match = line.match(/^(;|)([ms])\[(\d+)]\s*=\s*(".*")$/);
+        const match = trimmedLine.match(/^(;|)([ms])\[(\d+)]\s*=\s*(.*)$/);
         if (match) {
             const [, commented, lineKind, lineNumber, quotedText] = match;
-            const originalJapaneseLine = unquote(quotedText);
+            // Extract the quoted string - handle both properly quoted and malformed lines
+            const quoteMatch = quotedText.match(/^"(.*)"$/);
+            const originalJapaneseLine = quoteMatch ? JSON.parse(quotedText.replace(/\t/g, "\\t")) : quotedText;
             parsed.push({ lineKind, lineNumber: +lineNumber, commented: !!commented, originalJapaneseLine });
         } else {
             unparsed.push(line);
