@@ -77,6 +77,7 @@ console.log(`Translated lines: ${translatedMap.size}`);
 
 let changedLines = [];
 let wrappedCount = 0;
+const wrappedLineMap = new Map(); // lineNumber -> wrapped line
 
 // Check for changed lines between regenerated and regenerated_original
 for (const [lineNumber, regeneratedLine] of regeneratedMap) {
@@ -92,6 +93,7 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
                     const wrappedQuotedText = wrapText(quotedText, 60);
                     const wrappedLine = `m[${ln}] = ${wrappedQuotedText}`;
                     changedLines.push(wrappedLine);
+                    wrappedLineMap.set(lineNumber, wrappedLine);
                     
                     if (wrappedQuotedText !== quotedText) {
                         wrappedCount++;
@@ -123,6 +125,28 @@ if (changedLines.length > 0) {
     console.log(`Done! Appended ${changedLines.length} lines to translated.ain.txt`);
 } else {
     console.log("No changed lines to append.");
+}
+
+// Update regenerated.ain.txt with wrapped lines
+if (wrappedLineMap.size > 0) {
+    const regeneratedLines = regeneratedTxt.split("\n");
+    let updatedCount = 0;
+    
+    for (let i = 0; i < regeneratedLines.length; i++) {
+        const line = regeneratedLines[i].trim().replace(/\r$/, '');
+        const match = line.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
+        if (match) {
+            const [, lineNumber] = match;
+            if (wrappedLineMap.has(+lineNumber)) {
+                regeneratedLines[i] = wrappedLineMap.get(+lineNumber);
+                updatedCount++;
+            }
+        }
+    }
+    
+    const outputText = regeneratedLines.join("\n") + "\n";
+    await fs.writeFile(join(__dirname, "./regenerated.ain.txt"), outputText, "utf-8");
+    console.log(`Done! Updated ${updatedCount} lines in regenerated.ain.txt`);
 }
 
 // Run alice.exe command
