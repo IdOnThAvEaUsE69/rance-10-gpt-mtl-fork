@@ -78,6 +78,7 @@ console.log(`Translated lines: ${translatedMap.size}`);
 let changedLines = [];
 let wrappedCount = 0;
 const wrappedLineMap = new Map(); // lineNumber -> wrapped line
+const wrappedLineNumbers = []; // track which lines were wrapped
 
 // Check for changed lines between regenerated and regenerated_original
 for (const [lineNumber, regeneratedLine] of regeneratedMap) {
@@ -97,6 +98,7 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
                     
                     if (wrappedQuotedText !== quotedText) {
                         wrappedCount++;
+                        wrappedLineNumbers.push(lineNumber);
                     }
                     
                     console.log(`Changed m[${lineNumber}]:`);
@@ -117,6 +119,9 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
 
 console.log(`\nChanged lines: ${changedLines.length}`);
 console.log(`Wrapped lines: ${wrappedCount}`);
+if (wrappedLineNumbers.length > 0) {
+    console.log(`Wrapped line numbers: ${wrappedLineNumbers.join(', ')}`);
+}
 
 // Append changed lines to translated.ain.txt
 if (changedLines.length > 0) {
