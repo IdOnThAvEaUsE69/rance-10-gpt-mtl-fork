@@ -22,6 +22,46 @@ const parseAinTxt = (text) => {
     return parsed;
 };
 
+// Wrap text at 60 characters
+const wrapText = (quotedText, maxLength = 60) => {
+    const text = quotedText.match(/^"(.*)"$/);
+    if (!text) return quotedText;
+    
+    let content = text[1];
+    content = content.replace(/\\n/g, ' ');
+    const wrapped = wrapSegment(content, maxLength);
+    return `"${wrapped}"`;
+};
+
+const wrapSegment = (segment, maxLength) => {
+    if (segment.length <= maxLength) return segment;
+    
+    const result = [];
+    let current = '';
+    
+    for (let i = 0; i < segment.length; i++) {
+        current += segment[i];
+        
+        if (current.length >= maxLength) {
+            const lastSpaceIndex = current.lastIndexOf(' ');
+            
+            if (lastSpaceIndex > 0) {
+                result.push(current.substring(0, lastSpaceIndex));
+                current = current.substring(lastSpaceIndex + 1);
+            } else {
+                result.push(current);
+                current = '';
+            }
+        }
+    }
+    
+    if (current) {
+        result.push(current);
+    }
+    
+    return result.join('\\n');
+};
+
 // Read files
 const regeneratedTxt = await fs.readFile(join(__dirname, "./regenerated.ain.txt"), "utf-8");
 const regeneratedOriginalTxt = await fs.readFile(join(__dirname, "./regenerated_original.ain.txt"), "utf-8");
@@ -36,6 +76,7 @@ console.log(`Regenerated original lines: ${regeneratedOriginalMap.size}`);
 console.log(`Translated lines: ${translatedMap.size}`);
 
 let changedLines = [];
+let wrappedCount = 0;
 
 // Check for changed lines between regenerated and regenerated_original
 for (const [lineNumber, regeneratedLine] of regeneratedMap) {
@@ -44,10 +85,27 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
         if (originalLine !== regeneratedLine) {
             // Line changed - only add if not already in translated
             if (!translatedMap.has(lineNumber)) {
-                changedLines.push(regeneratedLine);
-                console.log(`Changed m[${lineNumber}]:`);
-                console.log(`  Original: ${originalLine}`);
-                console.log(`  New: ${regeneratedLine}`);
+                // Wrap the changed line
+                const match = regeneratedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
+                if (match) {
+                    const [, ln, quotedText] = match;
+                    const wrappedQuotedText = wrapText(quotedText, 60);
+                    const wrappedLine = `m[${ln}] = ${wrappedQuotedText}`;
+                    changedLines.push(wrappedLine);
+                    
+                    if (wrappedQuotedText !== quotedText) {
+                        wrappedCount++;
+                    }
+                    
+                    console.log(`Changed m[${lineNumber}]:`);
+                    console.log(`  Original: ${originalLine}`);
+                    console.log(`  New: ${wrappedLine}`);
+                } else {
+                    changedLines.push(regeneratedLine);
+                    console.log(`Changed m[${lineNumber}]:`);
+                    console.log(`  Original: ${originalLine}`);
+                    console.log(`  New: ${regeneratedLine}`);
+                }
             } else {
                 console.log(`Skipping m[${lineNumber}] - already exists in translated.ain.txt`);
             }
@@ -56,6 +114,7 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
 }
 
 console.log(`\nChanged lines: ${changedLines.length}`);
+console.log(`Wrapped lines: ${wrappedCount}`);
 
 // Append changed lines to translated.ain.txt
 if (changedLines.length > 0) {
