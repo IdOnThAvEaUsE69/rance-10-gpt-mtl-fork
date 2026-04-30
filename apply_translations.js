@@ -37,11 +37,15 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
     if (regeneratedOriginalMap.has(lineNumber)) {
         const originalLine = regeneratedOriginalMap.get(lineNumber);
         if (originalLine !== regeneratedLine) {
-            // Line changed - add to translated
-            changedLines.push(regeneratedLine);
-            console.log(`Changed m[${lineNumber}]:`);
-            console.log(`  Original: ${originalLine}`);
-            console.log(`  New: ${regeneratedLine}`);
+            // Line changed - only add if not already in translated
+            if (!translatedMap.has(lineNumber)) {
+                changedLines.push(regeneratedLine);
+                console.log(`Changed m[${lineNumber}]:`);
+                console.log(`  Original: ${originalLine}`);
+                console.log(`  New: ${regeneratedLine}`);
+            } else {
+                console.log(`Skipping m[${lineNumber}] - already exists in translated.ain.txt`);
+            }
         }
     }
 }
