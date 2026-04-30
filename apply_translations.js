@@ -1,5 +1,10 @@
 import * as fs from "fs/promises";
 import { spawn } from "child_process";
+import { fileURLToPath } from "url";
+import { dirname, join } from "path";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 // Parse ain.txt format: m[lineNumber] = "text"
 const parseAinTxt = (text) => {
@@ -18,9 +23,9 @@ const parseAinTxt = (text) => {
 };
 
 // Read files
-const regeneratedTxt = await fs.readFile("./regenerated.ain.txt", "utf-8");
-const regeneratedOriginalTxt = await fs.readFile("./regenerated_original.ain.txt", "utf-8");
-const translatedTxt = await fs.readFile("./translated.ain.txt", "utf-8");
+const regeneratedTxt = await fs.readFile(join(__dirname, "./regenerated.ain.txt"), "utf-8");
+const regeneratedOriginalTxt = await fs.readFile(join(__dirname, "./regenerated_original.ain.txt"), "utf-8");
+const translatedTxt = await fs.readFile(join(__dirname, "./translated.ain.txt"), "utf-8");
 
 const regeneratedMap = parseAinTxt(regeneratedTxt);
 const regeneratedOriginalMap = parseAinTxt(regeneratedOriginalTxt);
@@ -55,7 +60,7 @@ console.log(`\nChanged lines: ${changedLines.length}`);
 // Append changed lines to translated.ain.txt
 if (changedLines.length > 0) {
     const output = translatedTxt.trim() + "\n" + changedLines.join("\n") + "\n";
-    await fs.writeFile("./translated.ain.txt", output, "utf-8");
+    await fs.writeFile(join(__dirname, "./translated.ain.txt"), output, "utf-8");
     console.log(`Done! Appended ${changedLines.length} lines to translated.ain.txt`);
 } else {
     console.log("No changed lines to append.");
@@ -63,14 +68,13 @@ if (changedLines.length > 0) {
 
 // Run alice.exe command
 console.log("\nRunning alice.exe to update AIN file...");
-const alicePath = "\"D:\\Programs\\Compressed\\Rance_3 V1.01\\alice-tools-0.13.0\\alice.exe\"";
-const outputPath = "\"D:\\Program Files\\Rance 10\\New Rance 10\\ランス１０\\Rance10.ain\"";
-const inputPath = ".\\Rance10.v1.04.ain";
+const alicePath = "D:\\Programs\\Compressed\\Rance_3 V1.01\\alice-tools-0.13.0\\alice.exe";
+const outputPath = "D:\\Program Files\\Rance 10\\New Rance 10\\ランス１０\\Rance10.ain";
+const inputPath = join(__dirname, ".\\Rance10.v1.04.ain");
 
 await new Promise((resolve, reject) => {
-    const child = spawn(alicePath, ["ain", "edit", "-t", "regenerated.ain.txt", "-o", outputPath, inputPath], {
-        cwd: process.cwd(),
-        shell: true
+    const child = spawn(alicePath, ["ain", "edit", "-t", join(__dirname, "regenerated.ain.txt"), "-o", outputPath, inputPath], {
+        cwd: __dirname
     });
     
     child.stdout.on('data', (data) => {
