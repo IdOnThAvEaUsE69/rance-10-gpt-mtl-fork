@@ -110,8 +110,6 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
                     console.log(`  Original: ${originalLine}`);
                     console.log(`  New: ${regeneratedLine}`);
                 }
-            } else {
-                console.log(`Skipping m[${lineNumber}] - already exists in translated.ain.txt`);
             }
         }
     }

@@ -90,7 +90,6 @@ const processFile = async (filePath) => {
             const newQuotedText = wrapText(item.quotedText, 60);
             if (newQuotedText !== item.quotedText) {
                 wrappedCount++;
-                console.log(`Wrapped m[${item.lineNumber}]: ${item.quotedText.substring(0, 50)}...`);
             }
             output.push(`m[${item.lineNumber}] = ${newQuotedText}`);
         } else if (item.type === 'empty') {
