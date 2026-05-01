@@ -1,1 +1,3 @@
 node rance-10-gpt-mtl-fork/apply_translations.js
+
+node rance-10-gpt-mtl-fork/copy_japanese_range.js
