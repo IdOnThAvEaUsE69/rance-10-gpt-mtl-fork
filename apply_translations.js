@@ -165,25 +165,62 @@ const alicePath = "D:\\Programs\\Compressed\\Rance_3 V1.01\\alice-tools-0.13.0\\
 const outputPath = "D:\\Program Files\\Rance 10\\New Rance 10\\ランス１０\\Rance10.ain";
 const inputPath = join(__dirname, ".\\Rance10.v1.04.ain");
 
-await new Promise((resolve, reject) => {
-    const child = spawn(alicePath, ["ain", "edit", "-t", join(__dirname, "regenerated.ain.txt"), "-o", outputPath, inputPath], {
-        cwd: __dirname
+try {
+    await new Promise((resolve, reject) => {
+        const child = spawn(alicePath, ["ain", "edit", "-t", join(__dirname, "regenerated.ain.txt"), "-o", outputPath, inputPath], {
+            cwd: __dirname
+        });
+        
+        child.stdout.on('data', (data) => {
+            console.log(data.toString());
+        });
+        
+        child.stderr.on('data', (data) => {
+            console.error(data.toString());
+        });
+        
+        child.on('close', (code) => {
+            if (code === 0) {
+                console.log("\nDone! AIN file updated successfully.");
+                resolve();
+            } else {
+                reject(new Error(`alice.exe exited with code ${code}`));
+            }
+        });
     });
+} catch (error) {
+    console.log("\nError running alice.exe. Attempting to fix problematic characters...");
     
-    child.stdout.on('data', (data) => {
-        console.log(data.toString());
-    });
+    // Read the regenerated file and replace problematic characters
+    const regeneratedTxt = await fs.readFile(join(__dirname, "./regenerated.ain.txt"), "utf-8");
+    const fixedTxt = regeneratedTxt.replaceAll("—", "一");
     
-    child.stderr.on('data', (data) => {
-        console.error(data.toString());
-    });
+    // Write the fixed version back
+    await fs.writeFile(join(__dirname, "./regenerated.ain.txt"), fixedTxt, "utf-8");
+    console.log("Replaced all instances of \"—\" with \"一\"");
     
-    child.on('close', (code) => {
-        if (code === 0) {
-            console.log("\nDone! AIN file updated successfully.");
-            resolve();
-        } else {
-            reject(new Error(`alice.exe exited with code ${code}`));
-        }
+    // Try running alice.exe again
+    console.log("\nRetrying alice.exe with fixed file...");
+    await new Promise((resolve, reject) => {
+        const child = spawn(alicePath, ["ain", "edit", "-t", join(__dirname, "regenerated.ain.txt"), "-o", outputPath, inputPath], {
+            cwd: __dirname
+        });
+        
+        child.stdout.on('data', (data) => {
+            console.log(data.toString());
+        });
+        
+        child.stderr.on('data', (data) => {
+            console.error(data.toString());
+        });
+        
+        child.on('close', (code) => {
+            if (code === 0) {
+                console.log("\nDone! AIN file updated successfully after fixing characters.");
+                resolve();
+            } else {
+                reject(new Error(`alice.exe still failed with code ${code}`));
+            }
+        });
     });
-});
+}
