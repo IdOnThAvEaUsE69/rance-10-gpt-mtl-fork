@@ -2,11 +2,10 @@ import * as fs from "fs/promises";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 import clipboardy from 'clipboardy';
-import readline from 'readline';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-const nextRange = 1000
+const nextRange = 500
 
 // Copy text to clipboard
 const copyToClipboard = async (text) => {
@@ -175,32 +174,13 @@ const main = async () => {
     let lastEnd = null;
     
     while (true) {
-        let defaultInput = '';
+        console.log("Enter a range (e.g., '1-1000'), single number (e.g., '1'), or 'quit' to exit:");
         if (lastEnd !== null) {
-            defaultInput = (lastEnd + 1) + "-" + (lastEnd + 1000);
+            console.log("(Press Enter for auto-range: " + lastEnd + "-" + (lastEnd + nextRange) + ")");
         }
         
         const input = await new Promise(resolve => {
-            if (defaultInput) {
-                const rl = readline.createInterface({
-                    input: process.stdin,
-                    output: process.stdout
-                });
-                
-                console.log("Enter a range or 'quit' to exit:");
-                console.log("(Default: " + defaultInput + " - press Enter to use)");
-                rl.write(defaultInput);
-                
-                rl.question('', (answer) => {
-                    rl.close();
-                    resolve(answer.trim());
-                });
-            } else {
-                console.log("Enter a range or 'quit' to exit:");
-                process.stdin.once('data', data => {
-                    resolve(data.toString().trim());
-                });
-            }
+            process.stdin.once('data', data => resolve(data.toString().trim()));
         });
         
         if (input.toLowerCase() === 'quit' || input.toLowerCase() === 'exit') {
@@ -210,19 +190,32 @@ const main = async () => {
         
         let start, end;
         
-        const rangeMatch = input.match(/^(\d+)-(\d+)$/);
-        if (!rangeMatch) {
-            console.log("Invalid format. Use format: start-end (e.g., 65711-65717)\n");
-            continue;
-        }
-        
-        const [, startStr, endStr] = rangeMatch;
-        start = +startStr;
-        end = +endStr;
-        
-        if (start > end) {
-            console.log("Start number must be less than or equal to end number.\n");
-            continue;
+        if (input === '' && lastEnd !== null) {
+            // Auto-range: use last end as start, add nextRange for end
+            start = lastEnd;
+            end = lastEnd + nextRange;
+        } else {
+            const rangeMatch = input.match(/^(\d+)-(\d+)$/);
+            const singleMatch = input.match(/^(\d+)$/);
+            
+            if (rangeMatch) {
+                // Full range format: start-end
+                const [, startStr, endStr] = rangeMatch;
+                start = +startStr;
+                end = +endStr;
+                
+                if (start > end) {
+                    console.log("Start number must be less than or equal to end number.\n");
+                    continue;
+                }
+            } else if (singleMatch) {
+                // Single number format: calculate end as start + nextRange
+                start = +singleMatch[1];
+                end = start + nextRange;
+            } else {
+                console.log("Invalid format. Use format: start-end (e.g., 65711-65717) or single number (e.g., 65711)\n");
+                continue;
+            }
         }
         
         // Update lastEnd for next iteration

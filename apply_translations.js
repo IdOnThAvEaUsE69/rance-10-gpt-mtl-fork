@@ -87,29 +87,38 @@ for (const [lineNumber, regeneratedLine] of regeneratedMap) {
         if (originalLine !== regeneratedLine) {
             // Line changed - only add if not already in translated
             if (!translatedMap.has(lineNumber)) {
-                // Wrap the changed line
-                const match = regeneratedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
-                if (match) {
-                    const [, ln, quotedText] = match;
-                    const wrappedQuotedText = wrapText(quotedText, 60);
-                    const wrappedLine = `m[${ln}] = ${wrappedQuotedText}`;
-                    changedLines.push(wrappedLine);
-                    wrappedLineMap.set(lineNumber, wrappedLine);
-                    
-                    if (wrappedQuotedText !== quotedText) {
-                        wrappedCount++;
-                        wrappedLineNumbers.push(lineNumber);
+            }
+            // Wrap the changed line
+            const match = regeneratedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
+            if (match) {
+                const [, ln, quotedText] = match;
+                
+                // Check if quotes are unclosed and add closing quote if needed
+                let processedText = quotedText;
+                if (quotedText.startsWith('"') && !quotedText.endsWith('"')) {
+                    // Count opening and closing quotes to handle nested quotes
+                    let quoteCount = 0;
+                    for (let i = 0; i < quotedText.length; i++) {
+                        if (quotedText[i] === '"' && (i === 0 || quotedText[i-1] !== '\\')) {
+                            quoteCount++;
+                        }
                     }
-                    
-                    console.log(`Changed m[${lineNumber}]:`);
-                    console.log(`  Original: ${originalLine}`);
-                    console.log(`  New: ${wrappedLine}`);
-                } else {
-                    changedLines.push(regeneratedLine);
-                    console.log(`Changed m[${lineNumber}]:`);
-                    console.log(`  Original: ${originalLine}`);
-                    console.log(`  New: ${regeneratedLine}`);
+                    // If odd number of quotes, add closing quote
+                    if (quoteCount % 2 === 1) {
+                        processedText = quotedText + '"';
+                    }
                 }
+                
+                const wrappedQuotedText = wrapText(processedText, 60);
+                const wrappedLine = `m[${ln}] = ${wrappedQuotedText}`;
+                changedLines.push(wrappedLine);
+                wrappedLineMap.set(lineNumber, wrappedLine);
+                
+                if (wrappedQuotedText !== processedText) {
+                    wrappedCount++;
+                    wrappedLineNumbers.push(lineNumber);
+                }
+            } else {
             }
         }
     }
@@ -123,9 +132,7 @@ if (wrappedLineNumbers.length > 0) {
 
 // Append changed lines to translated.ain.txt
 if (changedLines.length > 0) {
-    const output = translatedTxt.trim() + "\n" + changedLines.join("\n") + "\n";
-    await fs.writeFile(join(__dirname, "./translated.ain.txt"), output, "utf-8");
-    console.log(`Done! Appended ${changedLines.length} lines to translated.ain.txt`);
+    console.log(`Done! Changed ${changedLines.length} lines.`);
 } else {
     console.log("No changed lines to append.");
 }
