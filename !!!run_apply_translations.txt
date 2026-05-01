@@ -1,3 +1,5 @@
 node rance-10-gpt-mtl-fork/apply_translations.js
 
 node rance-10-gpt-mtl-fork/copy_japanese_range.js
+
+git rm --cached regenerated_ain_txt
