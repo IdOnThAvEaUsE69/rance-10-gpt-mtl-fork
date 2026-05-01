@@ -164,6 +164,61 @@ const updateRegeneratedFile = async (start, end, translationLines) => {
     await fs.writeFile(join(__dirname, "./regenerated.ain.txt"), updatedText, "utf-8");
 };
 
+// Parse strict paired format and ignore useless text
+const parseStrictPairedFormat = (content) => {
+    const lines = content.split('\n').filter(line => line.trim());
+    const result = [];
+    let inMyVersionSection = false;
+    
+    for (const line of lines) {
+        const trimmedLine = line.trim().replace(/\r$/, '').replace(/^\*+/, '').replace(/\*+$/, '');
+        if (!trimmedLine) continue;
+        
+        // Check for Original blocks - skip them
+        if (trimmedLine.startsWith('Original:')) {
+            inMyVersionSection = false; // Reset when we see Original
+            continue; // Skip these header lines
+        }
+        
+        // Check for My version blocks - start collecting
+        if (trimmedLine.startsWith('Translated:') || trimmedLine.startsWith('My version:')) {
+            inMyVersionSection = true; // Start collecting when we see My version
+            continue; // Skip these header lines
+        }
+        
+        // Check for code block markers
+        if (trimmedLine.startsWith('```') || trimmedLine === '```') {
+            continue; // Skip code block markers
+        }
+        
+        // Only process lines when we're in a My version section
+        if (!inMyVersionSection) {
+            continue;
+        }
+        
+        // Check for speaker lines
+        const speakerMatch = trimmedLine.match(/^;s\[(\d+)\]\s*=\s*(.*)$/);
+        if (speakerMatch) {
+            result.push(trimmedLine);
+            continue;
+        }
+        
+        // Check for dialogue lines
+        const dialogueMatch = trimmedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
+        if (dialogueMatch) {
+            result.push(trimmedLine);
+            continue;
+        }
+        
+        // Skip any other text (like "Useless text below final translation")
+        if (trimmedLine && !speakerMatch && !dialogueMatch) {
+            continue;
+        }
+    }
+    
+    return result;
+};
+
 // Main
 const main = async () => {
     console.log("Loading regenerated_japanese.ain.txt...");
@@ -253,9 +308,10 @@ const main = async () => {
         
         // Process clipboard content
         if (clipboardContent.trim()) {
-            const translationLines = clipboardContent.split('\n').filter(line => line.trim());
+            // Parse strict paired format and ignore useless text
+            const parsedTranslations = parseStrictPairedFormat(clipboardContent);
             console.log("\nUpdating regenerated.ain.txt with English translation...");
-            await updateRegeneratedFile(start, end, translationLines);
+            await updateRegeneratedFile(start, end, parsedTranslations);
             console.log("Updated regenerated.ain.txt\n");
         } else {
             console.log("Clipboard is empty, skipping update.\n");
