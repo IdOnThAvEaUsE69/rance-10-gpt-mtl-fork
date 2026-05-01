@@ -72,61 +72,94 @@ const updateRegeneratedFile = async (start, end, translationLines) => {
     const regeneratedTxt = await fs.readFile(join(__dirname, "./regenerated.ain.txt"), "utf-8");
     const lines = regeneratedTxt.split("\n");
     
-    // Parse translation lines to separate dialogue and speaker lines
-    const parsedTranslations = [];
+    // Extract dialogue line numbers from clipboard
+    const dialogueLineNumbers = [];
+    for (const line of translationLines) {
+        const trimmedLine = line.trim().replace(/\r$/, '');
+        const dialogueMatch = trimmedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
+        if (dialogueMatch) {
+            dialogueLineNumbers.push(+dialogueMatch[1]);
+        }
+    }
+    
+    if (dialogueLineNumbers.length === 0) {
+        console.log("No dialogue lines found in clipboard, skipping update.\n");
+        return;
+    }
+    
+    const firstLineNumber = Math.min(...dialogueLineNumbers);
+    const lastLineNumber = Math.max(...dialogueLineNumbers);
+    
+    // Find the positions of first and last dialogue lines in regenerated file
+    let firstLineIndex = -1;
+    let lastLineIndex = -1;
+    
+    for (let i = 0; i < lines.length; i++) {
+        const trimmedLine = lines[i].trim().replace(/\r$/, '');
+        const dialogueMatch = trimmedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
+        
+        if (dialogueMatch) {
+            const lineNumber = +dialogueMatch[1];
+            if (lineNumber === firstLineNumber && firstLineIndex === -1) {
+                firstLineIndex = i;
+            }
+            if (lineNumber === lastLineNumber) {
+                lastLineIndex = i;
+            }
+        }
+    }
+    
+    if (firstLineIndex === -1 || lastLineIndex === -1) {
+        console.log(`Could not find dialogue lines ${firstLineNumber}-${lastLineNumber} in regenerated file.\n`);
+        return;
+    }
+    
+    // Find the speaker line before the first dialogue line (if any)
+    let speakerLineIndex = -1;
+    for (let i = firstLineIndex - 1; i >= 0; i--) {
+        const trimmedLine = lines[i].trim().replace(/\r$/, '');
+        const speakerMatch = trimmedLine.match(/^;s\[(\d+)\]\s*=\s*(.*)$/);
+        if (speakerMatch) {
+            speakerLineIndex = i;
+            break;
+        } else if (trimmedLine) {
+            // Stop if we hit a non-empty non-speaker line
+            break;
+        }
+    }
+    
+    // Remove the speaker line if it exists
+    let startIndex = firstLineIndex;
+    if (speakerLineIndex !== -1) {
+        startIndex = speakerLineIndex;
+    }
+    
+    // Replace the entire range with clipboard content
+    const beforeRange = lines.slice(0, startIndex);
+    const afterRange = lines.slice(lastLineIndex + 1);
+    
+    // Add a blank line between different speakers if clipboard has multiple speakers
+    const processedTranslationLines = [];
+    let lastSpeakerId = null;
+    
     for (const line of translationLines) {
         const trimmedLine = line.trim().replace(/\r$/, '');
         if (!trimmedLine) continue;
         
         const speakerMatch = trimmedLine.match(/^;s\[(\d+)\]\s*=\s*(.*)$/);
         if (speakerMatch) {
-            parsedTranslations.push({ type: 'speaker', lineNumber: +speakerMatch[1], content: trimmedLine });
-            continue;
-        }
-        
-        const dialogueMatch = trimmedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
-        if (dialogueMatch) {
-            parsedTranslations.push({ type: 'dialogue', lineNumber: +dialogueMatch[1], content: trimmedLine });
-            continue;
-        }
-    }
-    
-    // Create a map of line numbers to translation content
-    const translationMap = new Map();
-    for (const item of parsedTranslations) {
-        translationMap.set(item.lineNumber, item);
-    }
-    
-    // Update the regenerated file
-    for (let i = 0; i < lines.length; i++) {
-        const trimmedLine = lines[i].trim().replace(/\r$/, '');
-        if (!trimmedLine) continue;
-        
-        const speakerMatch = trimmedLine.match(/^;s\[(\d+)\]\s*=\s*(.*)$/);
-        if (speakerMatch) {
-            const lineNumber = +speakerMatch[1];
-            if (lineNumber >= start && lineNumber <= end && translationMap.has(lineNumber)) {
-                const translation = translationMap.get(lineNumber);
-                if (translation.type === 'speaker') {
-                    lines[i] = translation.content;
-                }
+            const speakerId = +speakerMatch[1];
+            if (lastSpeakerId !== null && lastSpeakerId !== speakerId) {
+                processedTranslationLines.push(""); // Add blank line between speakers
             }
-            continue;
+            lastSpeakerId = speakerId;
         }
-        
-        const dialogueMatch = trimmedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
-        if (dialogueMatch) {
-            const lineNumber = +dialogueMatch[1];
-            if (lineNumber >= start && lineNumber <= end && translationMap.has(lineNumber)) {
-                const translation = translationMap.get(lineNumber);
-                if (translation.type === 'dialogue') {
-                    lines[i] = translation.content;
-                }
-            }
-        }
+        processedTranslationLines.push(line);
     }
     
-    const updatedText = lines.join("\n");
+    const updatedLines = [...beforeRange, ...processedTranslationLines, ...afterRange];
+    
+    const updatedText = updatedLines.join("\n");
     await fs.writeFile(join(__dirname, "./regenerated.ain.txt"), updatedText, "utf-8");
 };
 
