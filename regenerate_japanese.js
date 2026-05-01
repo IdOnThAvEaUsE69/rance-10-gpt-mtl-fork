@@ -149,13 +149,16 @@ const main = async () => {
             }
         })
         .concat(allLineRecordsV104)
+        // Deduplicate by lineNumber - v1.04 takes precedence (comes last in concat)
         .reduce((acc, lr) => {
             acc.set(lr.lineNumber, lr);
             return acc;
         }, new Map())
         .values()]
+        // Sort by lineNumber to ensure proper order
+        .sort((a, b) => +a.lineNumber - +b.lineNumber)
         .map(lr => `m[${lr.lineNumber}] = ${JSON.stringify(lr.originalJapaneseLine)}`)
-        .join("\n") + cherryPicksTxt + "\n";
+        .join("\n") + "\n";
 
     console.log("Loading speaker data from Rance10.v1.04.ain.txt...");
     const ainTxt = await fs.readFile("./Rance10.v1.04.ain.txt", "utf-8");

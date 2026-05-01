@@ -5,6 +5,7 @@ import clipboardy from 'clipboardy';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+const nextRange = 2000
 
 // Copy text to clipboard
 const copyToClipboard = async (text) => {
@@ -170,8 +171,13 @@ const main = async () => {
     const parsed = parseAinTxt(text);
     console.log("Loaded. Ready to copy Japanese dialogues.\n");
     
+    let lastEnd = null;
+    
     while (true) {
         console.log("Enter a range (e.g., '65711-65717') or 'quit' to exit:");
+        if (lastEnd !== null) {
+            console.log("(Press Enter for auto-range: " + lastEnd + "-" + (lastEnd + nextRange) + ")");
+        }
         
         const input = await new Promise(resolve => {
             process.stdin.once('data', data => resolve(data.toString().trim()));
@@ -182,20 +188,31 @@ const main = async () => {
             break;
         }
         
-        const rangeMatch = input.match(/^(\d+)-(\d+)$/);
-        if (!rangeMatch) {
-            console.log("Invalid format. Use format: start-end (e.g., 65711-65717)\n");
-            continue;
+        let start, end;
+        
+        if (input === '' && lastEnd !== null) {
+            // Auto-range: use last end as start, add nextRange for end
+            start = lastEnd;
+            end = lastEnd + nextRange;
+        } else {
+            const rangeMatch = input.match(/^(\d+)-(\d+)$/);
+            if (!rangeMatch) {
+                console.log("Invalid format. Use format: start-end (e.g., 65711-65717)\n");
+                continue;
+            }
+            
+            const [, startStr, endStr] = rangeMatch;
+            start = +startStr;
+            end = +endStr;
+            
+            if (start > end) {
+                console.log("Start number must be less than or equal to end number.\n");
+                continue;
+            }
         }
         
-        const [, startStr, endStr] = rangeMatch;
-        const start = +startStr;
-        const end = +endStr;
-        
-        if (start > end) {
-            console.log("Start number must be less than or equal to end number.\n");
-            continue;
-        }
+        // Update lastEnd for next iteration
+        lastEnd = end;
         
         const extracted = extractRange(parsed, start, end);
         
