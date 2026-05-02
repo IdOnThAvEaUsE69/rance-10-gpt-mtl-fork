@@ -95,7 +95,7 @@ const main = async () => {
             console.log(`\nExtracted ${dialogues.length} dialogues from lines ${lineNumber}-${lineNumber + nextRange}:\n`);
             
             // Copy dialogues to clipboard
-            const dialoguesText = dialogues.map(d => `"${d}"`).join('\n');
+            const dialoguesText = dialogues.map(d => `"${d}"`).join('\n\n');
             await copyToClipboard(dialoguesText);
             console.log(`\nCopied ${dialogues.length} dialogues to clipboard!\n`);
         } else {
