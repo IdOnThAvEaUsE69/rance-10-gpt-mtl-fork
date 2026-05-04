@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Grok - Show Last 5 Messages
+// @name         Grok - Keep Last 10 Responses
 // @namespace    burak-tools
-// @version      1.0
-// @description  Shows only the last 5 messages from user and Grok in the conversation
+// @version      2.0
+// @description  Keeps only the last 10 response elements in Grok, deletes older ones
 // @author       Burak
 // @match        https://grok.com/*
 // @run-at       document-idle
@@ -16,97 +16,65 @@
 (function() {
     'use strict';
 
-    // Cross-browser GM_addStyle
-    const addStyle = (css) => {
-        if (typeof GM_addStyle !== 'undefined') {
-            GM_addStyle(css);
-        } else if (typeof GM !== 'undefined' && GM.addStyle) {
-            GM.addStyle(css);
+    // Function to find and delete old response elements
+    function deleteOldResponses() {
+        // Find the last reply container (should never be deleted)
+        const lastReplyContainer = document.getElementById('last-reply-container');
+        if (!lastReplyContainer) return;
+        
+        // Find all response elements in the document
+        const responseElements = document.querySelectorAll('[id^="response-"], [id*="response-"]');
+        const responseArray = Array.from(responseElements);
+        
+        // Find the position of the last reply container in the response array
+        const lastReplyIndex = responseArray.findIndex(el => 
+            el.contains(lastReplyContainer) || 
+            el.id === 'last-reply-container' ||
+            el.querySelector('#last-reply-container')
+        );
+        
+        // Get all responses up to and including the last reply container
+        let responsesToCheck = [];
+        if (lastReplyIndex >= 0) {
+            responsesToCheck = responseArray.slice(0, lastReplyIndex + 1);
         } else {
-            const style = document.createElement('style');
-            style.type = 'text/css';
-            style.textContent = css;
-            document.head.appendChild(style);
-        }
-    };
-
-    // Function to hide old messages and show only last 5
-    function hideOldMessages() {
-        // Find all message containers - Grok uses various selectors
-        const messageSelectors = [
-            '[data-testid="conversation-turn"]',
-            '[data-message-id]',
-            '.message',
-            '[role="presentation"]',
-            'div[class*="message"]',
-            'div[class*="conversation"]'
-        ];
-        
-        let allMessages = [];
-        
-        // Try different selectors to find messages
-        for (const selector of messageSelectors) {
-            const elements = document.querySelectorAll(selector);
-            if (elements.length > 0) {
-                allMessages = Array.from(elements);
-                break;
-            }
+            // If last reply container is not found in response elements, check all
+            responsesToCheck = responseArray;
         }
         
-        // If no messages found with specific selectors, try broader search
-        if (allMessages.length === 0) {
-            // Look for divs that contain typical message content
-            const allDivs = document.querySelectorAll('div');
-            allMessages = Array.from(allDivs).filter(div => {
-                const text = div.textContent || '';
-                // Check if this looks like a message (has substantial text)
-                return text.length > 50 && (
-                    text.includes('Grok') || 
-                    text.includes('User') ||
-                    div.querySelector('[data-testid*="message"]') ||
-                    div.querySelector('[role="presentation"]') ||
-                    div.parentElement?.querySelector('[data-testid="conversation-turn"]')
-                );
-            });
-        }
-        
-        if (allMessages.length > 10) {
-            // Hide all but the last 10 messages (5 user + 5 Grok)
-            const messagesToHide = allMessages.slice(0, -10);
-            const messagesToShow = allMessages.slice(-10);
+        // If we have more than 10 responses, delete the oldest ones
+        if (responsesToCheck.length > 10) {
+            const responsesToDelete = responsesToCheck.slice(0, -10);
             
-            // Hide old messages
-            messagesToHide.forEach(message => {
-                message.style.display = 'none';
-            });
+            console.log(`Found ${responsesToCheck.length} responses, deleting ${responsesToDelete.length} old ones`);
             
-            // Show recent messages
-            messagesToShow.forEach(message => {
-                message.style.display = '';
+            // Delete old response elements
+            responsesToDelete.forEach(response => {
+                try {
+                    response.remove();
+                } catch (error) {
+                    console.error('Error deleting response:', error);
+                }
             });
-            
-            console.log(`Hidden ${messagesToHide.length} old messages, showing ${messagesToShow.length} recent messages`);
         }
     }
 
-    // Function to observe DOM changes
+    // Function to observe for new response elements
     function startObserver() {
         const observer = new MutationObserver((mutations) => {
             let shouldUpdate = false;
             
             mutations.forEach((mutation) => {
                 if (mutation.type === 'childList') {
-                    // Check if new messages were added
+                    // Check if new response elements were added
                     mutation.addedNodes.forEach((node) => {
                         if (node.nodeType === Node.ELEMENT_NODE) {
                             const element = node;
                             if (element.matches && (
-                                element.matches('[data-testid="conversation-turn"]') ||
-                                element.matches('[data-message-id]') ||
-                                element.matches('.message') ||
-                                element.querySelector('[data-testid="conversation-turn"]') ||
-                                element.querySelector('[data-message-id]') ||
-                                element.querySelector('.message')
+                                element.matches('[id^="response-"]') ||
+                                element.matches('[id*="response-"]') ||
+                                element.querySelector('[id^="response-"]') ||
+                                element.querySelector('[id*="response-"]')
                             )) {
                                 shouldUpdate = true;
                             }
@@ -116,8 +84,8 @@
             });
             
             if (shouldUpdate) {
-                // Wait a bit for messages to fully load
-                setTimeout(hideOldMessages, 100);
+                // Wait a bit for responses to fully load
+                setTimeout(deleteOldResponses, 100);
             }
         });
         
@@ -126,15 +94,17 @@
             childList: true,
             subtree: true
         });
+        
+        console.log('Response observer started');
     }
 
     // Initialize the script
     function init() {
-        // Wait a moment for the page to fully load
+        // Wait 60 seconds for the page to fully load
         setTimeout(() => {
-            hideOldMessages();
+            deleteOldResponses();
             startObserver();
-        }, 1000);
+        }, 60000);
     }
 
     // Start the script when the DOM is ready
