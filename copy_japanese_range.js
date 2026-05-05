@@ -233,7 +233,7 @@ const main = async () => {
     while (true) {
         console.log("Enter a range (e.g., '1-1000'), single number (e.g., '1'), or 'quit' to exit:");
         if (lastEnd !== null) {
-            console.log("(Press Enter for auto-range: " + lastEnd + "-" + (lastEnd + nextRange) + ")");
+            console.log("(Press Enter for auto-range: " + (lastEnd + 1) + "-" + (lastEnd + nextRange) + ")");
         }
         
         const input = await new Promise(resolve => {
@@ -248,8 +248,8 @@ const main = async () => {
         let start, end;
         
         if (input === '' && lastEnd !== null) {
-            // Auto-range: use last end as start, add nextRange for end
-            start = lastEnd;
+            // Auto-range: use last end + 1 as start to avoid duplicates, add nextRange for end
+            start = lastEnd + 1;
             end = lastEnd + nextRange;
         } else {
             const rangeMatch = input.match(/^(\d+)-(\d+)$/);
