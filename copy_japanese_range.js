@@ -200,7 +200,7 @@ const parseStrictPairedFormat = (content) => {
         const speakerMatch = trimmedLine.match(/^;s\[(\d+)\]\s*=\s*(.*)$/);
         if (speakerMatch) {
             result.push(trimmedLine);
-            inMyVersionSection = false;
+            // inMyVersionSection = false;
             continue;
         }
         
@@ -208,7 +208,7 @@ const parseStrictPairedFormat = (content) => {
         const dialogueMatch = trimmedLine.match(/^m\[(\d+)\]\s*=\s*(.*)$/);
         if (dialogueMatch) {
             result.push(trimmedLine);
-            inMyVersionSection = false;
+            // inMyVersionSection = false;
             continue;
         }
         
