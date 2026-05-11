@@ -53,19 +53,58 @@ const extractRange = (parsed, start, end) => {
     const result = [];
     let lastSpeaker = null;
     
+    let count = 0;
+    let lastSpeakerCount, firstDialogueCount, hasEncounteredFirstDialogue;
+    let firstSpeaker;
     for (const item of parsed) {
+        count += 1
+        // console.log(item.lineNumber, count)
+        if (item.type === 'dialogue' && item.lineNumber > end) break;
+
+        // console.log(`[${count}] ${item.originalLine}`)
+
         if (item.type === 'dialogue' && item.lineNumber >= start && item.lineNumber <= end) {
             if (lastSpeaker !== null) {
-                result.push(lastSpeaker);
+                if (hasEncounteredFirstDialogue == true)
+                    result.push(lastSpeaker);
+                else
+                    firstSpeaker = lastSpeaker;
                 lastSpeaker = null; // Reset after adding speaker
+            }
+            hasEncounteredFirstDialogue = true
+
+            if (firstDialogueCount == null) {
+                firstDialogueCount = count;
+                // console.log(item.originalLine);
             }
             result.push(item.originalLine);
         } else if (item.type === 'speaker') {
             lastSpeaker = item.originalLine;
+
+            if (hasEncounteredFirstDialogue == null) {
+                lastSpeakerCount = count;
+                // console.log(lastSpeaker);
+            }
         }
     }
+
+    count = 0;
+    const lastSpeakerResult = [];
+    lastSpeakerResult.push(firstSpeaker);
+    for (const item of parsed) {
+        count += 1
+        if (item.type === 'dialogue' && item.lineNumber > end) break;
+
+        if (lastSpeakerCount < count && count < firstDialogueCount) {
+            lastSpeakerResult.push(item.originalLine);
+        }
+    }
+
+    // Log the missing starting lines
+    console.log(`Missing lines: ${lastSpeakerResult.join('\n')}`)
     
-    return result.join('\n');
+    return [...lastSpeakerResult, ...result].join('\n');
+    
 };
 
 // Update regenerated.ain.txt with English translation
