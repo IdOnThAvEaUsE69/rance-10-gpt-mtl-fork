@@ -164,6 +164,54 @@ const updateRegeneratedFile = async (start, end, translationLines) => {
     await fs.writeFile(join(__dirname, "./regenerated.ain.txt"), updatedText, "utf-8");
 };
 
+// Check for missing dialogues in user's provided translations
+const checkMissingDialogues = async (clipboardContent) => {
+    // Parse user's provided translations to get what they actually translated
+    const translationLines = clipboardContent.split('\n').filter(line => line.trim());
+    const providedNumbers = new Set();
+    
+    for (const line of translationLines) {
+        const trimmedLine = line.trim().replace(/^\d+\.\s*/, ''); // Remove number and dot
+        if (!trimmedLine) continue;
+
+        // Now it's m[x] = "..." - Extract the x
+        const mMatch = trimmedLine.match(/^m\[(\d+)\]\s*=\s*".*"$/);
+        if (mMatch) {
+            const mNumber = parseInt(mMatch[1]);
+            providedNumbers.add(mNumber);
+        }
+    }
+
+    // Extract the starting and ending number from clipboardContent
+    const numbers = Array.from(providedNumbers).sort((a, b) => a - b);
+    if (numbers.length === 0) {
+        console.log(`⚠️  No dialogue translations found with m[] numbers in the provided content.\n`);
+        return false;
+    }
+    
+    const start = numbers[0];
+    const end = numbers[numbers.length - 1];
+
+    // Check if providedNumbers has all numbers between start and end
+    const missingNumbers = [];
+    for (let i = start; i <= end; i++) {
+        if (!providedNumbers.has(i)) {
+            missingNumbers.push(i);
+        }
+    }
+    
+    // Log the missing dialogue numbers and return true if no missing dialogues, else false
+    if (missingNumbers.length > 0) {
+        console.log(`⚠️  WARNING: Missing ${missingNumbers.length} dialogue translations in range ${start}-${end}:`);
+        console.log(`Missing numbers: ${missingNumbers.join(', ')}\n`);
+        return false;
+    } else {
+        console.log(`✅ Found ${providedNumbers.size} dialogue translations with m[] numbers: ${Array.from(providedNumbers).join(', ')}`);
+        console.log(`✅ All dialogues in range ${start}-${end} are translated.\n`);
+        return true;
+    }
+};
+
 // Parse strict paired format and ignore useless text
 const parseStrictPairedFormat = (content) => {
     const lines = content.split('\n').filter(line => line.trim());
@@ -310,9 +358,18 @@ const main = async () => {
         
         // Process clipboard content
         if (clipboardContent.trim()) {
+            // Check for missing dialogues before updating
+            console.log("Checking for missing dialogues in range...");
+            const hasAllDialogues = await checkMissingDialogues(clipboardContent);
+            
+            if (!hasAllDialogues) {
+                console.log("Skipping update due to missing dialogues.\n");
+                continue;
+            }
+            
             // Parse strict paired format and ignore useless text
             const parsedTranslations = parseStrictPairedFormat(clipboardContent);
-            console.log("\nUpdating regenerated.ain.txt with English translation...");
+            console.log("Updating regenerated.ain.txt with English translation...");
             await updateRegeneratedFile(start, end, parsedTranslations);
             console.log("Updated regenerated.ain.txt\n");
         } else {
