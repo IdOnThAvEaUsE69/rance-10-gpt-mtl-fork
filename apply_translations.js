@@ -62,10 +62,62 @@ const wrapSegment = (segment, maxLength) => {
     return result.join('\\n');
 };
 
+// Merge lone 」lines into the end of the previous dialogue line.
+// m[N] = "」"  =>  previous line gets 」 appended before its closing quote,
+//                  this line becomes m[N] = ""
+const mergeClosingQuotes = (text) => {
+    const lines = text.split("\n");
+    let lastMLineIdx = -1;
+
+    for (let i = 0; i < lines.length; i++) {
+        const trimmed = lines[i].replace(/\r$/, '').trim();
+        const match = trimmed.match(/^m\[(\d+)\]\s*=\s*"(.*)"$/);
+
+        if (match) {
+            const [, lineNumber, content] = match;
+
+            if (content === '」') {
+                // Only merge if there's a previous m-line to attach to
+                if (lastMLineIdx >= 0) {
+                    const prev = lines[lastMLineIdx].replace(/\r$/, '');
+
+                    // Insert 」 before the closing quote, or append 」" if unclosed
+                    if (prev.endsWith('"')) {
+                        lines[lastMLineIdx] = prev.slice(0, -1) + '」"';
+                    } else {
+                        lines[lastMLineIdx] = prev + '」"';
+                    }
+
+                    lines[i] = `m[${lineNumber}] = ""`;
+                    // Don't update lastMLineIdx — the now-empty line isn't a candidate
+                    // for a future lone 」 to merge into
+                }
+            } else {
+                lastMLineIdx = i;
+            }
+        } else if (trimmed.match(/^m\[\d+\]\s*=/)) {
+            // m-line with an unclosed/non-standard quote — still track it
+            lastMLineIdx = i;
+        }
+        // Comment lines (;s[...]) and blank lines don't update lastMLineIdx,
+        // so a 」 on the next line still reaches back to the last real dialogue
+    }
+
+    return lines.join("\n");
+};
+
 // Read files
-const regeneratedTxt = await fs.readFile(join(__dirname, "./regenerated.ain.txt"), "utf-8");
+let regeneratedTxt = await fs.readFile(join(__dirname, "./regenerated.ain.txt"), "utf-8");
 const regeneratedOriginalTxt = await fs.readFile(join(__dirname, "./regenerated_original.ain.txt"), "utf-8");
 const translatedTxt = await fs.readFile(join(__dirname, "./translated.ain.txt"), "utf-8");
+
+// Merge lone 」lines before any further processing
+const mergedTxt = mergeClosingQuotes(regeneratedTxt);
+if (mergedTxt !== regeneratedTxt) {
+    await fs.writeFile(join(__dirname, "./regenerated.ain.txt"), mergedTxt, "utf-8");
+    console.log("Merged lone 」lines into previous dialogue lines.");
+    regeneratedTxt = mergedTxt; // use the updated content going forward
+}
 
 const regeneratedMap = parseAinTxt(regeneratedTxt);
 const regeneratedOriginalMap = parseAinTxt(regeneratedOriginalTxt);
